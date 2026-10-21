@@ -1,0 +1,129 @@
+{
+  "retrieved_at": "2026-10-02 Asia/Shanghai",
+  "company": "拼多多",
+  "annual_facts_million_cny": {
+    "revenue": [
+      93950,
+      130558,
+      247639,
+      393836,
+      431846
+    ],
+    "gross": [
+      62232,
+      99095,
+      155916,
+      239936,
+      243044
+    ],
+    "op": [
+      6897,
+      30402,
+      58699,
+      108423,
+      93102
+    ],
+    "net": [
+      7769,
+      31538,
+      60027,
+      112435,
+      97843
+    ],
+    "cfo": [
+      28783,
+      48508,
+      94163,
+      121929,
+      106939
+    ],
+    "capex": [
+      3287,
+      635.72,
+      583.88,
+      967.14,
+      1145.077
+    ],
+    "cash": [
+      92943,
+      149439,
+      217210,
+      331560,
+      422308
+    ]
+  },
+  "valuation_assumptions_are_not_facts": {
+    "price": "76.5",
+    "shares": "1.48",
+    "market_shares": "1.423396462",
+    "fx": "0.148475894938456741548009680628349987",
+    "r": ".12",
+    "cf": "75",
+    "adj": "200",
+    "g1": ".05",
+    "g2": ".03",
+    "gt": ".02",
+    "scenarios": [
+      [
+        "悲观",
+        50,
+        -0.03,
+        0,
+        0.15,
+        0,
+        100
+      ],
+      [
+        "中性",
+        75,
+        0.05,
+        0.03,
+        0.12,
+        0.02,
+        200
+      ],
+      [
+        "乐观",
+        90,
+        0.1,
+        0.06,
+        0.11,
+        0.025,
+        300
+      ]
+    ],
+    "eps": "62.2135135135135135135135135135135135",
+    "egrowth": [
+      "-.10",
+      ".05",
+      ".12"
+    ],
+    "pe": [
+      7,
+      11,
+      15
+    ],
+    "div": "0",
+    "divgrowth": "0",
+    "mos": ".30"
+  },
+  "quote": {
+    "price": "76.5",
+    "timestamp": "2026-10-01 16:00 EDT close"
+  },
+  "fx": {
+    "date": "2026-09-30",
+    "CNY_per_HKD": "0.85842",
+    "CNY_per_USD": "6.7351",
+    "source": "https://www.safe.gov.cn/AppStructured/hlw/RMBQuery.do?COLLCC=546877760"
+  },
+  "sources": "See report numbered primary and third party sources. Company news release republishing is not independent confirmation.",
+  "limitations": [
+    "Some latest quarter and ownership figures have one primary source only.",
+    "Tencent standardized operating income, cash and shares differ in definition or date.",
+    "PDD latest half-year capex cannot be assumed zero; TTM database capex stale.",
+    "Arithmetic validation cannot verify future investment return."
+  ],
+  "memory_use": "MEMORY.md 162-174 workflow only; no old financial number reused",
+  "valuation_cash_convention": "DCF现金桥：4564.14亿元现金短投减511.95亿元商家资金储备、1052.19亿元经营合规跨境储备，余3000亿元再折价1/3=2000亿元。4515.70亿元仅为扣租赁的债务诊断；经营现金已含租赁成本，桥不再扣租赁本金。"
+}

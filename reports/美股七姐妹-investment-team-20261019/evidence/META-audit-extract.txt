@@ -1,0 +1,318 @@
+======================================================================
+报告数据抽检清单
+文件：reports/美股七姐妹-investment-team-20261019/05-Meta-META-研究报告.md
+总提取数据点：148  |  抽样比例：15%  |  抽检数量：23
+随机种子：42（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+  7     21  集团收入/营业利润 · 意义                              60.80
+147     59  lysis.com/stocks/meta/revenue/)           2026.00
+  9     67  营业收入 · FY 2024                             164.50
+  8     67  营业收入 · FY 2023                             134.90
+ 23     70  归属普通股净利润 · TTM                              68.10
+ 27     71  经营现金流 CFO · TTM                            130.30
+ 24     71  经营现金流 CFO · FY 2023                         71.11
+ 29     72  现金资本开支 · FY 2024                            37.26
+ 36     74  股权薪酬 SBC · FY 2023                          14.03
+ 51     88  现金CapEx/CFO · 本报告复算                         68.60  %
+ 56    100  减：融资租赁及其他融资本金 · 金额                           3.10
+ 57    101  减：SBC经济成本代理 · 金额                            25.14
+ 58    102  研究现金代理 · 金额                                 12.74
+ 60    113  公开已发行股数（十亿） · 复算结果                           2.55
+ 63    116  总市值/TTM归属利润 · 复算结果                          26.54  倍
+ 71    129  FY 2024 · PS（倍）                              8.99
+ 76    136  AAPL · GAAP PE                              39.39
+109    223  基准 · 后五年收入CAGR                               8.00  %
+108    223  基准 · 前五年收入CAGR                              18.00  %
+115    224  乐观 · 后五年收入CAGR                              10.00  %
+130    264  中性 · 退出EV/NOPAT                             22.00
+140    287  风险稳健性 · 评分/5                                 3.00
+143    303  尚未持有、偏现金流价值 · 行动规则                         475.00
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 7,
+    "label": "集团收入/营业利润 · 意义",
+    "reported_value": 60.8,
+    "unit": "",
+    "line_number": 21,
+    "raw_text": "| 集团收入/营业利润 | 60.801 / 18.775 | 总收入与StockAnalysis的60.80一致 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 147,
+    "label": "lysis.com/stocks/meta/revenue/)",
+    "reported_value": 2026.0,
+    "unit": "",
+    "line_number": 59,
+    "raw_text": "- [B2 StockAnalysis收入](https://stockanalysis.com/stocks/meta/revenue/)：2026-10-19读取，Q2收入60.80十亿美元；与原始60.801差异低于1%。",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 9,
+    "label": "营业收入 · FY 2024",
+    "reported_value": 164.501,
+    "unit": "",
+    "line_number": 67,
+    "raw_text": "| 营业收入 | 134.902 | 164.501 | 200.966 | 228.247 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 8,
+    "label": "营业收入 · FY 2023",
+    "reported_value": 134.902,
+    "unit": "",
+    "line_number": 67,
+    "raw_text": "| 营业收入 | 134.902 | 164.501 | 200.966 | 228.247 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 23,
+    "label": "归属普通股净利润 · TTM",
+    "reported_value": 68.098,
+    "unit": "",
+    "line_number": 70,
+    "raw_text": "| 归属普通股净利润 | 39.098 | 62.360 | 60.458 | 68.098 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 27,
+    "label": "经营现金流 CFO · TTM",
+    "reported_value": 130.301,
+    "unit": "",
+    "line_number": 71,
+    "raw_text": "| 经营现金流 CFO | 71.113 | 91.328 | 115.800 | 130.301 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 24,
+    "label": "经营现金流 CFO · FY 2023",
+    "reported_value": 71.113,
+    "unit": "",
+    "line_number": 71,
+    "raw_text": "| 经营现金流 CFO | 71.113 | 91.328 | 115.800 | 130.301 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 29,
+    "label": "现金资本开支 · FY 2024",
+    "reported_value": 37.256,
+    "unit": "",
+    "line_number": 72,
+    "raw_text": "| 现金资本开支 | 27.045 | 37.256 | 69.691 | 89.325 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 36,
+    "label": "股权薪酬 SBC · FY 2023",
+    "reported_value": 14.027,
+    "unit": "",
+    "line_number": 74,
+    "raw_text": "| 股权薪酬 SBC | 14.027 | 16.690 | 20.427 | 25.136 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 51,
+    "label": "现金CapEx/CFO · 本报告复算",
+    "reported_value": 68.6,
+    "unit": "%",
+    "line_number": 88,
+    "raw_text": "| 现金CapEx/CFO | 68.6% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 56,
+    "label": "减：融资租赁及其他融资本金 · 金额",
+    "reported_value": 3.104,
+    "unit": "",
+    "line_number": 100,
+    "raw_text": "| 减：融资租赁及其他融资本金 | 3.104 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 57,
+    "label": "减：SBC经济成本代理 · 金额",
+    "reported_value": 25.136,
+    "unit": "",
+    "line_number": 101,
+    "raw_text": "| 减：SBC经济成本代理 | 25.136 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 58,
+    "label": "研究现金代理 · 金额",
+    "reported_value": 12.736,
+    "unit": "",
+    "line_number": 102,
+    "raw_text": "| 研究现金代理 | 12.736 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 60,
+    "label": "公开已发行股数（十亿） · 复算结果",
+    "reported_value": 2.547506,
+    "unit": "",
+    "line_number": 113,
+    "raw_text": "| 公开已发行股数（十亿） | 2.547506 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 63,
+    "label": "总市值/TTM归属利润 · 复算结果",
+    "reported_value": 26.54,
+    "unit": "倍",
+    "line_number": 116,
+    "raw_text": "| 总市值/TTM归属利润 | 26.54倍 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 71,
+    "label": "FY 2024 · PS（倍）",
+    "reported_value": 8.99,
+    "unit": "",
+    "line_number": 129,
+    "raw_text": "| FY 2024 | 23.70 | 8.99 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 76,
+    "label": "AAPL · GAAP PE",
+    "reported_value": 39.39,
+    "unit": "",
+    "line_number": 136,
+    "raw_text": "| AAPL | 10.74 | 33.17% | 39.39 | 2.7% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 109,
+    "label": "基准 · 后五年收入CAGR",
+    "reported_value": 8.0,
+    "unit": "%",
+    "line_number": 223,
+    "raw_text": "| 基准 | 18.0% | 8.0% | -3%→3%→10%→17%→23% | 23.0% | 3.0% | 638.96 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 108,
+    "label": "基准 · 前五年收入CAGR",
+    "reported_value": 18.0,
+    "unit": "%",
+    "line_number": 223,
+    "raw_text": "| 基准 | 18.0% | 8.0% | -3%→3%→10%→17%→23% | 23.0% | 3.0% | 638.96 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 115,
+    "label": "乐观 · 后五年收入CAGR",
+    "reported_value": 10.0,
+    "unit": "%",
+    "line_number": 224,
+    "raw_text": "| 乐观 | 22.0% | 10.0% | 1%→8%→16%→24%→28% | 28.0% | 3.0% | 1,006.71 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 130,
+    "label": "中性 · 退出EV/NOPAT",
+    "reported_value": 22.0,
+    "unit": "",
+    "line_number": 264,
+    "raw_text": "| 中性 | 16.0% | 22 | 1,262.55 | 12.2% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 140,
+    "label": "风险稳健性 · 评分/5",
+    "reported_value": 3.0,
+    "unit": "",
+    "line_number": 287,
+    "raw_text": "| 风险稳健性 | 3.0 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 143,
+    "label": "尚未持有、偏现金流价值 · 行动规则",
+    "reported_value": 475.0,
+    "unit": "",
+    "line_number": 303,
+    "raw_text": "| 尚未持有、偏现金流价值 | 优先观察；约475美元以下且投资论文成立时再评估分批买入。 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

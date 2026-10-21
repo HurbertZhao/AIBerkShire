@@ -1,0 +1,279 @@
+======================================================================
+报告数据抽检清单
+文件：reports/快手/快手研究报告-20261020.md
+总提取数据点：130  |  抽样比例：15%  |  抽检数量：20
+随机种子：42（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+  7     29  毛利率 · 2022                                  44.70  %
+  9     29  毛利率 · 2024                                  54.60  %
+  8     29  毛利率 · 2023                                  50.60  %
+ 23     32  经营现金流 · 2023                               207.81  
+ 24     32  经营现金流 · 2024                               297.87  
+ 29     33  固定及无形资产付款/预付款 · 2024                        80.63  
+ 27     33  固定及无形资产付款/预付款 · 2022                        51.00  
+ 36     35  第三方现金与短期投资口径 · 2021                        454.57  
+ 51     64  简单FCF · 滚动十二月计算值                           -18.29  
+ 58     66  再扣租赁付款后的现金 · 2026H1                       -108.16  
+ 56     66  再扣租赁付款后的现金 · 2025                           79.51  
+ 57     66  再扣租赁付款后的现金 · 2025H1                         29.73  
+ 60    218  总市值 · 本文计算                                1261.12  亿港元
+ 63    220  FY2025归母PE · 本文计算                            5.77  倍
+ 71    236  银行借款、优先票据及应计利息 · 金额                        273.62  
+ 72    237  供应商融资安排负债 · 金额                             252.53  
+109    267  减：设备及相关预付资本开支 · 2027可灵100%                  10.00  
+108    267  减：设备及相关预付资本开支 · 2027主业                     140.00  
+115    268  减：新增营运资本占用 · 2036可灵100%                     20.00  
+130    316  空仓，30港元及以下 · 必须满足的条件                        14.00  
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 7,
+    "label": "毛利率 · 2022",
+    "reported_value": 44.7,
+    "unit": "%",
+    "line_number": 29,
+    "raw_text": "| 毛利率 | 42.0% | 44.7% | 50.6% | 54.6% | 55.0% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 9,
+    "label": "毛利率 · 2024",
+    "reported_value": 54.6,
+    "unit": "%",
+    "line_number": 29,
+    "raw_text": "| 毛利率 | 42.0% | 44.7% | 50.6% | 54.6% | 55.0% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 8,
+    "label": "毛利率 · 2023",
+    "reported_value": 50.6,
+    "unit": "%",
+    "line_number": 29,
+    "raw_text": "| 毛利率 | 42.0% | 44.7% | 50.6% | 54.6% | 55.0% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 23,
+    "label": "经营现金流 · 2023",
+    "reported_value": 207.81,
+    "unit": "",
+    "line_number": 32,
+    "raw_text": "| 经营现金流 | -55.19 | 7.95 | 207.81 | 297.87 | 267.16 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 24,
+    "label": "经营现金流 · 2024",
+    "reported_value": 297.87,
+    "unit": "",
+    "line_number": 32,
+    "raw_text": "| 经营现金流 | -55.19 | 7.95 | 207.81 | 297.87 | 267.16 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 29,
+    "label": "固定及无形资产付款/预付款 · 2024",
+    "reported_value": 80.63,
+    "unit": "",
+    "line_number": 33,
+    "raw_text": "| 固定及无形资产付款/预付款 | 77.64 | 51.00 | 48.97 | 80.63 | 149.42 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 27,
+    "label": "固定及无形资产付款/预付款 · 2022",
+    "reported_value": 51.0,
+    "unit": "",
+    "line_number": 33,
+    "raw_text": "| 固定及无形资产付款/预付款 | 77.64 | 51.00 | 48.97 | 80.63 | 149.42 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 36,
+    "label": "第三方现金与短期投资口径 · 2021",
+    "reported_value": 454.57,
+    "unit": "",
+    "line_number": 35,
+    "raw_text": "| 第三方现金与短期投资口径 | 454.57 | 356.20 | 490.18 | 516.40 | 622.56 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 51,
+    "label": "简单FCF · 滚动十二月计算值",
+    "reported_value": -18.29,
+    "unit": "",
+    "line_number": 64,
+    "raw_text": "| 简单FCF | 117.74 | 47.06 | -88.97 | -18.29 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 58,
+    "label": "再扣租赁付款后的现金 · 2026H1",
+    "reported_value": -108.16,
+    "unit": "",
+    "line_number": 66,
+    "raw_text": "| 再扣租赁付款后的现金 | 79.51 | 29.73 | -108.16 | -58.38 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 56,
+    "label": "再扣租赁付款后的现金 · 2025",
+    "reported_value": 79.51,
+    "unit": "",
+    "line_number": 66,
+    "raw_text": "| 再扣租赁付款后的现金 | 79.51 | 29.73 | -108.16 | -58.38 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 57,
+    "label": "再扣租赁付款后的现金 · 2025H1",
+    "reported_value": 29.73,
+    "unit": "",
+    "line_number": 66,
+    "raw_text": "| 再扣租赁付款后的现金 | 79.51 | 29.73 | -108.16 | -58.38 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 60,
+    "label": "总市值 · 本文计算",
+    "reported_value": 1261.12,
+    "unit": "亿港元",
+    "line_number": 218,
+    "raw_text": "| 总市值 | 1,261.12亿港元 | 10月16日价×9月底已发行股数 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 63,
+    "label": "FY2025归母PE · 本文计算",
+    "reported_value": 5.77,
+    "unit": "倍",
+    "line_number": 220,
+    "raw_text": "| FY2025归母PE | 5.77倍 | 历史净利润，尚未包含完整本轮投入 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 71,
+    "label": "银行借款、优先票据及应计利息 · 金额",
+    "reported_value": 273.62,
+    "unit": "",
+    "line_number": 236,
+    "raw_text": "| 银行借款、优先票据及应计利息 | 273.62 | 扣除 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 72,
+    "label": "供应商融资安排负债 · 金额",
+    "reported_value": 252.53,
+    "unit": "",
+    "line_number": 237,
+    "raw_text": "| 供应商融资安排负债 | 252.53 | 扣除，不能藏在其他应付款里 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 109,
+    "label": "减：设备及相关预付资本开支 · 2027可灵100%",
+    "reported_value": 10.0,
+    "unit": "",
+    "line_number": 267,
+    "raw_text": "| 减：设备及相关预付资本开支 | 140 | 10 | 130 | 150 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 108,
+    "label": "减：设备及相关预付资本开支 · 2027主业",
+    "reported_value": 140.0,
+    "unit": "",
+    "line_number": 267,
+    "raw_text": "| 减：设备及相关预付资本开支 | 140 | 10 | 130 | 150 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 115,
+    "label": "减：新增营运资本占用 · 2036可灵100%",
+    "reported_value": 20.0,
+    "unit": "",
+    "line_number": 268,
+    "raw_text": "| 减：新增营运资本占用 | 20 | 5 | 20 | 20 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 130,
+    "label": "空仓，30港元及以下 · 必须满足的条件",
+    "reported_value": 14.0,
+    "unit": "",
+    "line_number": 316,
+    "raw_text": "| 空仓，30港元及以下 | 可考虑小规模、分批研究性建仓 | 接受悲观约14港元的价值情景，核实主业仍自我供血 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

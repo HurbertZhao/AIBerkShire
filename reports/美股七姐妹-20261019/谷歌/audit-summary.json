@@ -1,0 +1,13 @@
+{
+  "sample_count": 12,
+  "artifact_exclusions": 2,
+  "external_and_calculated_checks": 7,
+  "model_assumptions_or_policy": 3,
+  "single_source_limitations": [],
+  "numeric_comparisons_passed": true,
+  "strict_all_facts_dual_source_pass": false,
+  "conclusion": "Sampled numerical checks pass; item5 independently checked at14.1B rounding, exact14.126B relies on SEC. Full historical all-cell dual-source coverage still incomplete.",
+  "rounded_secondary_limitations": [
+    5
+  ]
+}

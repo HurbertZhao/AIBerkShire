@@ -1,0 +1,44 @@
+[
+  {
+    "id": 32,
+    "label": "海外合计收入 · 同比或解释",
+    "reported_value": -11.1,
+    "unit": "%",
+    "line_number": 41,
+    "raw_text": "| 海外合计收入 | 55.93 | 49.72 | 计算值-11.10% |",
+    "fetched_value": "-11.10317327509393105953663061029801925962",
+    "fetched_source": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400544.pdf 区域合计同口径公式",
+    "fetched_value2": null,
+    "fetched_source2": null,
+    "classification": "calculations",
+    "independent_second_source": false
+  },
+  {
+    "id": 82,
+    "label": "TTM经营现金流，亿元人民币 · 数值",
+    "reported_value": 85.25,
+    "unit": "",
+    "line_number": 248,
+    "raw_text": "| TTM经营现金流，亿元人民币 | 85.25 |",
+    "fetched_value": "85.25003",
+    "fetched_source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100395_c.pdf 与 https://www.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400544.pdf 年度减上年半年加本年半年",
+    "fetched_value2": "85.25",
+    "fetched_source2": "https://stockanalysis.com/quote/hkg/9992/financials/cash-flow-statement/",
+    "classification": "calculations",
+    "independent_second_source": true
+  },
+  {
+    "id": 87,
+    "label": "当前PB · 数值",
+    "reported_value": 7.0,
+    "unit": "倍",
+    "line_number": 253,
+    "raw_text": "| 当前PB | 7.00倍 |",
+    "fetched_value": "6.997300070980593107496657273959210068908",
+    "fetched_source": "价格×期末股数×汇率/归母净资产；见市场证据及中报",
+    "fetched_value2": null,
+    "fetched_source2": null,
+    "classification": "calculations",
+    "independent_second_source": false
+  }
+]

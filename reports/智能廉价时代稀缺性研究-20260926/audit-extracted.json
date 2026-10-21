@@ -1,0 +1,246 @@
+{
+  "report_sha256": "319bedf83838e3bedba4927d6fba2cc6c4c0b5bfdba69b6bd65663e6c9f75afb",
+  "seed": 42,
+  "ratio": 0.15,
+  "all_points": [
+    {
+      "id": 1,
+      "label": "一成 · 新总成本占原成本",
+      "reported_value": 90.01,
+      "unit": "%",
+      "raw_text": "| 一成 | 90.010% | 9.990% | 1.111 倍 |",
+      "line_number": 58
+    },
+    {
+      "id": 2,
+      "label": "一成 · 总成本降幅",
+      "reported_value": 9.99,
+      "unit": "%",
+      "raw_text": "| 一成 | 90.010% | 9.990% | 1.111 倍 |",
+      "line_number": 58
+    },
+    {
+      "id": 3,
+      "label": "一成 · 同样预算可购买的完整交付量",
+      "reported_value": 1.111,
+      "unit": "倍",
+      "raw_text": "| 一成 | 90.010% | 9.990% | 1.111 倍 |",
+      "line_number": 58
+    },
+    {
+      "id": 4,
+      "label": "一半 · 新总成本占原成本",
+      "reported_value": 50.05,
+      "unit": "%",
+      "raw_text": "| 一半 | 50.050% | 49.950% | 1.998 倍 |",
+      "line_number": 59
+    },
+    {
+      "id": 5,
+      "label": "一半 · 总成本降幅",
+      "reported_value": 49.95,
+      "unit": "%",
+      "raw_text": "| 一半 | 50.050% | 49.950% | 1.998 倍 |",
+      "line_number": 59
+    },
+    {
+      "id": 6,
+      "label": "一半 · 同样预算可购买的完整交付量",
+      "reported_value": 1.998,
+      "unit": "倍",
+      "raw_text": "| 一半 | 50.050% | 49.950% | 1.998 倍 |",
+      "line_number": 59
+    },
+    {
+      "id": 7,
+      "label": "九成 · 新总成本占原成本",
+      "reported_value": 10.09,
+      "unit": "%",
+      "raw_text": "| 九成 | 10.090% | 89.910% | 9.911 倍 |",
+      "line_number": 60
+    },
+    {
+      "id": 8,
+      "label": "九成 · 总成本降幅",
+      "reported_value": 89.91,
+      "unit": "%",
+      "raw_text": "| 九成 | 10.090% | 89.910% | 9.911 倍 |",
+      "line_number": 60
+    },
+    {
+      "id": 9,
+      "label": "九成 · 同样预算可购买的完整交付量",
+      "reported_value": 9.911,
+      "unit": "倍",
+      "raw_text": "| 九成 | 10.090% | 89.910% | 9.911 倍 |",
+      "line_number": 60
+    },
+    {
+      "id": 10,
+      "label": "九成九 · 新总成本占原成本",
+      "reported_value": 1.099,
+      "unit": "%",
+      "raw_text": "| 九成九 | 1.099% | 98.901% | 90.992 倍 |",
+      "line_number": 61
+    },
+    {
+      "id": 11,
+      "label": "九成九 · 总成本降幅",
+      "reported_value": 98.901,
+      "unit": "%",
+      "raw_text": "| 九成九 | 1.099% | 98.901% | 90.992 倍 |",
+      "line_number": 61
+    },
+    {
+      "id": 12,
+      "label": "九成九 · 同样预算可购买的完整交付量",
+      "reported_value": 90.992,
+      "unit": "倍",
+      "raw_text": "| 九成九 | 1.099% | 98.901% | 90.992 倍 |",
+      "line_number": 61
+    },
+    {
+      "id": 13,
+      "label": "九成九九 · 新总成本占原成本",
+      "reported_value": 0.1999,
+      "unit": "%",
+      "raw_text": "| 九成九九 | 0.1999% | 99.8001% | 500.250 倍 |",
+      "line_number": 62
+    },
+    {
+      "id": 14,
+      "label": "九成九九 · 总成本降幅",
+      "reported_value": 99.8001,
+      "unit": "%",
+      "raw_text": "| 九成九九 | 0.1999% | 99.8001% | 500.250 倍 |",
+      "line_number": 62
+    },
+    {
+      "id": 15,
+      "label": "九成九九 · 同样预算可购买的完整交付量",
+      "reported_value": 500.25,
+      "unit": "倍",
+      "raw_text": "| 九成九九 | 0.1999% | 99.8001% | 500.250 倍 |",
+      "line_number": 62
+    },
+    {
+      "id": 16,
+      "label": "较低：ε = 0.5 · 使用量倍数",
+      "reported_value": 31.623,
+      "unit": "",
+      "raw_text": "| 较低：ε = 0.5 | 31.623 | 0.03162 | 用量大增，收入仍大幅收缩 |",
+      "line_number": 81
+    },
+    {
+      "id": 17,
+      "label": "较低：ε = 0.5 · 收入倍数",
+      "reported_value": 0.03162,
+      "unit": "",
+      "raw_text": "| 较低：ε = 0.5 | 31.623 | 0.03162 | 用量大增，收入仍大幅收缩 |",
+      "line_number": 81
+    },
+    {
+      "id": 18,
+      "label": "临界：ε = 1.0 · 使用量倍数",
+      "reported_value": 1000.0,
+      "unit": "",
+      "raw_text": "| 临界：ε = 1.0 | 1,000 | 1.000 | 用量正好抵消降价 |",
+      "line_number": 82
+    },
+    {
+      "id": 19,
+      "label": "临界：ε = 1.0 · 收入倍数",
+      "reported_value": 1.0,
+      "unit": "",
+      "raw_text": "| 临界：ε = 1.0 | 1,000 | 1.000 | 用量正好抵消降价 |",
+      "line_number": 82
+    },
+    {
+      "id": 20,
+      "label": "较高：ε = 1.5 · 使用量倍数",
+      "reported_value": 31622.777,
+      "unit": "",
+      "raw_text": "| 较高：ε = 1.5 | 31,622.777 | 31.623 | 收入扩张，但利润仍取决于成本与竞争 |",
+      "line_number": 83
+    },
+    {
+      "id": 21,
+      "label": "较高：ε = 1.5 · 收入倍数",
+      "reported_value": 31.623,
+      "unit": "",
+      "raw_text": "| 较高：ε = 1.5 | 31,622.777 | 31.623 | 收入扩张，但利润仍取决于成本与竞争 |",
+      "line_number": 83
+    },
+    {
+      "id": 22,
+      "label": "IEA，2026 年 4 月更新 · 资料实际告诉我们什么",
+      "reported_value": 2025.0,
+      "unit": "",
+      "raw_text": "| IEA，2026 年 4 月更新 | 全球数据中心用电在其口径下从 2025 年约 485 TWh，预计增至 2030 年约 950 TWh | 后一个数字是预测，涵盖全部数据中心；不是已发生的 AI 专属耗电，更不是 2036 年结果",
+      "line_number": 111
+    },
+    {
+      "id": 23,
+      "label": "Berkeley Lab，2026 版并网研究，数据截至 2025 年底 · 资料实际告诉我们什么",
+      "reported_value": 2060.0,
+      "unit": "",
+      "raw_text": "| Berkeley Lab，2026 版并网研究，数据截至 2025 年底 | 美国发电与储能并网排队规模超过 2,060 GW；有数据地区中，2025 年投运项目从申请到投运的中位时长超过五年 | 排队容量不是有效缺口，也不是最终建成量",
+      "line_number": 112
+    },
+    {
+      "id": 24,
+      "label": "《Generative AI at Work》修订稿 · 资料实际告诉我们什么",
+      "reported_value": 5172.0,
+      "unit": "",
+      "raw_text": "| 《Generative AI at Work》修订稿 | 在 5,172 名客服人员样本中，AI 辅助使每小时解决问题数平均提高 15%，不同经验人员效果不同 | 一个企业场景的生产率增幅不是全经济增幅，更不是工资或裁员比例。[S06]",
+      "line_number": 113
+    },
+    {
+      "id": 25,
+      "label": "ILO–NASK，2025 年职业暴露研究 · 不能推出什么",
+      "reported_value": 7.0,
+      "unit": "",
+      "raw_text": "| ILO–NASK，2025 年职业暴露研究 | 全球约四分之一就业处于对生成式 AI 存在某种暴露的职业中 | 暴露不等于失业；该口径也不是针对十年后能力的预测。[S07](https://www.ilo.org/publication",
+      "line_number": 114
+    },
+    {
+      "id": 26,
+      "label": "五年 · 额外租金现值",
+      "reported_value": 37.91,
+      "unit": "",
+      "raw_text": "| 五年 | 37.91 |",
+      "line_number": 411
+    },
+    {
+      "id": 27,
+      "label": "十年 · 额外租金现值",
+      "reported_value": 61.45,
+      "unit": "",
+      "raw_text": "| 十年 | 61.45 |",
+      "line_number": 412
+    },
+    {
+      "id": 28,
+      "label": "研究日期与资料截止",
+      "reported_value": 2026.0,
+      "unit": "",
+      "raw_text": "研究日期与资料截止：2026 年 9 月 26 日（北京时间）\\",
+      "line_number": 3
+    },
+    {
+      "id": 29,
+      "label": "研究区间",
+      "reported_value": 2026.0,
+      "unit": "",
+      "raw_text": "研究区间：2026—2036 年\\",
+      "line_number": 4
+    }
+  ],
+  "sample_ids": [
+    1,
+    4,
+    9,
+    21,
+    24
+  ]
+}

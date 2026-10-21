@@ -1,0 +1,292 @@
+======================================================================
+报告数据抽检清单
+文件：reports/Alibaba/阿里巴巴研究报告-20261020.md
+总提取数据点：135  |  抽样比例：15%  |  抽检数量：21
+随机种子：42（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+  7     24  FY2022 · 简单FCF                             894.50  
+  2     24  FY2022 · 归普通股净利                            619.59  
+  9     25  FY2023 · 归普通股净利                            725.09  
+  8     25  FY2023 · 收入                               8686.87  
+ 27     27  FY2025 · 购建固定资产                            859.72  
+ 23     27  FY2025 · 归普通股净利                           1294.70  
+ 24     27  FY2025 · 毛利率%                               39.95  
+ 29     28  FY2026 · 收入                              10236.70  
+ 36     29  2026June · 收入                             2689.53  
+ 51     44  2025年12月季 · 云分部收入                          432.84  
+ 56     45  2026年3月季 · 云分部收入                           416.26  
+ 57     45  2026年3月季 · 云同比                              38.00  %
+ 58     46  2026年6月季 · 收入                             2689.53  
+ 60     46  2026年6月季 · 归普通股净利                          105.37  
+ 63     58  港股收盘 · 采用值                                 108.80  
+ 71     63  自算TTM PS · 采用值                               1.77  倍
+ 72     64  PB（六月权益基数） · 采用值                             1.76  倍
+109    170  基准 · 第6年至第10年FCFF                         1500.00  
+108    170  基准 · 第1年至第5年FCFF                          -500.00  
+115    183  悲观 · 五年后净利                                 600.00  
+130    185  乐观 · 五年末股价/股                               379.57  
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 7,
+    "label": "FY2022 · 简单FCF",
+    "reported_value": 894.5,
+    "unit": "",
+    "line_number": 24,
+    "raw_text": "| FY2022 | 8,530.62 | 619.59 | 36.76 | 696.38 | 1,427.59 | 533.09 | 894.50 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 2,
+    "label": "FY2022 · 归普通股净利",
+    "reported_value": 619.59,
+    "unit": "",
+    "line_number": 24,
+    "raw_text": "| FY2022 | 8,530.62 | 619.59 | 36.76 | 696.38 | 1,427.59 | 533.09 | 894.50 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 9,
+    "label": "FY2023 · 归普通股净利",
+    "reported_value": 725.09,
+    "unit": "",
+    "line_number": 25,
+    "raw_text": "| FY2023 | 8,686.87 | 725.09 | 36.72 | 1,003.51 | 1,997.52 | 343.30 | 1,654.22 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 8,
+    "label": "FY2023 · 收入",
+    "reported_value": 8686.87,
+    "unit": "",
+    "line_number": 25,
+    "raw_text": "| FY2023 | 8,686.87 | 725.09 | 36.72 | 1,003.51 | 1,997.52 | 343.30 | 1,654.22 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 27,
+    "label": "FY2025 · 购建固定资产",
+    "reported_value": 859.72,
+    "unit": "",
+    "line_number": 27,
+    "raw_text": "| FY2025 | 9,963.47 | 1,294.70 | 39.95 | 1,409.05 | 1,635.09 | 859.72 | 775.37 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 23,
+    "label": "FY2025 · 归普通股净利",
+    "reported_value": 1294.7,
+    "unit": "",
+    "line_number": 27,
+    "raw_text": "| FY2025 | 9,963.47 | 1,294.70 | 39.95 | 1,409.05 | 1,635.09 | 859.72 | 775.37 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 24,
+    "label": "FY2025 · 毛利率%",
+    "reported_value": 39.95,
+    "unit": "",
+    "line_number": 27,
+    "raw_text": "| FY2025 | 9,963.47 | 1,294.70 | 39.95 | 1,409.05 | 1,635.09 | 859.72 | 775.37 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 29,
+    "label": "FY2026 · 收入",
+    "reported_value": 10236.7,
+    "unit": "",
+    "line_number": 28,
+    "raw_text": "| FY2026 | 10,236.70 | 1,059.04 | 39.81 | 501.50 | 762.13 | 1,260.63 | -498.50 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 36,
+    "label": "2026June · 收入",
+    "reported_value": 2689.53,
+    "unit": "",
+    "line_number": 29,
+    "raw_text": "| 2026June | 2,689.53 | 105.37 | 38.24 | 151.61 | 229.45 | 676.78 | -447.33 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 51,
+    "label": "2025年12月季 · 云分部收入",
+    "reported_value": 432.84,
+    "unit": "",
+    "line_number": 44,
+    "raw_text": "| 2025年12月季 | 2848.43 | 106.45 | 163.22 | 432.84 | 36% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 56,
+    "label": "2026年3月季 · 云分部收入",
+    "reported_value": 416.26,
+    "unit": "",
+    "line_number": 45,
+    "raw_text": "| 2026年3月季 | 2433.80 | -8.48 | 254.76 | 416.26 | 38% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 57,
+    "label": "2026年3月季 · 云同比",
+    "reported_value": 38.0,
+    "unit": "%",
+    "line_number": 45,
+    "raw_text": "| 2026年3月季 | 2433.80 | -8.48 | 254.76 | 416.26 | 38% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 58,
+    "label": "2026年6月季 · 收入",
+    "reported_value": 2689.53,
+    "unit": "",
+    "line_number": 46,
+    "raw_text": "| 2026年6月季 | 2689.53 | 151.61 | 105.37 | 484.37 | 45% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 60,
+    "label": "2026年6月季 · 归普通股净利",
+    "reported_value": 105.37,
+    "unit": "",
+    "line_number": 46,
+    "raw_text": "| 2026年6月季 | 2689.53 | 151.61 | 105.37 | 484.37 | 45% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 63,
+    "label": "港股收盘 · 采用值",
+    "reported_value": 108.8,
+    "unit": "",
+    "line_number": 58,
+    "raw_text": "| 港股收盘 | 108.80港元 | StockAnalysis与Webull一致，均标注10月16日 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 71,
+    "label": "自算TTM PS · 采用值",
+    "reported_value": 1.77,
+    "unit": "倍",
+    "line_number": 63,
+    "raw_text": "| 自算TTM PS | 1.77倍 | 收入含毛额确认零售、净额平台及云，不能机械横比 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 72,
+    "label": "PB（六月权益基数） · 采用值",
+    "reported_value": 1.76,
+    "unit": "倍",
+    "line_number": 64,
+    "raw_text": "| PB（六月权益基数） | 1.76倍 | 不是已计入八月增发后更新的账面PB |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 109,
+    "label": "基准 · 第6年至第10年FCFF",
+    "reported_value": 1500.0,
+    "unit": "",
+    "line_number": 170,
+    "raw_text": "| 基准 | -500、-100、500、900、1300 | 1500、1650、1800、1950、2100 | 2.5% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 108,
+    "label": "基准 · 第1年至第5年FCFF",
+    "reported_value": -500.0,
+    "unit": "",
+    "line_number": 170,
+    "raw_text": "| 基准 | -500、-100、500、900、1300 | 1500、1650、1800、1950、2100 | 2.5% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 115,
+    "label": "悲观 · 五年后净利",
+    "reported_value": 600.0,
+    "unit": "",
+    "line_number": 183,
+    "raw_text": "| 悲观 | 300.00 | 600.00 | 1,000.00 | 40.57 | 49.51 | -13.38% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 130,
+    "label": "乐观 · 五年末股价/股",
+    "reported_value": 379.57,
+    "unit": "",
+    "line_number": 185,
+    "raw_text": "| 乐观 | 1,300.00 | 2,300.00 | 4,500.00 | 241.25 | 379.57 | 28.98% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

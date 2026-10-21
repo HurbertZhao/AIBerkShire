@@ -1,0 +1,39 @@
+======================================================================
+[1m报告数据抽检 — 准出/打回判决[0m
+报告：MiniMax facts
+======================================================================
+
+  [92m✅ 通过[0m [ 7] 毛利 · 2025                            报告:        20.08 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0422/2026042202118.pdf: 20.08 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/0100/financials/: 20.08 (偏差 0.00%)
+  [92m✅ 通过[0m [ 8] 毛利 · 2026上半年                         报告:        20.81 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0930/2026093002173.pdf: 20.81 (偏差 0.00%)  |  https://m.etnet.com.hk/www/eng/stocks/realtime/quote_ci_pl.php?code=100: 20.81 (偏差 0.00%)
+  [92m✅ 通过[0m [ 9] 毛利率 · 2023                           报告:       -24.70 %
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1231/2025123100025.pdf: -24.70 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/0100/financials/: -24.57 (偏差 0.54%)
+  [92m✅ 通过[0m [27] CFO · 2026上半年                        报告:      -318.11 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0930/2026093002173.pdf: -318.11 (偏差 0.00%)
+  [92m✅ 通过[0m [23] CFO · 2022                           报告:       -11.02 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1231/2025123100025.pdf: -11.02 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/0100/financials/cash-flow-statement/: -11.02 (偏差 0.01%)
+  [92m✅ 通过[0m [24] CFO · 2023                           报告:       -64.45 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1231/2025123100025.pdf: -64.45 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/0100/financials/cash-flow-statement/: -64.46 (偏差 0.01%)
+  [92m✅ 通过[0m [29] 设备资本支出 · 2023                        报告:         0.70 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1231/2025123100025.pdf: 0.70 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/0100/financials/cash-flow-statement/: 0.70 (偏差 0.43%)
+  [92m✅ 通过[0m [36] 简单FCF · 2025                         报告:      -280.56 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0422/2026042202118.pdf；CFO减设备支出: -280.56 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/0100/financials/cash-flow-statement/: -280.56 (偏差 0.00%)
+  [92m✅ 通过[0m [51] 总收入 · 2026上半年                        报告:       116.57 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0930/2026093002173.pdf: 116.57 (偏差 0.00%)  |  https://www.investing.com/news/stock-market-news/chinas-minimax-sees-revenue-nearly-quadruple-in-first-half-as-ai-demand-surges-4876820: 116.60 (偏差 0.02%)
+  [92m✅ 通过[0m [56] 毛利率 · 2026上半年                        报告:        17.85 %
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0930/2026093002173.pdf: 17.85 (偏差 0.02%)  |  https://m.etnet.com.hk/www/eng/stocks/realtime/quote_ci_pl.php?code=100；毛利/收入: 17.85 (偏差 0.02%)
+  [92m✅ 通过[0m [57] 6月末现金等价物 · 百万美元                      报告:       930.90 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0930/2026093002173.pdf: 930.90 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/0100/financials/balance-sheet/: 930.91 (偏差 0.00%)
+  [92m✅ 通过[0m [58] 一年内定存 · 百万美元                         报告:        14.04 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0930/2026093002173.pdf: 14.04 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/0100/financials/balance-sheet/: 14.04 (偏差 0.01%)
+  [92m✅ 通过[0m [60] 银行借款 · 百万美元                          报告:       133.56 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0930/2026093002173.pdf: 133.56 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/0100/financials/balance-sheet/: 133.56 (偏差 0.00%)
+  [92m✅ 通过[0m [130] 估值 · 结论                              报告:       242.80 
+                                                    https://qt.gtimg.cn/q=hk00100: 242.80 (偏差 0.00%)  |  https://global.hk01.com/财经快讯/60395691/: 242.80 (偏差 0.00%)
+
+----------------------------------------------------------------------
+  抽检总数: 14  |  通过: [92m14[0m  |  警告: [93m0[0m  |  不通过: [91m0[0m
+
+[1m[92m【准出】所有抽检数据通过，报告可发布。[0m
+======================================================================

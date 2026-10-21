@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Report Craft"
+  short_description: "Codex-style investment reports"
+  default_prompt: "Use $investment-memo-craft to create or revise this into a polished Codex investment research report."

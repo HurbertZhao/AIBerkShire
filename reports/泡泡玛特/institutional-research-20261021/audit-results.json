@@ -1,0 +1,335 @@
+[
+  {
+    "id": 27,
+    "label": "华源／10-12 · 2028 利润",
+    "reported_value": 145.19,
+    "unit": "",
+    "line_number": 53,
+    "raw_text": "| 华源／10-12 | — | — | — | 108.67 | 125.88 | 145.19 | 归母 [R09][R09] |",
+    "fetched_value": 145.19,
+    "fetched_source": "https://www.nxny.com/report/view_6497924.html",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "classification": "broker_forecast_transcription",
+    "audit_scope": "摘录与可见来源一致；机构未来预测不是已实现事实"
+  },
+  {
+    "id": 29,
+    "label": "国信／09-14 · 2026 利润",
+    "reported_value": 109.9,
+    "unit": "",
+    "line_number": 54,
+    "raw_text": "| 国信／09-14 | — | — | — | 109.90 | 128.60 | 148.40 | 归母 [R11][R11] |",
+    "fetched_value": 109.9,
+    "fetched_source": "https://www.nxny.com/report/view_6481236.html",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "classification": "broker_forecast_transcription",
+    "audit_scope": "摘录与可见来源一致；机构未来预测不是已实现事实"
+  },
+  {
+    "id": 51,
+    "label": "西部／08-21 · 2026 利润",
+    "reported_value": 97.72,
+    "unit": "",
+    "line_number": 58,
+    "raw_text": "| 西部／08-21 | — | — | — | 97.72 | 118.43 | 138.02 | 归母 [R26][R26] |",
+    "fetched_value": 97.72,
+    "fetched_source": "https://www.nxny.com/report/view_6455907.html",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "classification": "broker_forecast_transcription",
+    "audit_scope": "摘录与可见来源一致；机构未来预测不是已实现事实"
+  },
+  {
+    "id": 56,
+    "label": "平安／08-21 · 2027 利润",
+    "reported_value": 166.9,
+    "unit": "",
+    "line_number": 59,
+    "raw_text": "| 平安／08-21 | — | — | — | 147.90 | 166.90 | 187.70 | 归母；明显较积极 [R25][R25] |",
+    "fetched_value": 166.9,
+    "fetched_source": "https://www.nxny.com/report/view_6455997.html",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "classification": "broker_forecast_transcription",
+    "audit_scope": "摘录与可见来源一致；机构未来预测不是已实现事实"
+  },
+  {
+    "id": 57,
+    "label": "平安／08-21 · 2028 利润",
+    "reported_value": 187.7,
+    "unit": "",
+    "line_number": 59,
+    "raw_text": "| 平安／08-21 | — | — | — | 147.90 | 166.90 | 187.70 | 归母；明显较积极 [R25][R25] |",
+    "fetched_value": 187.7,
+    "fetched_source": "https://www.nxny.com/report/view_6455997.html",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "classification": "broker_forecast_transcription",
+    "audit_scope": "摘录与可见来源一致；机构未来预测不是已实现事实"
+  },
+  {
+    "id": 60,
+    "label": "招商／08-23 · 2027 利润",
+    "reported_value": 128.7,
+    "unit": "",
+    "line_number": 60,
+    "raw_text": "| 招商／08-23 | — | — | — | 109.10 | 128.70 | 144.20 | **经调整**，另列 [R21][R21] |",
+    "fetched_value": 128.7,
+    "fetched_source": "https://www.nxny.com/report/view_6456403.html",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "classification": "broker_adjusted_profit_forecast_transcription",
+    "audit_scope": "摘录与可见来源一致；机构未来预测不是已实现事实"
+  },
+  {
+    "id": 63,
+    "label": "群益／08-21 · 2027 利润",
+    "reported_value": 169.5,
+    "unit": "",
+    "line_number": 61,
+    "raw_text": "| 群益／08-21 | — | — | — | 140.00 | 169.50 | 193.50 | 摘要称净利润，归属口径待核 [R24][R24] |",
+    "fetched_value": 169.5,
+    "fetched_source": "https://www.nxny.com/report/view_6456098.html",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "classification": "broker_forecast_definition_unresolved",
+    "audit_scope": "摘录与可见来源一致；机构未来预测不是已实现事实"
+  },
+  {
+    "id": 71,
+    "label": "经调整净利润 · 2025 全年",
+    "reported_value": 130.84,
+    "unit": "",
+    "line_number": 77,
+    "raw_text": "| 经调整净利润 | 130.84 | 47.10 | 51.56 |",
+    "fetched_value": 130.83646,
+    "fetched_source": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0325/2026032500285.pdf",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "classification": "issuer_reported_fact",
+    "audit_scope": "摘录与可见来源一致；机构未来预测不是已实现事实"
+  },
+  {
+    "id": 108,
+    "label": "全球运营成功 · 十年归母利润 CAGR",
+    "reported_value": 13.04,
+    "unit": "%",
+    "line_number": 121,
+    "raw_text": "| 全球运营成功 | 1000 | 320 | 32.00% | 11.19% | 13.04% |",
+    "fetched_value": 13.03630714041666,
+    "fetched_source": "Decimal: (320/93.96592)^(1/10)-1",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "classification": "author_assumption_arithmetic",
+    "audit_scope": "仅核验运算，不验证情景发生概率"
+  },
+  {
+    "id": 1001,
+    "label": "2026H1营业收入",
+    "reported_value": 171.73,
+    "fetched_value": 171.72921,
+    "fetched_source": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000354_c.pdf",
+    "classification": "issuer_reported_fact",
+    "audit_scope": "人工定向补检；预测仅检查摘录，不保证实现"
+  },
+  {
+    "id": 1002,
+    "label": "2026H1归母利润",
+    "reported_value": 50.38,
+    "fetched_value": 50.38384,
+    "fetched_source": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000354_c.pdf",
+    "classification": "issuer_reported_fact",
+    "audit_scope": "人工定向补检；预测仅检查摘录，不保证实现"
+  },
+  {
+    "id": 1003,
+    "label": "2026H1海外收入",
+    "reported_value": 49.72,
+    "fetched_value": 49.72412,
+    "fetched_source": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000354_c.pdf",
+    "classification": "issuer_reported_fact",
+    "audit_scope": "人工定向补检；预测仅检查摘录，不保证实现"
+  },
+  {
+    "id": 1004,
+    "label": "2026H1海外分部利润",
+    "reported_value": 15.08,
+    "fetched_value": 15.08492,
+    "fetched_source": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000354_c.pdf",
+    "classification": "issuer_reported_fact",
+    "audit_scope": "人工定向补检；预测仅检查摘录，不保证实现"
+  },
+  {
+    "id": 1005,
+    "label": "2025H1海外分部利润",
+    "reported_value": 24.65,
+    "fetched_value": 24.6451,
+    "fetched_source": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000354_c.pdf",
+    "classification": "issuer_reported_fact",
+    "audit_scope": "人工定向补检；预测仅检查摘录，不保证实现"
+  },
+  {
+    "id": 1006,
+    "label": "2026H1经营现金流",
+    "reported_value": 36.37,
+    "fetched_value": 36.37324,
+    "fetched_source": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000354_c.pdf",
+    "classification": "issuer_reported_fact",
+    "audit_scope": "人工定向补检；预测仅检查摘录，不保证实现"
+  },
+  {
+    "id": 1007,
+    "label": "2026年中库存",
+    "reported_value": 61.02,
+    "fetched_value": 61.0153,
+    "fetched_source": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000354_c.pdf",
+    "classification": "issuer_reported_fact",
+    "audit_scope": "人工定向补检；预测仅检查摘录，不保证实现"
+  },
+  {
+    "id": 1008,
+    "label": "2025年末库存",
+    "reported_value": 54.73,
+    "fetched_value": 54.72839,
+    "fetched_source": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000354_c.pdf",
+    "classification": "issuer_reported_fact",
+    "audit_scope": "人工定向补检；预测仅检查摘录，不保证实现"
+  },
+  {
+    "id": 1009,
+    "label": "高盛9月天猫抖音同比",
+    "reported_value": -44.0,
+    "fetched_value": -44.0,
+    "fetched_source": "https://hk.warrants.com/sc/stock/news-inside/nfid/27295/nsid/8/title/%E3%80%8A%E5%A4%A7%E8%A1%8C%E3%80%8B%E9%AB%98%E7%9B%9B%EF%BC%9A%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%40open09992.HK%40close9%E6%9C%88%E7%BA%BF%E4%B8%8A%E9%94%80%E5%94%AE%E8%B7%8C%E5%B9%85%E5%8A%A0%E6%B7%B1%20%20%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%40open09896.HK%40close%E7%AC%AC%E4%B8%89%E5%AD%A3GMV%E5%BC%BA%E5%8A%B2%20%20%E5%B8%83%E9%B2%81%E5%8F%AF%40open00325.HK%40close%E7%BA%BF%E4%B8%8A%E5%8A%A0%E9%80%9F",
+    "classification": "channel_sample_transcription",
+    "audit_scope": "人工定向补检；预测仅检查摘录，不保证实现"
+  },
+  {
+    "id": 1010,
+    "label": "高盛第三季美国支付样本同比",
+    "reported_value": -58.0,
+    "fetched_value": -58.0,
+    "fetched_source": "https://hk.warrants.com/sc/stock/news-inside/nfid/27295/nsid/8/title/%E3%80%8A%E5%A4%A7%E8%A1%8C%E3%80%8B%E9%AB%98%E7%9B%9B%EF%BC%9A%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%40open09992.HK%40close9%E6%9C%88%E7%BA%BF%E4%B8%8A%E9%94%80%E5%94%AE%E8%B7%8C%E5%B9%85%E5%8A%A0%E6%B7%B1%20%20%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%40open09896.HK%40close%E7%AC%AC%E4%B8%89%E5%AD%A3GMV%E5%BC%BA%E5%8A%B2%20%20%E5%B8%83%E9%B2%81%E5%8F%AF%40open00325.HK%40close%E7%BA%BF%E4%B8%8A%E5%8A%A0%E9%80%9F",
+    "classification": "channel_sample_transcription",
+    "audit_scope": "人工定向补检；预测仅检查摘录，不保证实现"
+  },
+  {
+    "id": 1011,
+    "label": "花旗Q3收入预测同比",
+    "reported_value": -35.0,
+    "fetched_value": -35.0,
+    "fetched_source": "https://www.aastocks.com/sc/%28Z%28%40%4078XMF%3D%40%40Vbm37%29%29/mobile/News.aspx?NewsID=NOW.1549413&NewsSource=HK6&NewsType=",
+    "classification": "broker_forecast_transcription",
+    "audit_scope": "人工定向补检；预测仅检查摘录，不保证实现"
+  },
+  {
+    "id": 1012,
+    "label": "花旗Q4收入预测同比",
+    "reported_value": -17.0,
+    "fetched_value": -17.0,
+    "fetched_source": "https://www.aastocks.com/sc/%28Z%28%40%4078XMF%3D%40%40Vbm37%29%29/mobile/News.aspx?NewsID=NOW.1549413&NewsSource=HK6&NewsType=",
+    "classification": "broker_forecast_transcription",
+    "audit_scope": "人工定向补检；预测仅检查摘录，不保证实现"
+  },
+  {
+    "id": 1013,
+    "label": "高盛当时目标价港元",
+    "reported_value": 139.5,
+    "fetched_value": 139.5,
+    "fetched_source": "https://hk.warrants.com/sc/stock/news-inside/nfid/27295/nsid/8/title/%E3%80%8A%E5%A4%A7%E8%A1%8C%E3%80%8B%E9%AB%98%E7%9B%9B%EF%BC%9A%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%40open09992.HK%40close9%E6%9C%88%E7%BA%BF%E4%B8%8A%E9%94%80%E5%94%AE%E8%B7%8C%E5%B9%85%E5%8A%A0%E6%B7%B1%20%20%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%40open09896.HK%40close%E7%AC%AC%E4%B8%89%E5%AD%A3GMV%E5%BC%BA%E5%8A%B2%20%20%E5%B8%83%E9%B2%81%E5%8F%AF%40open00325.HK%40close%E7%BA%BF%E4%B8%8A%E5%8A%A0%E9%80%9F",
+    "classification": "dated_broker_target",
+    "audit_scope": "人工定向补检；预测仅检查摘录，不保证实现"
+  },
+  {
+    "id": 1014,
+    "label": "花旗当时目标价港元",
+    "reported_value": 198.0,
+    "fetched_value": 198.0,
+    "fetched_source": "https://www.aastocks.com/sc/%28Z%28%40%4078XMF%3D%40%40Vbm37%29%29/mobile/News.aspx?NewsID=NOW.1549413&NewsSource=HK6&NewsType=",
+    "classification": "dated_broker_target",
+    "audit_scope": "人工定向补检；预测仅检查摘录，不保证实现"
+  },
+  {
+    "id": 1015,
+    "label": "长城2028归母预测",
+    "reported_value": 166.52,
+    "fetched_value": 166.52,
+    "fetched_source": "https://www.nxny.com/report/view_6461302.html",
+    "classification": "broker_forecast_transcription",
+    "audit_scope": "人工定向补检；预测仅检查摘录，不保证实现"
+  },
+  {
+    "id": 2001,
+    "label": "压力2026收入",
+    "reported_value": 322.81,
+    "fetched_value": 322.813754,
+    "fetched_source": "171.72921 + 232.43776*(1+H2增速假设)",
+    "classification": "author_assumption_arithmetic"
+  },
+  {
+    "id": 2002,
+    "label": "压力2026归母利润",
+    "reported_value": 83.62,
+    "fetched_value": 83.62243968,
+    "fetched_source": "50.38384 + H2收入假设*H2归母净利率假设",
+    "classification": "author_assumption_arithmetic"
+  },
+  {
+    "id": 2003,
+    "label": "基准2026收入",
+    "reported_value": 346.06,
+    "fetched_value": 346.05753,
+    "fetched_source": "171.72921 + 232.43776*(1+H2增速假设)",
+    "classification": "author_assumption_arithmetic"
+  },
+  {
+    "id": 2004,
+    "label": "基准2026归母利润",
+    "reported_value": 93.97,
+    "fetched_value": 93.96592,
+    "fetched_source": "50.38384 + H2收入假设*H2归母净利率假设",
+    "classification": "author_assumption_arithmetic"
+  },
+  {
+    "id": 2005,
+    "label": "修复较快2026收入",
+    "reported_value": 369.3,
+    "fetched_value": 369.301306,
+    "fetched_source": "171.72921 + 232.43776*(1+H2增速假设)",
+    "classification": "author_assumption_arithmetic"
+  },
+  {
+    "id": 2006,
+    "label": "修复较快2026归母利润",
+    "reported_value": 105.7,
+    "fetched_value": 105.70402688,
+    "fetched_source": "50.38384 + H2收入假设*H2归母净利率假设",
+    "classification": "author_assumption_arithmetic"
+  },
+  {
+    "id": 2007,
+    "label": "星星人占集团增量比例",
+    "reported_value": 68.57,
+    "fetched_value": 68.57292793127559,
+    "fetched_source": "两期IP及集团收入差额；F01",
+    "classification": "author_assumption_arithmetic"
+  },
+  {
+    "id": 2008,
+    "label": "海外分部利润同比",
+    "reported_value": -38.79,
+    "fetched_value": -38.791402753488526,
+    "fetched_source": "两期海外分部利润；F01",
+    "classification": "author_assumption_arithmetic"
+  },
+  {
+    "id": 2009,
+    "label": "2026H1资本开支及租赁后现金",
+    "reported_value": 24.1,
+    "fetched_value": 24.10296,
+    "fetched_source": "CFO-PPE支出-无形资产支出-租赁付款；F01",
+    "classification": "author_assumption_arithmetic"
+  }
+]

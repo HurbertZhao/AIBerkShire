@@ -1,0 +1,74 @@
+{
+  "price_hkd": "182.10",
+  "price_date": "2026-10-16",
+  "shares": "352480183",
+  "share_date": "2026-09-30",
+  "usd_hkd": "7.8478",
+  "fx_type": "Oct16 market reference, not executable rate",
+  "equity_required_return": ".20",
+  "horizon_years": 10,
+  "scenarios": {
+    "bear": {
+      "revenue_bn": "2",
+      "net_margin": ".05",
+      "exit_pe": "15",
+      "current_holder_retention": ".50"
+    },
+    "base": {
+      "revenue_bn": "8",
+      "net_margin": ".16",
+      "exit_pe": "25",
+      "current_holder_retention": ".70"
+    },
+    "bull": {
+      "revenue_bn": "20",
+      "net_margin": ".22",
+      "exit_pe": "30",
+      "current_holder_retention": ".80"
+    }
+  },
+  "base_path": {
+    "revenue_bn": [
+      ".8",
+      "1.6",
+      "2.6",
+      "3.7",
+      "4.8",
+      "5.7",
+      "6.4",
+      "7",
+      "7.5",
+      "8"
+    ],
+    "gross_margin": [
+      ".25",
+      ".32",
+      ".38",
+      ".43",
+      ".47",
+      ".50",
+      ".52",
+      ".53",
+      ".54",
+      ".55"
+    ],
+    "R_and_D_bn": [
+      ".75",
+      "1.05",
+      "1.35",
+      "1.6",
+      "1.75",
+      "1.8",
+      "1.85",
+      "1.8",
+      "1.78",
+      "1.76"
+    ],
+    "SG_and_A_ratio": ".13",
+    "tax_rate": ".20",
+    "depreciation_ratio": ".04",
+    "cash_capex_ratio": ".05",
+    "annual_added_working_capital_cash_as_share_of_current_revenue": ".01"
+  },
+  "contract": "Nominal USD equity exit valuation, paired with required equity return. No interim dividends; retained cash finances growth. SBC retained as economic compensation; future holder-retention factor covers external financing and bond conversion only, not a second SBC haircut. No net cash added to exit valuation. Negative funding proxy is diagnostic, not additionally subtracted from valuation. Terminal earnings are assumed after all finance expense with no material net debt at exit. Future financing terms unknown."
+}

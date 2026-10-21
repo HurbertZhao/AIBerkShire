@@ -1,0 +1,164 @@
+{
+  "price_usd_per_ads": "20.15",
+  "price_date": "2026-10-20 (NYSE close, StockAnalysis history; Yahoo chart 20.16)",
+  "hk_price_hkd": "39.50",
+  "hk_price_date": "2026-10-16 (HKEX 2518 close via Yahoo; 10-19 HK holiday)",
+  "usd_cny": "6.6909",
+  "usd_cny_date": "2026-10-19 Yahoo CNY=X close (market reference, single source)",
+  "usd_hkd": "7.8472",
+  "noon_buying_rate_20260630": "6.7851",
+  "shares_20260331": "460683644",
+  "ads_buyback_march_program_total": "10627269",
+  "ads_buyback_march_program_by_0522": "3465236",
+  "ads_buyback_new_program_by_0814": "1895093",
+  "usd_spent_march_program_by_0522_m": "62.3",
+  "usd_march_program_total_m": "200",
+  "usd_spent_new_program_by_0814_m": "43.6",
+  "bs_20260630": {
+    "cash": "2495.814",
+    "restricted_cash_current": "76.276",
+    "restricted_cash_noncurrent": "5.000",
+    "short_term_investments": "15659.096",
+    "other_long_term_investments": "1209.698",
+    "long_term_equity_investments": "386.511",
+    "dividends_payable": "489.821",
+    "mezzanine_TTP_redeemable_NCI": "2220.070",
+    "total_liabilities": "3512.527"
+  },
+  "operating_cash_buffer": "1500",
+  "quarters": {
+    "Q3_2025": {
+      "revenue": "1778.1",
+      "op_profit": "147.0",
+      "ni_autohome": "436.6",
+      "ni_ordinary": "419.4",
+      "cfo": "66.6",
+      "interest_inv_income": "161.814",
+      "equity_method": "132.685"
+    },
+    "Q4_2025": {
+      "revenue": "1461.998",
+      "op_profit": "92.259",
+      "ni_autohome": "233.893",
+      "ni_ordinary": "226.409",
+      "cfo": "193.2",
+      "interest_inv_income": "155.802",
+      "equity_method": "-17.957"
+    },
+    "Q1_2026": {
+      "revenue": "1048.4",
+      "op_profit": "-34.4",
+      "ni_autohome": "44.3",
+      "ni_ordinary": "44.3",
+      "cfo": "-143.0",
+      "interest_inv_income": "142.137",
+      "equity_method": "-55.548"
+    },
+    "Q2_2026": {
+      "revenue": "1198.010",
+      "op_profit": "129.980",
+      "ni_autohome": "247.810",
+      "ni_ordinary": "247.810",
+      "cfo": "261.2",
+      "interest_inv_income": "132.868",
+      "equity_method": "0.042"
+    }
+  },
+  "fy": {
+    "2021": {
+      "revenue": "7237.004",
+      "op_profit": "1781.612",
+      "ni_autohome": "2248.785",
+      "cfo": "3523.934",
+      "capex": "218.798"
+    },
+    "2022": {
+      "revenue": "6940.828",
+      "op_profit": "1247.522",
+      "ni_autohome": "1855.174",
+      "cfo": "2565.075",
+      "capex": "116.503"
+    },
+    "2023": {
+      "revenue": "7184.135",
+      "op_profit": "1137.425",
+      "ni_autohome": "1935.310",
+      "cfo": "2451.429",
+      "capex": "78.567"
+    },
+    "2024": {
+      "revenue": "7039.587",
+      "op_profit": "1003.497",
+      "ni_autohome": "1681.123",
+      "cfo": "1373.135",
+      "capex": "139.996"
+    },
+    "2025": {
+      "revenue": "6452.030",
+      "op_profit": "769.287",
+      "ni_autohome": "1442.830",
+      "cfo": "889.462",
+      "capex": "118.057",
+      "dividends_paid": "1481.245",
+      "buyback_paid": "1051.983"
+    }
+  },
+  "r": "0.09",
+  "r_note": "CNY cash flows; top of CNY 6%-9% band to reflect ADR/VIE/controller risk qualitatively; discrete risks handled as scenarios, not in r",
+  "scenarios": {
+    "bear": {
+      "prob": "0.30",
+      "op_fcf_bn": [
+        "-0.4",
+        "-0.4",
+        "-0.3",
+        "-0.2",
+        "-0.1",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "g": "0",
+      "cash_misallocation_bn": "3.0"
+    },
+    "base": {
+      "prob": "0.50",
+      "op_fcf_bn": [
+        "0.25",
+        "0.30",
+        "0.35",
+        "0.40",
+        "0.45",
+        "0.50",
+        "0.50",
+        "0.50",
+        "0.50",
+        "0.50"
+      ],
+      "g": "0",
+      "cash_misallocation_bn": "0"
+    },
+    "bull": {
+      "prob": "0.20",
+      "op_fcf_bn": [
+        "0.5",
+        "0.7",
+        "0.9",
+        "1.0",
+        "1.1",
+        "1.2",
+        "1.25",
+        "1.3",
+        "1.35",
+        "1.4"
+      ],
+      "g": "0.02",
+      "cash_misallocation_bn": "0"
+    }
+  },
+  "scenario_definition": "Unlevered operating FCF 2027-2036, RMB bn, after cash tax, after economic SBC, capex and lease; EXCLUDES interest/investment income (cash is valued at book in the bridge). Bear adds a one-off 3.0bn haircut for cash consumed by low-return offline retail / related-party use.",
+  "cash_yield_after_tax": "0.017",
+  "ten_year_payout_k": "0.06"
+}

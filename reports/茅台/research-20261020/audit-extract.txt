@@ -1,0 +1,175 @@
+======================================================================
+报告数据抽检清单
+文件：reports/茅台/茅台研究报告-20261020.md
+总提取数据点：80  |  抽样比例：15%  |  抽检数量：12
+随机种子：42（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+ 79      8  研究与资料截止                                   2026.00  
+  4     38  2026H1 · 营业利润率                              67.71  %
+  5     38  2026H1 · CFO                               706.91  
+ 12     48  系列酒 · 2026H1收入                             129.34  
+ 15     49  直销 · 2026H1收入                              519.62  
+ 14     49  直销 · 2025年收入                               845.43  
+ 18     51  i茅台 · 2026H1收入                             402.64  
+ 29     66  客户贷款及垫款净增额 · 2026H1                        -11.70  
+ 32     67  央行及同业款项净增额 · 2026H1                       -218.95  
+ 36     69  剔除以上本金流动后的经营现金流代理 · 2025全年                 777.21  
+ 55    218  悲观 · 三年后净利                                 771.78  
+ 70    220  乐观 · 五年末股价                                2300.03  
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 79,
+    "label": "研究与资料截止",
+    "reported_value": 2026.0,
+    "unit": "",
+    "line_number": 8,
+    "raw_text": "研究与资料截止：2026年10月20日北京时间凌晨；价格采用10月19日A股正规收盘1,324.97元。最近完整财务资料为2025年年报与2026年半年报；本次检查公司财报目录，未发现已公布的2026年三季报。按最近已核验总股本计算，市值1",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 4,
+    "label": "2026H1 · 营业利润率",
+    "reported_value": 67.71,
+    "unit": "%",
+    "line_number": 38,
+    "raw_text": "| 2026H1 | 907.03 | 445.17 | 89.56% | 67.71% | 706.91 | 8.32 | 698.59 | 1,848.11 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 5,
+    "label": "2026H1 · CFO",
+    "reported_value": 706.91,
+    "unit": "",
+    "line_number": 38,
+    "raw_text": "| 2026H1 | 907.03 | 445.17 | 89.56% | 67.71% | 706.91 | 8.32 | 698.59 | 1,848.11 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 12,
+    "label": "系列酒 · 2026H1收入",
+    "reported_value": 129.34,
+    "unit": "",
+    "line_number": 48,
+    "raw_text": "| 系列酒 | 222.75 | 129.34 | 半年同比下降6.02%，面对更广泛的价格竞争 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 15,
+    "label": "直销 · 2026H1收入",
+    "reported_value": 519.62,
+    "unit": "",
+    "line_number": 49,
+    "raw_text": "| 直销 | 845.43 | 519.62 | 与下面批发是另一分类，不可再与产品收入相加 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 14,
+    "label": "直销 · 2025年收入",
+    "reported_value": 845.43,
+    "unit": "",
+    "line_number": 49,
+    "raw_text": "| 直销 | 845.43 | 519.62 | 与下面批发是另一分类，不可再与产品收入相加 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 18,
+    "label": "i茅台 · 2026H1收入",
+    "reported_value": 402.64,
+    "unit": "",
+    "line_number": 51,
+    "raw_text": "| i茅台 | 见年报分项 | 402.64 | 属于直销子集，占半年营业收入44.39% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 29,
+    "label": "客户贷款及垫款净增额 · 2026H1",
+    "reported_value": -11.7,
+    "unit": "",
+    "line_number": 66,
+    "raw_text": "| 客户贷款及垫款净增额 | -8.48 | -2.55 | -11.70 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 32,
+    "label": "央行及同业款项净增额 · 2026H1",
+    "reported_value": -218.95,
+    "unit": "",
+    "line_number": 67,
+    "raw_text": "| 央行及同业款项净增额 | 128.47 | 254.11 | -218.95 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 36,
+    "label": "剔除以上本金流动后的经营现金流代理 · 2025全年",
+    "reported_value": 777.21,
+    "unit": "",
+    "line_number": 69,
+    "raw_text": "| 剔除以上本金流动后的经营现金流代理 | 777.21 | 386.92 | 393.42 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 55,
+    "label": "悲观 · 三年后净利",
+    "reported_value": 771.78,
+    "unit": "",
+    "line_number": 218,
+    "raw_text": "| 悲观 | 771.78 | 741.22 | 670.00 | 830.11 | 200.73 | -4.90% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 70,
+    "label": "乐观 · 五年末股价",
+    "reported_value": 2300.03,
+    "unit": "",
+    "line_number": 220,
+    "raw_text": "| 乐观 | 1,004.54 | 1,150.09 | 1,613.06 | 2,300.03 | 322.90 | +14.63% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

@@ -1,0 +1,357 @@
+======================================================================
+报告数据抽检清单
+文件：/workspace/scratch/351726a27bf6/ai-berkshire/reports/美股七姐妹-20261019/英伟达/英伟达投资研究报告-20261019.md
+总提取数据点：172  |  抽样比例：15%  |  抽检数量：26
+随机种子：42（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+  7     23  FY2022 · 现金等价物                            1990.00
+  8     23  FY2022 · 现金+有价证券                         21208.00
+  9     24  FY2023 · 收入                              26974.00
+ 23     25  FY2024 · 现金等价物                            7280.00
+ 24     25  FY2024 · 现金+有价证券                         25984.00
+ 29     26  FY2025 · 营业利润率                              62.42  %
+ 27     26  FY2025 · 毛利率                                74.99  %
+ 36     27  FY2026 · GAAP营业利润                       130387.00
+ 51     38  FY26Q4 · 分部同比                               96.54  %
+ 58     39  FY27Q1 · 全公司GAAP毛利率                         74.90  %
+ 56     39  FY27Q1 · 图形收入                             7065.00
+ 57     39  FY27Q1 · 分部同比                               57.95  %
+ 63     40  FY27Q2 · 分部同比                               46.38  %
+ 60     40  FY27Q2 · 计算与网络收入                         88299.00
+ 71     53  现金等价物 · 本报告采用值                           22443.00
+ 72     54  有价债券 · 本报告采用值                            34143.00
+108    182  PS · 口径                                 302970.00
+109    183  PB · 结果                                     22.58  倍
+115    187  第三方PEG · 结果                                  0.35  倍
+130    206  基准 · 按10%折回今日                              265.50
+140    223  悲观 · 概率                                     25.00  %
+144    223  悲观 · 退出PE                                   10.83  倍
+152    224  基准 · 终值市值（十亿美元）                           7928.57
+164    232  r=9%（-1pp） · 相对资本成本                         -4.13
+170    235  r=12%（+2pp） · 相对资本成本                       -11.27
+172    264  空仓者 · 建议                                   214.13
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 7,
+    "label": "FY2022 · 现金等价物",
+    "reported_value": 1990.0,
+    "unit": "",
+    "line_number": 23,
+    "raw_text": "| FY2022 | 26,914 | 9,752 | 64.93% | 10,041 | 37.31% | 8,132 | 1,990 | 21,208 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 8,
+    "label": "FY2022 · 现金+有价证券",
+    "reported_value": 21208.0,
+    "unit": "",
+    "line_number": 23,
+    "raw_text": "| FY2022 | 26,914 | 9,752 | 64.93% | 10,041 | 37.31% | 8,132 | 1,990 | 21,208 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 9,
+    "label": "FY2023 · 收入",
+    "reported_value": 26974.0,
+    "unit": "",
+    "line_number": 24,
+    "raw_text": "| FY2023 | 26,974 | 4,368 | 56.93% | 4,224 | 15.66% | 3,808 | 3,389 | 13,296 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 23,
+    "label": "FY2024 · 现金等价物",
+    "reported_value": 7280.0,
+    "unit": "",
+    "line_number": 25,
+    "raw_text": "| FY2024 | 60,922 | 29,760 | 72.72% | 32,972 | 54.12% | 27,021 | 7,280 | 25,984 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 24,
+    "label": "FY2024 · 现金+有价证券",
+    "reported_value": 25984.0,
+    "unit": "",
+    "line_number": 25,
+    "raw_text": "| FY2024 | 60,922 | 29,760 | 72.72% | 32,972 | 54.12% | 27,021 | 7,280 | 25,984 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 29,
+    "label": "FY2025 · 营业利润率",
+    "reported_value": 62.42,
+    "unit": "%",
+    "line_number": 26,
+    "raw_text": "| FY2025 | 130,497 | 72,880 | 74.99% | 81,453 | 62.42% | 60,853 | 8,589 | 43,210 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 27,
+    "label": "FY2025 · 毛利率",
+    "reported_value": 74.99,
+    "unit": "%",
+    "line_number": 26,
+    "raw_text": "| FY2025 | 130,497 | 72,880 | 74.99% | 81,453 | 62.42% | 60,853 | 8,589 | 43,210 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 36,
+    "label": "FY2026 · GAAP营业利润",
+    "reported_value": 130387.0,
+    "unit": "",
+    "line_number": 27,
+    "raw_text": "| FY2026 | 215,938 | 120,067 | 71.07% | 130,387 | 60.38% | 96,676 | 10,605 | 62,556 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 51,
+    "label": "FY26Q4 · 分部同比",
+    "reported_value": 96.54,
+    "unit": "%",
+    "line_number": 38,
+    "raw_text": "| FY26Q4 | 68,127 | 61,651 | 71.08% | 6,476 | 96.54% | 75.0% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 58,
+    "label": "FY27Q1 · 全公司GAAP毛利率",
+    "reported_value": 74.9,
+    "unit": "%",
+    "line_number": 39,
+    "raw_text": "| FY27Q1 | 81,615 | 74,550 | 88.31% | 7,065 | 57.95% | 74.9% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 56,
+    "label": "FY27Q1 · 图形收入",
+    "reported_value": 7065.0,
+    "unit": "",
+    "line_number": 39,
+    "raw_text": "| FY27Q1 | 81,615 | 74,550 | 88.31% | 7,065 | 57.95% | 74.9% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 57,
+    "label": "FY27Q1 · 分部同比",
+    "reported_value": 57.95,
+    "unit": "%",
+    "line_number": 39,
+    "raw_text": "| FY27Q1 | 81,615 | 74,550 | 88.31% | 7,065 | 57.95% | 74.9% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 63,
+    "label": "FY27Q2 · 分部同比",
+    "reported_value": 46.38,
+    "unit": "%",
+    "line_number": 40,
+    "raw_text": "| FY27Q2 | 96,221 | 88,299 | 113.64% | 7,922 | 46.38% | 75.0% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 60,
+    "label": "FY27Q2 · 计算与网络收入",
+    "reported_value": 88299.0,
+    "unit": "",
+    "line_number": 40,
+    "raw_text": "| FY27Q2 | 96,221 | 88,299 | 113.64% | 7,922 | 46.38% | 75.0% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 71,
+    "label": "现金等价物 · 本报告采用值",
+    "reported_value": 22443.0,
+    "unit": "",
+    "line_number": 53,
+    "raw_text": "| 现金等价物 | 22,443 | SEC、StockAnalysis一致 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 72,
+    "label": "有价债券 · 本报告采用值",
+    "reported_value": 34143.0,
+    "unit": "",
+    "line_number": 54,
+    "raw_text": "| 有价债券 | 34,143 | SEC Q2；不混入股票 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 108,
+    "label": "PS · 口径",
+    "reported_value": 302970.0,
+    "unit": "",
+    "line_number": 182,
+    "raw_text": "| PS | 17.07倍 | TTM收入302,970 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 109,
+    "label": "PB · 结果",
+    "reported_value": 22.58,
+    "unit": "倍",
+    "line_number": 183,
+    "raw_text": "| PB | 22.58倍 | 权益228,984，知识资产不上表使解释力有限 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 115,
+    "label": "第三方PEG · 结果",
+    "reported_value": 0.35,
+    "unit": "倍",
+    "line_number": 187,
+    "raw_text": "| 第三方PEG | 0.35倍 | 预测增速口径不透明，只供参考 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 130,
+    "label": "基准 · 按10%折回今日",
+    "reported_value": 265.5,
+    "unit": "",
+    "line_number": 206,
+    "raw_text": "| 基准 | 50% | 20% | 14.14 | 341.32 | 25 | 353.38 | 265.50 | 18.17% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 140,
+    "label": "悲观 · 概率",
+    "reported_value": 25.0,
+    "unit": "%",
+    "line_number": 223,
+    "raw_text": "| 悲观 | 25% | 150 | 1% | 9个百分点 | 10.8333倍 | 1,625.00 | -10.43% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 144,
+    "label": "悲观 · 退出PE",
+    "reported_value": 10.8333,
+    "unit": "倍",
+    "line_number": 223,
+    "raw_text": "| 悲观 | 25% | 150 | 1% | 9个百分点 | 10.8333倍 | 1,625.00 | -10.43% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 152,
+    "label": "基准 · 终值市值（十亿美元）",
+    "reported_value": 7928.57,
+    "unit": "",
+    "line_number": 224,
+    "raw_text": "| 基准 | 50% | 600 | 3% | 7个百分点 | 13.2143倍 | 7,928.57 | 4.87% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 164,
+    "label": "r=9%（-1pp） · 相对资本成本",
+    "reported_value": -4.13,
+    "unit": "",
+    "line_number": 232,
+    "raw_text": "| r=9%（-1pp） | 4.87% | -4.13个百分点 | 未通过；区间内 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 170,
+    "label": "r=12%（+2pp） · 相对资本成本",
+    "reported_value": -11.27,
+    "unit": "",
+    "line_number": 235,
+    "raw_text": "| r=12%（+2pp） | 0.73% | -11.27个百分点 | 未通过；币种合理区间外，仅供参考 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 172,
+    "label": "空仓者 · 建议",
+    "reported_value": 214.13,
+    "unit": "",
+    "line_number": 264,
+    "raw_text": "| 空仓者 | $214.13附近可小仓位分批买入；优先等待$180—$210更充分安全边际，避免一次把计划仓位买满 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

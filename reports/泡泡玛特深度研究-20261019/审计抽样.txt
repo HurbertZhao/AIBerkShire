@@ -1,0 +1,227 @@
+======================================================================
+报告数据抽检清单
+文件：/Users/linxuan/ai-berkshire/reports/泡泡玛特深度研究-20261019/泡泡玛特研究报告-20261019.md
+总提取数据点：104  |  抽样比例：15%  |  抽检数量：16
+随机种子：42（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+  4     28  营业收入 · 2024                                130.38
+  5     28  营业收入 · 2025                                371.20
+ 15     30  毛利率 · 2025                                  72.10  %
+ 14     30  毛利率 · 2024                                  66.80  %
+ 12     30  毛利率 · 2022                                  57.50  %
+ 18     36  收入 · 同比或解释                                  23.80  %
+ 29     40  中国收入，含港澳台 · 同比或解释                           47.30  %
+ 28     40  中国收入，含港澳台 · 2026上半年                        122.01
+ 32     41  海外合计收入 · 同比或解释                             -11.10  %
+ 36     43  美洲 · 2025上半年                                22.65
+ 55     78  经营现金流CFO · 2025上半年                          59.77
+ 70    210  2036经营归母净利率 · 全球多场景品牌，乐观                    25.00  %
+ 76    212  2036股东现金转换率 · 全球多场景品牌，乐观                    95.00  %
+ 82    248  TTM经营现金流，亿元人民币 · 数值                         85.25
+ 87    253  当前PB · 数值                                    7.00  倍
+ 95    268  首年股东现金转换率 · 基准                              85.00  %
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 4,
+    "label": "营业收入 · 2024",
+    "reported_value": 130.38,
+    "unit": "",
+    "line_number": 28,
+    "raw_text": "| 营业收入 | 44.91 | 46.17 | 63.01 | 130.38 | 371.20 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 5,
+    "label": "营业收入 · 2025",
+    "reported_value": 371.2,
+    "unit": "",
+    "line_number": 28,
+    "raw_text": "| 营业收入 | 44.91 | 46.17 | 63.01 | 130.38 | 371.20 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 15,
+    "label": "毛利率 · 2025",
+    "reported_value": 72.1,
+    "unit": "%",
+    "line_number": 30,
+    "raw_text": "| 毛利率 | 61.4% | 57.5% | 61.3% | 66.8% | 72.1% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 14,
+    "label": "毛利率 · 2024",
+    "reported_value": 66.8,
+    "unit": "%",
+    "line_number": 30,
+    "raw_text": "| 毛利率 | 61.4% | 57.5% | 61.3% | 66.8% | 72.1% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 12,
+    "label": "毛利率 · 2022",
+    "reported_value": 57.5,
+    "unit": "%",
+    "line_number": 30,
+    "raw_text": "| 毛利率 | 61.4% | 57.5% | 61.3% | 66.8% | 72.1% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 18,
+    "label": "收入 · 同比或解释",
+    "reported_value": 23.8,
+    "unit": "%",
+    "line_number": 36,
+    "raw_text": "| 收入 | 138.76 | 171.73 | +23.8% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 29,
+    "label": "中国收入，含港澳台 · 同比或解释",
+    "reported_value": 47.3,
+    "unit": "%",
+    "line_number": 40,
+    "raw_text": "| 中国收入，含港澳台 | 82.83 | 122.01 | +47.3% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 28,
+    "label": "中国收入，含港澳台 · 2026上半年",
+    "reported_value": 122.01,
+    "unit": "",
+    "line_number": 40,
+    "raw_text": "| 中国收入，含港澳台 | 82.83 | 122.01 | +47.3% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 32,
+    "label": "海外合计收入 · 同比或解释",
+    "reported_value": -11.1,
+    "unit": "%",
+    "line_number": 41,
+    "raw_text": "| 海外合计收入 | 55.93 | 49.72 | 计算值-11.10% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 36,
+    "label": "美洲 · 2025上半年",
+    "reported_value": 22.65,
+    "unit": "",
+    "line_number": 43,
+    "raw_text": "| 美洲 | 22.65 | 18.92 | -16.5% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 55,
+    "label": "经营现金流CFO · 2025上半年",
+    "reported_value": 59.77,
+    "unit": "",
+    "line_number": 78,
+    "raw_text": "| 经营现金流CFO | 59.77 | 36.37 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 70,
+    "label": "2036经营归母净利率 · 全球多场景品牌，乐观",
+    "reported_value": 25.0,
+    "unit": "%",
+    "line_number": 210,
+    "raw_text": "| 2036经营归母净利率 | 12% | 22% | 25% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 76,
+    "label": "2036股东现金转换率 · 全球多场景品牌，乐观",
+    "reported_value": 95.0,
+    "unit": "%",
+    "line_number": 212,
+    "raw_text": "| 2036股东现金转换率 | 85% | 90% | 95% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 82,
+    "label": "TTM经营现金流，亿元人民币 · 数值",
+    "reported_value": 85.25,
+    "unit": "",
+    "line_number": 248,
+    "raw_text": "| TTM经营现金流，亿元人民币 | 85.25 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 87,
+    "label": "当前PB · 数值",
+    "reported_value": 7.0,
+    "unit": "倍",
+    "line_number": 253,
+    "raw_text": "| 当前PB | 7.00倍 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 95,
+    "label": "首年股东现金转换率 · 基准",
+    "reported_value": 85.0,
+    "unit": "%",
+    "line_number": 268,
+    "raw_text": "| 首年股东现金转换率 | 85% | 85% | 85% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

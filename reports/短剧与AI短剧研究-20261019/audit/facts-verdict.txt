@@ -1,0 +1,44 @@
+======================================================================
+报告数据抽检 — 准出/打回判决
+报告：facts
+======================================================================
+
+  ✅ 通过 [ 2] 艾媒，2022年 · 披露规模，人民币                  报告:       101.70 亿元
+                                                    https://www.iimedia.cn/c400/97005.html: 101.70 (偏差 0.00%)
+  ✅ 通过 [ 7] DataEye，2025年 · 披露规模，人民币             报告:      1000.00 亿元
+                                                    https://pdf.dfcfw.com/pdf/H3_AP202601211818183880_1.pdf: 1000.00 (偏差 0.00%)
+  ✅ 通过 [ 8] DataEye，2026年 · 披露规模，人民币             报告:      1210.00 亿元
+                                                    https://pdf.dfcfw.com/pdf/H3_AP202601211818183880_1.pdf: 1210.00 (偏差 0.00%)
+  ✅ 通过 [ 9] CNNIC微短剧用户 · 已核实数值                   报告:         6.26 亿
+                                                    https://cnnic.cn/NMediaFile/2025/0730/MAIN1753846666507QEK67ZS9DH.pdf: 6.26 (偏差 0.00%)
+  ✅ 通过 [51] 快手：经调整利润净额 · 2024全年                  报告:       177.16
+                                                    https://ir.kuaishou.com/news-releases/news-release-details/kuaishou-technology-announces-fourth-quarter-and-full-year-2025/: 177.16 (偏差 0.00%)  |  https://finance.sina.com.cn/tech/csj/2025-03-25/doc-ineqwnhh6790035.shtml: 177.16 (偏差 0.00%)
+  ✅ 通过 [58] 掌阅：集团收入 · 2026上半年                    报告:        17.84
+                                                    https://static.cninfo.com.cn/finalpage/2026-08-27/1225510832.PDF: 17.84 (偏差 0.00%)  |  https://finance.eastmoney.com/a/202608263854680634.html: 17.84 (偏差 0.01%)
+  ✅ 通过 [56] 掌阅：集团收入 · 2025全年                     报告:        32.43
+                                                    https://dataclouds.cninfo.com.cn/shgonggao/hsomarket/2026/20260424/94528c26874e441bb95c8f655a96a349.PDF: 32.43 (偏差 0.00%)  |  https://www.yicai.com/news/103151687.html: 32.43 (偏差 0.01%)
+  ✅ 通过 [57] 掌阅：集团收入 · 2025上半年                    报告:        15.26
+                                                    https://static.cninfo.com.cn/finalpage/2026-08-27/1225510832.PDF: 15.26 (偏差 0.00%)  |  https://stock.quote.stockstar.com/finance/summary_603533.shtml: 15.26 (偏差 0.00%)
+  ✅ 通过 [60] 掌阅：归母净利润 · 2025全年                    报告:        -1.76
+                                                    https://dataclouds.cninfo.com.cn/shgonggao/hsomarket/2026/20260424/94528c26874e441bb95c8f655a96a349.PDF: -1.76 (偏差 0.00%)  |  https://www.yicai.com/news/103151687.html: -1.76 (偏差 0.26%)
+  ✅ 通过 [63] 掌阅：经营现金流 · 2024全年                    报告:        -0.75
+                                                    https://dataclouds.cninfo.com.cn/shgonggao/hsomarket/2026/20260424/94528c26874e441bb95c8f655a96a349.PDF: -0.75 (偏差 0.00%)  |  https://www.sohu.com/a/890859004_121418230: -0.75 (偏差 0.00%)
+  ✅ 通过 [71] 阅文：Non-IFRS归母净利润 · 2024全年            报告:        11.42
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0317/2026031700357_c.pdf: 11.42 (偏差 0.00%)  |  https://finance.sina.com.cn/roll/2025-03-20/doc-ineqhfmw0798020.shtml: 11.42 (偏差 0.03%)
+  ✅ 通过 [72] 阅文：Non-IFRS归母净利润 · 2025全年            报告:         8.58
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0317/2026031700357_c.pdf: 8.58 (偏差 0.00%)  |  https://www.cls.cn/detail/2315863: 8.58 (偏差 0.06%)
+
+----------------------------------------------------------------------
+  抽检总数: 12  |  通过: 12  |  警告: 0  |  不通过: 0
+
+【准出】所有抽检数据通过，报告可发布。
+======================================================================
+{
+  "verdict": "PASS",
+  "pass_count": 12,
+  "warn_count": 0,
+  "fail_count": 0,
+  "total": 12,
+  "fail_items": [],
+  "warn_items": []
+}

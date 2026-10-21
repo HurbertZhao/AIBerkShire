@@ -1,0 +1,51 @@
+======================================================================
+[1m报告数据抽检 — 准出/打回判决[0m
+报告：reports/七公司投资研究-20261002/快手/快手研究报告-20261002.md
+======================================================================
+
+  [92m✅ 通过[0m [ 4] 线上营销 · 2025Q4                        报告:       236.00 
+                                                    https://ir.kuaishou.com/news-releases/news-release-details/kuaishou-technology-announces-fourth-quarter-and-full-year-2025: 236.00 (偏差 0.00%)
+  [92m✅ 通过[0m [ 5] 线上营销 · 2026Q1                        报告:       196.43 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0819/2026081900315_c.pdf: 196.43 (偏差 0.00%)  |  https://www.nbd.com.cn/articles/2026-05-28/4410814.html: 196.43 (偏差 0.00%)
+  [92m✅ 通过[0m [12] 直播 · 2026Q2                          报告:        86.90 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0819/2026081900315_c.pdf: 86.90 (偏差 0.00%)  |  https://www.itiger.com/news/1181108380: 86.90 (偏差 0.00%)
+  [92m✅ 通过[0m [15] 其他：电商技术服务、可灵等 · 2025Q3               报告:        59.00 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2025/1119/2025111900308_c.pdf: 59.00 (偏差 0.00%)  |  https://finance.sina.com.cn/tech/2025-11-19/doc-infxxsna1755507.shtml: 59.00 (偏差 0.00%)
+  [92m✅ 通过[0m [18] 其他：电商技术服务、可灵等 · 2026Q2               报告:        62.06 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0819/2026081900315_c.pdf: 62.06 (偏差 0.00%)  |  https://www.itiger.com/news/1181108380: 62.06 (偏差 0.00%)
+  [92m✅ 通过[0m [14] 其他：电商技术服务、可灵等 · 占比                   报告:        15.50 %
+                                                    https://ir.kuaishou.com/news-releases/news-release-details/kuaishou-technology-announces-fourth-quarter-and-full-year-2025: 15.50 (偏差 0.00%)
+  [92m✅ 通过[0m [28] 收入 · 2026Q2                          报告:       355.35 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0819/2026081900315_c.pdf: 355.35 (偏差 0.00%)  |  https://hk.stockstar.com/IG2026081900029974.shtml: 355.35 (偏差 0.00%)
+  [92m✅ 通过[0m [32] 毛利 · 2026Q2                          报告:       183.28 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0819/2026081900315_c.pdf: 183.28 (偏差 0.00%)  |  https://hk.stockstar.com/IG2026081900029974.shtml: 183.28 (偏差 0.00%)
+  [92m✅ 通过[0m [29] 毛利 · 2025Q3                          报告:       194.34 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2025/1119/2025111900308_c.pdf: 194.34 (偏差 0.00%)
+  [92m✅ 通过[0m [30] 毛利 · 2025Q4                          报告:       218.19 
+                                                    https://ir.kuaishou.com/news-releases/news-release-details/kuaishou-technology-announces-fourth-quarter-and-full-year-2025: 218.19 (偏差 0.00%)  |  https://finance.sina.com.cn/wm/2026-03-25/doc-inhsffcq0870357.shtml: 218.19 (偏差 0.00%)
+  [92m✅ 通过[0m [36] 毛利率 · 2026Q2                         报告:        51.60 %
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0819/2026081900315_c.pdf: 51.60 (偏差 0.00%)  |  https://www.itiger.com/news/1181108380: 51.60 (偏差 0.00%)
+  [92m✅ 通过[0m [55] 现金116.96＋短期定存123.58＋流动金融资产563.53 ·   报告:       804.07 
+                                                    https://ir.kuaishou.com/system/files-encrypted/nasdaq_kms/assets/2026/09/08/10-47-47/Interim%202026.pdf pp59-60: (11696+12358+56353)/100: 804.07 (偏差 0.00%)
+  ⬜ [65] 网络效应 · 判断                                   4.00   →  [未提供核验值，跳过]
+  [92m✅ 通过[0m [70] 2025全年回购与首次年度分红安排 · 观察结果             报告:        31.20 亿港元
+                                                    https://ir.kuaishou.com/news-releases/news-release-details/kuaishou-technology-announces-fourth-quarter-and-full-year-2025: 31.20 (偏差 0.00%)
+  ⬜ [76] PS，TTM · 结果                                 0.76 倍  →  [未提供核验值，跳过]
+  ⬜ [82] 历史年度股息率 · 结果                                2.33 %  →  [未提供核验值，跳过]
+  ⬜ [87] 悲观 · 简单年化                                 -36.69 %  →  [未提供核验值，跳过]
+  ⬜ [95] 乐观 · 今日DCF现值，港元                            70.49   →  [未提供核验值，跳过]
+
+----------------------------------------------------------------------
+  抽检总数: 13  |  通过: [92m13[0m  |  警告: [93m0[0m  |  不通过: [91m0[0m
+
+[1m[92m【准出】所有抽检数据通过，报告可发布。[0m
+======================================================================
+{
+  "verdict": "PASS",
+  "pass_count": 13,
+  "warn_count": 0,
+  "fail_count": 0,
+  "total": 13,
+  "fail_items": [],
+  "warn_items": []
+}

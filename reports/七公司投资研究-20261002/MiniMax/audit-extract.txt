@@ -1,0 +1,279 @@
+======================================================================
+报告数据抽检清单
+文件：reports/七公司投资研究-20261002/MiniMax/MiniMax研究报告-20261002.md
+总提取数据点：132  |  抽样比例：15%  |  抽检数量：20
+随机种子：42（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+  7     28  毛利 · 2025                                   20.08  
+  8     28  毛利 · 2026上半年                                20.81  
+  9     29  毛利率 · 2023                                 -24.70  %
+ 27     32  CFO · 2026上半年                             -318.11  
+ 23     32  CFO · 2022                                 -11.02  
+ 24     32  CFO · 2023                                 -64.45  
+ 29     33  设备资本支出 · 2023                                0.70  
+ 36     34  简单FCF · 2025                              -280.56  
+ 51     49  总收入 · 2026上半年                              116.57  
+ 56     51  毛利率 · 2026上半年                               17.85  %
+ 57     67  6月末现金等价物 · 百万美元                            930.90  
+ 58     68  一年内定存 · 百万美元                                14.04  
+ 60     70  银行借款 · 百万美元                                133.56  
+ 63     73  七月融资增量净现金 · 百万美元                          1195.14  
+ 71    187  模型EV/TTM收入 · 数值                             53.73  
+ 72    198  基准收入，十亿美元，假设 · 第1年                           0.80  
+108    210  每股现值，港元 · 乐观                               382.63  
+109    222  三年后收入，十亿美元 · 悲观                              0.80  
+115    224  未来股份，百万股 · 悲观                              550.00  
+130    245  估值 · 结论                                    242.80  
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 7,
+    "label": "毛利 · 2025",
+    "reported_value": 20.079,
+    "unit": "",
+    "line_number": 28,
+    "raw_text": "| 毛利 | 0 | -0.854 | 3.738 | 20.079 | 20.813 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 8,
+    "label": "毛利 · 2026上半年",
+    "reported_value": 20.813,
+    "unit": "",
+    "line_number": 28,
+    "raw_text": "| 毛利 | 0 | -0.854 | 3.738 | 20.079 | 20.813 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 9,
+    "label": "毛利率 · 2023",
+    "reported_value": -24.7,
+    "unit": "%",
+    "line_number": 29,
+    "raw_text": "| 毛利率 | 不适用 | -24.7% | 12.2% | 25.4% | 17.9% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 27,
+    "label": "CFO · 2026上半年",
+    "reported_value": -318.106,
+    "unit": "",
+    "line_number": 32,
+    "raw_text": "| CFO | -11.019 | -64.455 | -258.483 | -279.641 | -318.106 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 23,
+    "label": "CFO · 2022",
+    "reported_value": -11.019,
+    "unit": "",
+    "line_number": 32,
+    "raw_text": "| CFO | -11.019 | -64.455 | -258.483 | -279.641 | -318.106 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 24,
+    "label": "CFO · 2023",
+    "reported_value": -64.455,
+    "unit": "",
+    "line_number": 32,
+    "raw_text": "| CFO | -11.019 | -64.455 | -258.483 | -279.641 | -318.106 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 29,
+    "label": "设备资本支出 · 2023",
+    "reported_value": 0.697,
+    "unit": "",
+    "line_number": 33,
+    "raw_text": "| 设备资本支出 | 0.256 | 0.697 | 0.759 | 0.920 | 187.626 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 36,
+    "label": "简单FCF · 2025",
+    "reported_value": -280.561,
+    "unit": "",
+    "line_number": 34,
+    "raw_text": "| 简单FCF | -11.275 | -65.152 | -259.242 | -280.561 | -505.732 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 51,
+    "label": "总收入 · 2026上半年",
+    "reported_value": 116.573,
+    "unit": "",
+    "line_number": 49,
+    "raw_text": "| 总收入 | 30.429 | 48.609 | 116.573 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 56,
+    "label": "毛利率 · 2026上半年",
+    "reported_value": 17.85,
+    "unit": "%",
+    "line_number": 51,
+    "raw_text": "| 毛利率 | 12.11% | 33.73% | 17.85% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 57,
+    "label": "6月末现金等价物 · 百万美元",
+    "reported_value": 930.905,
+    "unit": "",
+    "line_number": 67,
+    "raw_text": "| 6月末现金等价物 | 930.905 | 报表事实 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 58,
+    "label": "一年内定存 · 百万美元",
+    "reported_value": 14.038,
+    "unit": "",
+    "line_number": 68,
+    "raw_text": "| 一年内定存 | 14.038 | 报表事实 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 60,
+    "label": "银行借款 · 百万美元",
+    "reported_value": 133.555,
+    "unit": "",
+    "line_number": 70,
+    "raw_text": "| 银行借款 | 133.555 | 需扣除 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 63,
+    "label": "七月融资增量净现金 · 百万美元",
+    "reported_value": 1195.144,
+    "unit": "",
+    "line_number": 73,
+    "raw_text": "| 七月融资增量净现金 | 1195.144 | 配售净款+可转债净款-债券本金，统一汇率换算 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 71,
+    "label": "模型EV/TTM收入 · 数值",
+    "reported_value": 53.73,
+    "unit": "",
+    "line_number": 187,
+    "raw_text": "| 模型EV/TTM收入 | 53.73 | 减模型净现金，包含Q3烧钱假设，非已披露EV |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 72,
+    "label": "基准收入，十亿美元，假设 · 第1年",
+    "reported_value": 0.8,
+    "unit": "",
+    "line_number": 198,
+    "raw_text": "| 基准收入，十亿美元，假设 | 0.8 | 1.35 | 2.0 | 2.75 | 3.5 | 4.3 | 5.2 | 6.2 | 7.3 | 8.5 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 108,
+    "label": "每股现值，港元 · 乐观",
+    "reported_value": 382.63,
+    "unit": "",
+    "line_number": 210,
+    "raw_text": "| 每股现值，港元 | 6.40 | 101.43 | 382.63 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 109,
+    "label": "三年后收入，十亿美元 · 悲观",
+    "reported_value": 0.8,
+    "unit": "",
+    "line_number": 222,
+    "raw_text": "| 三年后收入，十亿美元 | 0.8 | 2.0 | 4.0 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 115,
+    "label": "未来股份，百万股 · 悲观",
+    "reported_value": 550.0,
+    "unit": "",
+    "line_number": 224,
+    "raw_text": "| 未来股份，百万股 | 550 | 440 | 400 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 130,
+    "label": "估值 · 结论",
+    "reported_value": 242.8,
+    "unit": "",
+    "line_number": 245,
+    "raw_text": "| 估值 | 当前242.80港元高于101港元主估值 | 低，模型敏感 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

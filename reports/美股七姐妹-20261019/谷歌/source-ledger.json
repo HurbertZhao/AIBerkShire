@@ -1,0 +1,69 @@
+{
+  "retrieved_at": "2026-10-19 Asia/Shanghai",
+  "source_access": "Public web search/open/find; not authenticated. SEC tables manually transcribed, URLs in report. No copied full articles.",
+  "facts": {
+    "annual_2021_2023": [
+      "SEC FY2023 10-K",
+      "StockAnalysis annual income/cash flow"
+    ],
+    "annual_2024_2025": [
+      "SEC FY2025 10-K",
+      "StockAnalysis annual income/cash flow"
+    ],
+    "2025_revenue_net_cash": [
+      "SEC FY2025 10-K",
+      "StockAnalysis",
+      "Macrotrends search-visible excerpt; open failed"
+    ],
+    "2026Q2": [
+      "SEC 2026Q2 10-Q and earnings release",
+      "StockAnalysis financials"
+    ],
+    "quarter_segment_history": [
+      "SEC respective quarterly earnings releases; independent secondary per-cell coverage incomplete"
+    ],
+    "share_classes": [
+      "SEC 2026Q2 10-Q cover as of July 15",
+      "StockAnalysis total 12.23B"
+    ],
+    "price_a": [
+      "StockAnalysis history 2026-10-16 340.59",
+      "Investing history 2026-10-16 340.59"
+    ],
+    "price_c": [
+      "WSJ historical 2026-10-16 336.91",
+      "TwelveData historical 2026-10-16 336.91"
+    ],
+    "noncurrent_equity": [
+      "SEC 10-Q Note 3 14126 USD million; independent secondary missing",
+      "WSJ independently reports14.1B principal SpaceX holding rounded; remainder not separately validated"
+    ],
+    "preferred": [
+      "SEC 10-Q 18023 USD million",
+      "GuruFocus BVPS arithmetic 18023 USD million"
+    ],
+    "commitments": [
+      "SEC 10-Q 811.0B total / 200.7B short-term",
+      "Bloomberg Tax 2026-07-23 same figures"
+    ],
+    "rf": [
+      "Fed H15 release 2026-10-16 last observation 2026-10-15 5.10%"
+    ]
+  },
+  "known_conflicts": {
+    "cash_definition": "242474 includes 87063 equity investments; not all risk-free cash",
+    "debt_definition": "100164 ex leases vs 120791 inclusive leases; not an arithmetic contradiction",
+    "net_income": "Q2 common 112107 vs consolidated 112193; difference preferred distributions86",
+    "EPS_2025": "SEC10.81 vs SA10.80 minor rounding/class allocation; model uses neither",
+    "GOOG_quote": "MarketsInsider BTT search snippet conflicting close; ignored in favor WSJ and TwelveData normal session",
+    "old_repo_report": "FY2022 revenue, FY2025 op margin, several FY2025 segments wrong; not reused",
+    "Macrotrends_share_count": "13.144B from searched page vs SEC period-end12.230B and Q2 diluted weighted12.309B. Rejected supplier value; reason not established."
+  },
+  "limitations": [
+    "No external per-query AI cost data",
+    "No independently reconciled founder total economic ownership",
+    "No complete fixed-asset cohort ROI data",
+    "Not all historical segment cells dual-sourced",
+    "Four master original company-relevant excerpts not sufficiently read; no simulated endorsements"
+  ]
+}

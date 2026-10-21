@@ -1,0 +1,89 @@
+COMMAND: financial_rigor.py verify-market-cap --price 29.30 --shares 4304151598 --reported 126112000000 --currency HKD
+============================================================
+市值验算 (Market Cap Verification)
+============================================================
+  股价 (Price):       29.3 HKD
+  总股本 (Shares):    4.30B
+  计算市值:           126.11B HKD
+  报告市值:           126.11B HKD
+  偏差:               0.00%
+
+  ✅ 验证通过, 偏差仅 0.00%
+
+COMMAND: financial_rigor.py cross-validate --field 2025 revenue --values {"HKEX":142776,"StockAnalysis":142776} --unit CNY million
+============================================================
+交叉验证: 2025 revenue (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 142,776.00 CNY million
+
+  ✅ HKEX                : 142,776.00 CNY million  (偏差 0.00%)
+  ✅ StockAnalysis       : 142,776.00 CNY million  (偏差 0.00%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): 142,776.00 CNY million
+
+COMMAND: financial_rigor.py cross-validate --field 2025 attributable net income --values {"HKEX":18617,"StockAnalysis":18617} --unit CNY million
+============================================================
+交叉验证: 2025 attributable net income (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 18,617.00 CNY million
+
+  ✅ HKEX                : 18,617.00 CNY million  (偏差 0.00%)
+  ✅ StockAnalysis       : 18,617.00 CNY million  (偏差 0.00%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): 18,617.00 CNY million
+
+COMMAND: financial_rigor.py cross-validate --field 2026H1 cash equivalents --values {"HKEX":11696,"StockAnalysis":11696} --unit CNY million
+============================================================
+交叉验证: 2026H1 cash equivalents (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 11,696.00 CNY million
+
+  ✅ HKEX                : 11,696.00 CNY million  (偏差 0.00%)
+  ✅ StockAnalysis       : 11,696.00 CNY million  (偏差 0.00%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): 11,696.00 CNY million
+
+COMMAND: financial_rigor.py cross-validate --field current shares rounded secondary --values {"Stockstar monthly transcription":4304151598,"Futu":4304000000} --unit shares
+============================================================
+交叉验证: current shares rounded secondary (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 4.30B shares
+
+  ✅ Stockstar monthly transcription: 4.30B shares  (偏差 0.00%)
+  ✅ Futu                : 4.30B shares  (偏差 0.00%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): 4.30B shares
+
+COMMAND: financial_rigor.py cross-validate --field 2026-10-16 close --values {"Investing":29.30,"StockAnalysis":29.30} --unit HKD
+============================================================
+交叉验证: 2026-10-16 close (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 29.30 HKD
+
+  ✅ Investing           : 29.30 HKD  (偏差 0.00%)
+  ✅ StockAnalysis       : 29.30 HKD  (偏差 0.00%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): 29.30 HKD
+
+COMMAND: financial_rigor.py calc --expr 26.716-11.781+9.044-(14.942-7.075+17.941)
+============================================================
+精确计算 (Exact Calculator)
+============================================================
+  表达式: 26.716-11.781+9.044-(14.942-7.075+17.941)
+  结果:   -1.83
+  精确值: -1.8290000000000006

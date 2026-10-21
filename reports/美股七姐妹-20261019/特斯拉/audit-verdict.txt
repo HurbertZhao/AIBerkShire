@@ -1,0 +1,65 @@
+======================================================================
+报告数据抽检 — 准出/打回判决
+报告：特斯拉投资研究报告-20261019.md
+======================================================================
+
+  ✅ 通过 [ 7] 现金及短期投资 · 数值                         报告:     43524.00
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026049270/tsla-20260630.htm: 43524.00 (偏差 0.00%)  |  https://stockanalysis.com/stocks/tsla/financials/balance-sheet/: 43524.00 (偏差 0.00%)
+  ✅ 通过 [ 9] 债务及融资租赁 · 数值                         报告:      9342.00
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026049270/tsla-20260630.htm: 9342.00 (偏差 0.00%)
+  ✅ 通过 [24] TTM自由现金流 · 数值                        报告:      5762.00
+                                                    https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q2-2026-Update.pdf: 5762.00 (偏差 0.00%)  |  https://stockanalysis.com/stocks/tsla/financials/cash-flow-statement/: 5762.00 (偏差 0.00%)
+  ✅ 通过 [29] 收入 · 2025                            报告:     94827.00
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026003837/exhibit991.htm: 94827.00 (偏差 0.00%)  |  https://stockanalysis.com/stocks/tsla/financials/: 94827.00 (偏差 0.00%)
+  ✅ 通过 [27] 收入 · 2023                            报告:     96773.00
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026003837/exhibit991.htm: 96773.00 (偏差 0.00%)  |  https://stockanalysis.com/stocks/tsla/financials/: 96773.00 (偏差 0.00%)
+  ✅ 通过 [36] 毛利率 · 2022                           报告:        25.60 %
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026003837/exhibit991.htm: 25.60 (偏差 0.01%)  |  https://stockanalysis.com/stocks/tsla/financials/: 25.60 (偏差 0.00%)
+  ✅ 通过 [51] 归母净利润 · 2022                         报告:     12556.00
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026003837/exhibit991.htm: 12556.00 (偏差 0.00%)  |  https://stockanalysis.com/stocks/tsla/financials/cash-flow-statement/: 12556.00 (偏差 0.00%)
+  ✅ 通过 [58] 经营现金流 · 2024                         报告:     14923.00
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026003837/exhibit991.htm: 14923.00 (偏差 0.00%)  |  https://stockanalysis.com/stocks/tsla/financials/cash-flow-statement/: 14923.00 (偏差 0.00%)
+  ✅ 通过 [56] 经营现金流 · 2022                         报告:     14724.00
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026003837/exhibit991.htm: 14724.00 (偏差 0.00%)  |  https://stockanalysis.com/stocks/tsla/financials/cash-flow-statement/: 14724.00 (偏差 0.00%)
+  ✅ 通过 [57] 经营现金流 · 2023                         报告:     13256.00
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026003837/exhibit991.htm: 13256.00 (偏差 0.00%)  |  https://stockanalysis.com/stocks/tsla/financials/cash-flow-statement/: 13256.00 (偏差 0.00%)
+  ✅ 通过 [63] 资本开支 · 2024                          报告:     11342.00
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026003837/exhibit991.htm: 11342.00 (偏差 0.00%)  |  https://stockanalysis.com/stocks/tsla/financials/cash-flow-statement/: 11342.00 (偏差 0.00%)
+  ✅ 通过 [60] 资本开支 · 2021                          报告:      6514.00
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026003837/exhibit991.htm: 6514.00 (偏差 0.00%)  |  https://stockanalysis.com/stocks/tsla/financials/cash-flow-statement/: 6514.00 (偏差 0.00%)
+  ✅ 通过 [71] 现金及短投 · 2022                         报告:     22185.00
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026003837/exhibit991.htm: 22185.00 (偏差 0.00%)  |  https://stockanalysis.com/stocks/tsla/financials/balance-sheet/: 22185.00 (偏差 0.00%)
+  ✅ 通过 [109] 汽车 · 2026Q1                          报告:        21.08 %
+                                                    https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q2-2026-Update.pdf: 21.08 (偏差 0.00%)
+  ✅ 通过 [108] 汽车 · 2025Q4                          报告:        20.42 %
+                                                    https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q2-2026-Update.pdf: 20.42 (偏差 0.00%)
+  ✅ 通过 [130] FCF收益率 · 本文计算                        报告:         0.41 %
+                                                    S1/S2现金流与股数价格重算: 0.41 (偏差 0.00%)  |  https://stockanalysis.com/stocks/tsla/financials/ratios/: 0.41 (偏差 0.32%)
+  ✅ 通过 [140] 基准 · 三年后PE假设                         报告:        45.00 倍
+                                                    reproduce.py / calculations.json：算式或假设一致性，非外部事实: 45.00 (偏差 0.00%)
+  ✅ 通过 [144] 乐观 · 年化利润增长                          报告:       109.54 %
+                                                    reproduce.py / calculations.json：算式或假设一致性，非外部事实: 109.54 (偏差 0.00%)
+  ✅ 通过 [152] 能源 · 基准                              报告:       100.00
+                                                    reproduce.py / calculations.json：算式或假设一致性，非外部事实: 100.00 (偏差 0.00%)
+  ✅ 通过 [155] 独立增量软件/无人出行 · 基准                     报告:        40.00
+                                                    reproduce.py / calculations.json：算式或假设一致性，非外部事实: 40.00 (偏差 0.00%)
+  ✅ 通过 [164] 净利润合计 · 乐观                           报告:       120.00
+                                                    reproduce.py / calculations.json：算式或假设一致性，非外部事实: 120.00 (偏差 0.00%)
+  ✅ 通过 [167] 悲观 · 终值PE                            报告:        10.56 倍
+                                                    reproduce.py / calculations.json：算式或假设一致性，非外部事实: 10.56 (偏差 0.00%)
+  ✅ 通过 [174] 基准 · 十年近似年化回报                        报告:       -12.60 %
+                                                    reproduce.py / calculations.json：算式或假设一致性，非外部事实: -12.60 (偏差 0.01%)
+  ✅ 通过 [190] TTM归母/每股计算分子 · 第三方                   报告:      3806.00
+                                                    https://stockanalysis.com/stocks/tsla/financials/: 3806.00 (偏差 0.00%)
+  ✅ 通过 [189] TTM归母/每股计算分子 · 原始来源                  报告:      3804.00
+                                                    https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q2-2026-Update.pdf: 3804.00 (偏差 0.00%)  |  https://stockanalysis.com/stocks/tsla/financials/cash-flow-statement/: 3804.00 (偏差 0.00%)
+  ✅ 通过 [191] TTM归母/每股计算分子 · 处理                    报告:         0.05 %
+                                                    原报3804与第三方3806差异重算: 0.05 (偏差 0.80%)
+  ✅ 通过 [200] 净现金含经营租赁 · 处理                        报告:      9342.00
+                                                    https://www.sec.gov/Archives/edgar/data/1318605/000162828026049270/tsla-20260630.htm: 9342.00 (偏差 0.00%)
+
+----------------------------------------------------------------------
+  抽检总数: 27  |  通过: 27  |  警告: 0  |  不通过: 0
+
+【准出】所有抽检数据通过，报告可发布。
+======================================================================

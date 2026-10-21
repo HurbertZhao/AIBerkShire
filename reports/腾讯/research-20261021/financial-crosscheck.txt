@@ -1,0 +1,58 @@
+Data cutoff 2026-10-21 Asia/Shanghai
+Annual source: https://static.www.tencent.com/uploads/2026/04/09/62d786fcf3d3c8cb7e54791ee95439ac.pdf
+Interim source: https://www.tencent.com/wp-content/uploads/2026/08/E700_IR.pdf
+Independent secondary: https://stockanalysis.com/quote/hkg/0700/financials/
+Cash: https://stockanalysis.com/quote/hkg/0700/financials/balance-sheet/
+
+COMMAND: ['python', 'tools/financial_rigor.py', 'cross-validate', '--field', 'FY2025 revenue', '--values', '{"Tencent filing": 751766, "StockAnalysis": 751766}', '--unit', 'RMB million', '--tolerance', '1']
+============================================================
+交叉验证: FY2025 revenue (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 751,766.00 RMB million
+
+  ✅ Tencent filing      : 751,766.00 RMB million  (偏差 0.00%)
+  ✅ StockAnalysis       : 751,766.00 RMB million  (偏差 0.00%)
+
+  ✅ 所有来源偏差 ≤ 1.0%, 数据一致
+
+  共识值 (加权中位数): 751,766.00 RMB million
+
+
+
+COMMAND: ['python', 'tools/financial_rigor.py', 'cross-validate', '--field', 'FY2025 IFRS parent net income', '--values', '{"Tencent filing": 224842, "StockAnalysis": 224842}', '--unit', 'RMB million', '--tolerance', '1']
+============================================================
+交叉验证: FY2025 IFRS parent net income (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 224,842.00 RMB million
+
+  ✅ Tencent filing      : 224,842.00 RMB million  (偏差 0.00%)
+  ✅ StockAnalysis       : 224,842.00 RMB million  (偏差 0.00%)
+
+  ✅ 所有来源偏差 ≤ 1.0%, 数据一致
+
+  共识值 (加权中位数): 224,842.00 RMB million
+
+
+
+COMMAND: ['python', 'tools/financial_rigor.py', 'cross-validate', '--field', '2026H1 cash equivalents', '--values', '{"Tencent filing": 206930, "StockAnalysis": 206930}', '--unit', 'RMB million', '--tolerance', '1']
+============================================================
+交叉验证: 2026H1 cash equivalents (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 206,930.00 RMB million
+
+  ✅ Tencent filing      : 206,930.00 RMB million  (偏差 0.00%)
+  ✅ StockAnalysis       : 206,930.00 RMB million  (偏差 0.00%)
+
+  ✅ 所有来源偏差 ≤ 1.0%, 数据一致
+
+  共识值 (加权中位数): 206,930.00 RMB million
+
+
+
+RECONCILIATION: Tencent gross cash 511154 = cash equivalents 206930 + term deposits and others 304224. Tencent debt 452963 = borrowings 298942 + notes 154021; net cash 58191. This is not equivalent to StockAnalysis cash and short-term investments 458904, or its lease-inclusive total debt 471828. Do not falsely cross-validate these different definitions.
+StockAnalysis FY2025 FCF 215570 differs from official FCF 182600 (rounded): SA subtracts narrower capex; Tencent also subtracts media content and lease payments. Use official FCF, flag secondary definition gap.
+FY2025 official gross profit 422593 versus SA422870 is within 1%; official operating profit241562 versus SA245628 exceeds1%, use filing; third-party standardized operating profit differs.
+AAStocks direct page inaccessible via web tool; Macrotrends USD data not used to cross-validate CNY without exact exchange-rate/definition reconciliation.

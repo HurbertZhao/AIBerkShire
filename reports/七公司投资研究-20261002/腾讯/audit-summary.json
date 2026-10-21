@@ -1,0 +1,19 @@
+{
+  "manual_status": "CAVEATED_RESEARCH_DRAFT",
+  "script_exit_code": 0,
+  "extracted_points": 120,
+  "sampled_points": 18,
+  "seed": 42,
+  "ratio": ".15",
+  "checked_count": 16,
+  "dual_source_count": 10,
+  "assumptions_excluded": 2,
+  "model_checks": 1,
+  "report_sha256": "a00f66016afb0e8745a5a68b98091a566a68b5a0b7166e702d663777171b34b7",
+  "notes": [
+    "PASS is arithmetic agreement only; script treats missing second source as acceptable.",
+    "Single-source quarterly and governance data remain source gaps.",
+    "Model assumptions are excluded from factual pass count.",
+    "Third-party standardized classification differences are disclosed separately in financial-rigor.txt."
+  ]
+}

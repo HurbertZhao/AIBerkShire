@@ -1,0 +1,149 @@
+[
+  {
+    "ticker": "AAPL",
+    "scenario": "bear",
+    "independent_per_share": "109.710498176521351595404629461947073",
+    "model_per_share": "109.710498176521351595404629461947073",
+    "match": true
+  },
+  {
+    "ticker": "AAPL",
+    "scenario": "base",
+    "independent_per_share": "175.875731522163646738657296353156413",
+    "model_per_share": "175.875731522163646738657296353156413",
+    "match": true
+  },
+  {
+    "ticker": "AAPL",
+    "scenario": "bull",
+    "independent_per_share": "234.240949494773482460828681588056836",
+    "model_per_share": "234.240949494773482460828681588056836",
+    "match": true
+  },
+  {
+    "ticker": "MSFT",
+    "scenario": "bear",
+    "independent_per_share": "167.153127600797776303164299639789141",
+    "model_per_share": "167.153127600797776303164299639789141",
+    "match": true
+  },
+  {
+    "ticker": "MSFT",
+    "scenario": "base",
+    "independent_per_share": "443.460588941961185887626547997957381",
+    "model_per_share": "443.460588941961185887626547997957381",
+    "match": true
+  },
+  {
+    "ticker": "MSFT",
+    "scenario": "bull",
+    "independent_per_share": "648.988890454088103307034474150449348",
+    "model_per_share": "648.988890454088103307034474150449348",
+    "match": true
+  },
+  {
+    "ticker": "GOOGL",
+    "scenario": "bear",
+    "independent_per_share": "57.5105303487864302412480428511503993",
+    "model_per_share": "57.5105303487864302412480428511503993",
+    "match": true
+  },
+  {
+    "ticker": "GOOGL",
+    "scenario": "base",
+    "independent_per_share": "258.144391456244469117325654649247781",
+    "model_per_share": "258.144391456244469117325654649247781",
+    "match": true
+  },
+  {
+    "ticker": "GOOGL",
+    "scenario": "bull",
+    "independent_per_share": "512.084709225970845109417181343347228",
+    "model_per_share": "512.084709225970845109417181343347228",
+    "match": true
+  },
+  {
+    "ticker": "AMZN",
+    "scenario": "bear",
+    "independent_per_share": "37.5920561837469868794432907498799252",
+    "model_per_share": "37.5920561837469868794432907498799252",
+    "match": true
+  },
+  {
+    "ticker": "AMZN",
+    "scenario": "base",
+    "independent_per_share": "164.068975161553424812937893673309041",
+    "model_per_share": "164.068975161553424812937893673309041",
+    "match": true
+  },
+  {
+    "ticker": "AMZN",
+    "scenario": "bull",
+    "independent_per_share": "338.380710613789865287916532457814409",
+    "model_per_share": "338.380710613789865287916532457814409",
+    "match": true
+  },
+  {
+    "ticker": "META",
+    "scenario": "bear",
+    "independent_per_share": "143.930758831602698209194413636349693",
+    "model_per_share": "143.930758831602698209194413636349693",
+    "match": true
+  },
+  {
+    "ticker": "META",
+    "scenario": "base",
+    "independent_per_share": "638.959065917670829010776192851410787",
+    "model_per_share": "638.959065917670829010776192851410787",
+    "match": true
+  },
+  {
+    "ticker": "META",
+    "scenario": "bull",
+    "independent_per_share": "1006.71402960277287218104249114784011",
+    "model_per_share": "1006.71402960277287218104249114784011",
+    "match": true
+  },
+  {
+    "ticker": "NVDA",
+    "scenario": "bear",
+    "independent_per_share": "51.2710185047752597932445600946966870",
+    "model_per_share": "51.2710185047752597932445600946966870",
+    "match": true
+  },
+  {
+    "ticker": "NVDA",
+    "scenario": "base",
+    "independent_per_share": "170.244576556969829595055353395436099",
+    "model_per_share": "170.244576556969829595055353395436099",
+    "match": true
+  },
+  {
+    "ticker": "NVDA",
+    "scenario": "bull",
+    "independent_per_share": "269.298904108209282246557172444007648",
+    "model_per_share": "269.298904108209282246557172444007648",
+    "match": true
+  },
+  {
+    "ticker": "TSLA",
+    "scenario": "bear",
+    "independent_per_share": "15.7599082789126429784880463393567803",
+    "model_per_share": "15.7599082789126429784880463393567803",
+    "match": true
+  },
+  {
+    "ticker": "TSLA",
+    "scenario": "base",
+    "independent_per_share": "56.6112748935589574957823296892253312",
+    "model_per_share": "56.6112748935589574957823296892253312",
+    "match": true
+  },
+  {
+    "ticker": "TSLA",
+    "scenario": "bull",
+    "independent_per_share": "331.708789263708597877411658010217798",
+    "model_per_share": "331.708789263708597877411658010217798",
+    "match": true
+  }
+]

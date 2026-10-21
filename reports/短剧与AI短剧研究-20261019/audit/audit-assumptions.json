@@ -1,0 +1,57 @@
+[
+  {
+    "id": 23,
+    "label": "渠道费用，假设收入的15% · 原模式",
+    "reported_value": 15.0,
+    "unit": "",
+    "raw_text": "| 渠道费用，假设收入的15% | 15.00 | 15.00 | 13.50 |",
+    "line_number": 114,
+    "fetched_value": 15.0,
+    "fetched_source": "model.py / Decimal",
+    "note": "假设收入100乘假设渠道费率15%"
+  },
+  {
+    "id": 24,
+    "label": "渠道费用，假设收入的15% · AI降本、其他不变",
+    "reported_value": 15.0,
+    "unit": "",
+    "raw_text": "| 渠道费用，假设收入的15% | 15.00 | 15.00 | 13.50 |",
+    "line_number": 114,
+    "fetched_value": 15.0,
+    "fetched_source": "model.py / Decimal",
+    "note": "假设收入100乘假设渠道费率15%"
+  },
+  {
+    "id": 27,
+    "label": "获客投放 · AI降本、其他不变",
+    "reported_value": 55.0,
+    "unit": "",
+    "raw_text": "| 获客投放 | 55.00 | 55.00 | 60.00 |",
+    "line_number": 115,
+    "fetched_value": 55.0,
+    "fetched_source": "model.py / Decimal",
+    "note": "明确的模型输入，不是外部观察"
+  },
+  {
+    "id": 29,
+    "label": "内容制作 · 原模式",
+    "reported_value": 15.0,
+    "unit": "",
+    "raw_text": "| 内容制作 | 15.00 | 4.50 | 4.50 |",
+    "line_number": 116,
+    "fetched_value": 15.0,
+    "fetched_source": "model.py / Decimal",
+    "note": "明确的模型输入，不是外部观察"
+  },
+  {
+    "id": 36,
+    "label": "税前项目利润 · AI降本、其他不变",
+    "reported_value": 15.5,
+    "unit": "",
+    "raw_text": "| **税前项目利润** | **5.00** | **15.50** | **2.00** |",
+    "line_number": 118,
+    "fetched_value": 15.5,
+    "fetched_source": "model.py / Decimal",
+    "note": "Decimal独立复算项目利润"
+  }
+]

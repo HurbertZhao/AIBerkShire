@@ -1,0 +1,51 @@
+{
+  "unit": "USD million",
+  "formula": "FY2025 full year + FY2026 first 9 months - FY2025 first 9 months",
+  "periods": {
+    "FY2025_full_year_end": "2025-09-27",
+    "FY2026_9m_end": "2026-06-27",
+    "FY2025_9m_end": "2025-06-28"
+  },
+  "inputs": {
+    "revenue": [
+      416161,
+      364357,
+      313695
+    ],
+    "net_income": [
+      112010,
+      101464,
+      84544
+    ],
+    "operating_cash_flow": [
+      111482,
+      116996,
+      81754
+    ],
+    "cash_capex": [
+      12715,
+      6799,
+      9473
+    ]
+  },
+  "sources": {
+    "full_year": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+    "nine_month_comparison": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+    "third_party_ttm": "https://stockanalysis.com/stocks/aapl/financials/",
+    "retrieved": "2026-10-19 Asia/Shanghai"
+  },
+  "ttm_result": {
+    "revenue": 466823,
+    "net_income": 128930,
+    "operating_cash_flow": 146724,
+    "cash_capex": 10041,
+    "free_cash_flow": 136683
+  },
+  "third_party_ttm_values": {
+    "revenue": 466823,
+    "net_income": 128930,
+    "operating_cash_flow": 146724,
+    "cash_capex": 10041,
+    "free_cash_flow": 136683
+  }
+}

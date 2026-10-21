@@ -1,0 +1,51 @@
+======================================================================
+[1m报告数据抽检 — 准出/打回判决[0m
+报告：拼多多研究报告-20261002.md
+======================================================================
+
+  [92m✅ 通过[0m [ 4] 收入 · 2024                            报告:    393836.00 
+                                                    https://investor.pddholdings.com/static-files/92dafbdc-3125-4f2c-a28f-3d61203efbaf: 393835.50 (偏差 0.00%)  |  https://stockanalysis.com/stocks/pdd/financials/: 393836.00 (偏差 0.00%)
+  [92m✅ 通过[0m [ 5] 收入 · 2025                            报告:    431846.00 
+                                                    https://investor.pddholdings.com/static-files/92dafbdc-3125-4f2c-a28f-3d61203efbaf: 431845.70 (偏差 0.00%)  |  https://stockanalysis.com/stocks/pdd/financials/: 431846.00 (偏差 0.00%)
+  [92m✅ 通过[0m [15] 经营现金流 · 2025                         报告:    106939.00 
+                                                    https://investor.pddholdings.com/static-files/92dafbdc-3125-4f2c-a28f-3d61203efbaf: 106938.69 (偏差 0.00%)  |  https://stockanalysis.com/stocks/pdd/financials/cash-flow-statement/: 106939.00 (偏差 0.00%)
+  [92m✅ 通过[0m [14] 经营现金流 · 2024                         报告:    121929.00 
+                                                    https://investor.pddholdings.com/static-files/92dafbdc-3125-4f2c-a28f-3d61203efbaf: 121929.29 (偏差 0.00%)  |  https://stockanalysis.com/stocks/pdd/financials/cash-flow-statement/: 121929.00 (偏差 0.00%)
+  [92m✅ 通过[0m [12] 经营现金流 · 2022                         报告:     48508.00 
+                                                    https://investor.pddholdings.com/static-files/83d4cabc-ff91-4fe2-919f-747d9bf74709: 48507.86 (偏差 0.00%)  |  https://stockanalysis.com/stocks/pdd/financials/cash-flow-statement/: 48508.00 (偏差 0.00%)
+  [92m✅ 通过[0m [18] 购置设备等现金支出 · 2023                     报告:       583.88 
+                                                    https://investor.pddholdings.com/static-files/92dafbdc-3125-4f2c-a28f-3d61203efbaf: 583.88 (偏差 0.00%)  |  https://stockanalysis.com/stocks/pdd/financials/cash-flow-statement/: 583.88 (偏差 0.00%)
+  [92m✅ 通过[0m [29] 毛利率 · 2024                           报告:        60.92 %
+                                                    https://investor.pddholdings.com/static-files/92dafbdc-3125-4f2c-a28f-3d61203efbaf: 60.92 (偏差 0.00%)  |  https://stockanalysis.com/stocks/pdd/financials/: 60.92 (偏差 0.00%)
+  [92m✅ 通过[0m [28] 毛利率 · 2023                           报告:        62.96 %
+                                                    https://investor.pddholdings.com/static-files/92dafbdc-3125-4f2c-a28f-3d61203efbaf: 62.96 (偏差 0.00%)  |  https://stockanalysis.com/stocks/pdd/financials/: 62.96 (偏差 0.00%)
+  [92m✅ 通过[0m [30] 毛利率 · 2025                           报告:        56.28 %
+                                                    https://investor.pddholdings.com/static-files/92dafbdc-3125-4f2c-a28f-3d61203efbaf: 56.28 (偏差 0.00%)  |  https://stockanalysis.com/stocks/pdd/financials/: 56.28 (偏差 0.00%)
+  [92m✅ 通过[0m [32] 经营利润率 · 2022                         报告:        23.29 %
+                                                    https://investor.pddholdings.com/static-files/83d4cabc-ff91-4fe2-919f-747d9bf74709: 23.29 (偏差 0.02%)  |  https://stockanalysis.com/stocks/pdd/financials/: 23.29 (偏差 0.02%)
+  [92m✅ 通过[0m [36] 简单自由现金流 · 2021                       报告:     25496.00 
+                                                    https://stockanalysis.com/stocks/pdd/financials/cash-flow-statement/: 25496.00 (偏差 0.00%)
+  [92m✅ 通过[0m [55] 线上营销及其他 · 2025Q3                     报告:     53347.60 
+                                                    https://investor.pddholdings.com/news-releases/news-release-details/pdd-holdings-announces-third-quarter-2025-unaudited-financial: 53347.60 (偏差 0.00%)
+  [92m✅ 通过[0m [70] 归母净利润 · 2026Q2                       报告:     27182.00 
+                                                    https://investor.pddholdings.com/news-releases/news-release-details/pdd-holdings-announces-second-quarter-2026-unaudited-financial/: 27182.00 (偏差 0.00%)  |  https://www.marketscreener.com/news/pdd-holdings-inc-reports-earnings-results-for-the-second-quarter-and-six-months-ended-june-30-2026-ce7858dbda8bf527: 27182.00 (偏差 0.00%)
+  [92m✅ 通过[0m [76] 毛利率（计算取整） · 2025Q4                   报告:        55.00 %
+                                                    https://pinduoduo.gcs-web.com/news-releases/news-release-details/pdd-holdings-announces-fourth-quarter-2025-and-fiscal-year-2025: 55.00 (偏差 0.00%)
+  ⬜ [82] 悲观 · 净资产调整（十亿元）                           100.00   →  [未提供核验值，跳过]
+  ⬜ [87] 中性 · 净资产调整（十亿元）                           200.00   →  [未提供核验值，跳过]
+  ⬜ [95] 悲观 · 退出PE                                   7.00   →  [未提供核验值，跳过]
+
+----------------------------------------------------------------------
+  抽检总数: 14  |  通过: [92m14[0m  |  警告: [93m0[0m  |  不通过: [91m0[0m
+
+[1m[92m【准出】所有抽检数据通过，报告可发布。[0m
+======================================================================
+{
+  "verdict": "PASS",
+  "pass_count": 14,
+  "warn_count": 0,
+  "fail_count": 0,
+  "total": 14,
+  "fail_items": [],
+  "warn_items": []
+}

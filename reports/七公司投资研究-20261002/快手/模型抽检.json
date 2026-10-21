@@ -1,0 +1,30 @@
+[
+  {
+    "id": 76,
+    "reported": 0.76,
+    "recomputed": "0.76103099231450990420646519778628968020",
+    "description": "市值/TTM收入，输入分别核验",
+    "within_display_rounding": true
+  },
+  {
+    "id": 82,
+    "reported": 2.33,
+    "recomputed": "2.332657200811359026369168357",
+    "description": "0.69/29.58*100；历史股息不是预测",
+    "within_display_rounding": true
+  },
+  {
+    "id": 87,
+    "reported": -36.69,
+    "recomputed": "-36.68737147087603855658289370",
+    "description": "悲观情景三年财富倍数年化",
+    "within_display_rounding": true
+  },
+  {
+    "id": 95,
+    "reported": 70.49,
+    "recomputed": "70.486088538314342441700843388073937547",
+    "description": "乐观DCF假设算术",
+    "within_display_rounding": true
+  }
+]

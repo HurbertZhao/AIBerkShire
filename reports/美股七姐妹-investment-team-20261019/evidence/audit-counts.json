@@ -1,0 +1,100 @@
+[
+  {
+    "ticker": "AAPL",
+    "extracted": 147,
+    "sampled": 23,
+    "counts": {
+      "arithmetic": 6,
+      "assumption_consistency": 3,
+      "extraction_noise": 3,
+      "fact": 11
+    },
+    "checked": 20,
+    "verdict_output": "                                              (TTM营业利润×80%×增长因子×退出倍数+净金融资产)/情景股份: 2.00 (偏差 0.00%)\n  ✅ 通过 [140] 尚未持有、偏现金流价值 · 行动规则                   报告:       130.00 \n                                                    核心基准×执行折价，向下取整5美元档: 130.00 (偏差 0.00%)\n\n----------------------------------------------------------------------\n  抽检总数: 20  |  通过: 20  |  警告: 0  |  不通过: 0\n\n【准出】所有抽检数据通过，报告可发布。\n======================================================================\n{\n  \"verdict\": \"PASS\",\n  \"pass_count\": 20,\n  \"warn_count\": 0,\n  \"fail_count\": 0,\n  \"total\": 20,\n  \"fail_items\": [],\n  \"warn_items\": []\n}\n"
+  },
+  {
+    "ticker": "MSFT",
+    "extracted": 147,
+    "sampled": 23,
+    "counts": {
+      "arithmetic": 6,
+      "assumption_consistency": 3,
+      "derived_fact": 1,
+      "extraction_noise": 3,
+      "fact": 10
+    },
+    "checked": 20,
+    "verdict_output": "                                              (TTM营业利润×80%×增长因子×退出倍数+净金融资产)/情景股份: 8.00 (偏差 0.00%)\n  ✅ 通过 [140] 尚未持有、偏现金流价值 · 行动规则                   报告:       350.00 \n                                                    核心基准×执行折价，向下取整5美元档: 350.00 (偏差 0.00%)\n\n----------------------------------------------------------------------\n  抽检总数: 20  |  通过: 20  |  警告: 0  |  不通过: 0\n\n【准出】所有抽检数据通过，报告可发布。\n======================================================================\n{\n  \"verdict\": \"PASS\",\n  \"pass_count\": 20,\n  \"warn_count\": 0,\n  \"fail_count\": 0,\n  \"total\": 20,\n  \"fail_items\": [],\n  \"warn_items\": []\n}\n"
+  },
+  {
+    "ticker": "GOOGL",
+    "extracted": 150,
+    "sampled": 23,
+    "counts": {
+      "arithmetic": 5,
+      "assumption_consistency": 4,
+      "derived_fact": 1,
+      "extraction_noise": 1,
+      "fact": 10,
+      "vendor_snapshot": 2
+    },
+    "checked": 22,
+    "verdict_output": " \n                                                    (TTM营业利润×80%×增长因子×退出倍数+净金融资产)/情景股份: 429.90 (偏差 0.00%)\n  ✅ 通过 [140] 简单平均 · 评分/5                          报告:         3.80 \n                                                    四项主观评分简单平均: 3.80 (偏差 0.00%)\n\n----------------------------------------------------------------------\n  抽检总数: 22  |  通过: 22  |  警告: 0  |  不通过: 0\n\n【准出】所有抽检数据通过，报告可发布。\n======================================================================\n{\n  \"verdict\": \"PASS\",\n  \"pass_count\": 22,\n  \"warn_count\": 0,\n  \"fail_count\": 0,\n  \"total\": 22,\n  \"fail_items\": [],\n  \"warn_items\": []\n}\n"
+  },
+  {
+    "ticker": "AMZN",
+    "extracted": 149,
+    "sampled": 23,
+    "counts": {
+      "arithmetic": 4,
+      "assumption_consistency": 5,
+      "extraction_noise": 1,
+      "fact": 11,
+      "vendor_snapshot": 2
+    },
+    "checked": 22,
+    "verdict_output": " \n                                                    (TTM营业利润×80%×增长因子×退出倍数+净金融资产)/情景股份: 363.64 (偏差 0.00%)\n  ✅ 通过 [140] 简单平均 · 评分/5                          报告:         3.70 \n                                                    四项主观评分简单平均: 3.70 (偏差 0.00%)\n\n----------------------------------------------------------------------\n  抽检总数: 22  |  通过: 22  |  警告: 0  |  不通过: 0\n\n【准出】所有抽检数据通过，报告可发布。\n======================================================================\n{\n  \"verdict\": \"PASS\",\n  \"pass_count\": 22,\n  \"warn_count\": 0,\n  \"fail_count\": 0,\n  \"total\": 22,\n  \"fail_items\": [],\n  \"warn_items\": []\n}\n"
+  },
+  {
+    "ticker": "META",
+    "extracted": 148,
+    "sampled": 23,
+    "counts": {
+      "arithmetic": 5,
+      "assumption_consistency": 5,
+      "extraction_noise": 1,
+      "fact": 11,
+      "vendor_snapshot": 1
+    },
+    "checked": 22,
+    "verdict_output": "  报告:         3.00 \n                                                    风险角色主观评分: 3.00 (偏差 0.00%)\n  ✅ 通过 [143] 尚未持有、偏现金流价值 · 行动规则                   报告:       475.00 \n                                                    核心基准×执行折价，向下取整5美元档: 475.00 (偏差 0.00%)\n\n----------------------------------------------------------------------\n  抽检总数: 22  |  通过: 22  |  警告: 0  |  不通过: 0\n\n【准出】所有抽检数据通过，报告可发布。\n======================================================================\n{\n  \"verdict\": \"PASS\",\n  \"pass_count\": 22,\n  \"warn_count\": 0,\n  \"fail_count\": 0,\n  \"total\": 22,\n  \"fail_items\": [],\n  \"warn_items\": []\n}\n"
+  },
+  {
+    "ticker": "NVDA",
+    "extracted": 149,
+    "sampled": 23,
+    "counts": {
+      "arithmetic": 5,
+      "assumption_consistency": 5,
+      "extraction_noise": 1,
+      "fact": 10,
+      "vendor_snapshot": 2
+    },
+    "checked": 22,
+    "verdict_output": " \n                                                    (TTM营业利润×80%×增长因子×退出倍数+净金融资产)/情景股份: 390.18 (偏差 0.00%)\n  ✅ 通过 [140] 简单平均 · 评分/5                          报告:         3.98 \n                                                    四项主观评分简单平均: 3.98 (偏差 0.00%)\n\n----------------------------------------------------------------------\n  抽检总数: 22  |  通过: 22  |  警告: 0  |  不通过: 0\n\n【准出】所有抽检数据通过，报告可发布。\n======================================================================\n{\n  \"verdict\": \"PASS\",\n  \"pass_count\": 22,\n  \"warn_count\": 0,\n  \"fail_count\": 0,\n  \"total\": 22,\n  \"fail_items\": [],\n  \"warn_items\": []\n}\n"
+  },
+  {
+    "ticker": "TSLA",
+    "extracted": 145,
+    "sampled": 22,
+    "counts": {
+      "arithmetic": 8,
+      "assumption_consistency": 2,
+      "derived_fact": 1,
+      "extraction_noise": 3,
+      "fact": 8
+    },
+    "checked": 19,
+    "verdict_output": " \n                                                    (TTM营业利润×80%×增长因子×退出倍数+净金融资产)/情景股份: 15.00 (偏差 0.00%)\n  ✅ 通过 [140] 已持有且高度集中 · 行动规则                      报告:        57.00 \n                                                    独立DCF基准值取整: 57.00 (偏差 0.00%)\n\n----------------------------------------------------------------------\n  抽检总数: 19  |  通过: 19  |  警告: 0  |  不通过: 0\n\n【准出】所有抽检数据通过，报告可发布。\n======================================================================\n{\n  \"verdict\": \"PASS\",\n  \"pass_count\": 19,\n  \"warn_count\": 0,\n  \"fail_count\": 0,\n  \"total\": 19,\n  \"fail_items\": [],\n  \"warn_items\": []\n}\n"
+  }
+]

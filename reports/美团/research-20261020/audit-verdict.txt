@@ -1,0 +1,46 @@
+======================================================================
+[1m报告数据抽检 — 准出/打回判决[0m
+报告：美团研究报告-20261020.md
+======================================================================
+
+  [92m✅ 通过[0m [ 4] 收入 · 2024年                           报告:      3375.92 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0424/2026042400179.pdf: 3375.92 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/3690/financials/: 3375.92 (偏差 0.00%)
+  [92m✅ 通过[0m [ 5] 收入 · 2025年                           报告:      3648.55 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0424/2026042400179.pdf: 3648.55 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/3690/financials/: 3648.55 (偏差 0.00%)
+  [92m✅ 通过[0m [15] 毛利率 · 2025年                          报告:        30.43 %
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0424/2026042400179.pdf: 30.43 (偏差 0.02%)  |  https://stockanalysis.com/quote/hkg/3690/financials/: 30.43 (偏差 0.00%)
+  [92m✅ 通过[0m [14] 毛利率 · 2024年                          报告:        38.44 %
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0424/2026042400179.pdf: 38.44 (偏差 0.01%)  |  https://stockanalysis.com/quote/hkg/3690/financials/: 38.44 (偏差 0.00%)
+  [92m✅ 通过[0m [12] 毛利率 · 2022年                          报告:        28.07 %
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0424/2023042400042.pdf: 28.08 (偏差 0.02%)  |  https://stockanalysis.com/quote/hkg/3690/financials/: 28.07 (偏差 0.00%)
+  [92m✅ 通过[0m [18] 集团经营利润 · 2023年                       报告:       134.15 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2024/0429/2024042900115.pdf: 134.15 (偏差 0.00%)
+  [92m✅ 通过[0m [29] 归母净利润 · 2024年                        报告:       358.07 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0424/2026042400179.pdf: 358.07 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/3690/financials/: 358.07 (偏差 0.00%)
+  [92m✅ 通过[0m [28] 归母净利润 · 2023年                        报告:       138.56 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0424/2026042400179.pdf: 138.56 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/3690/financials/: 138.56 (偏差 0.00%)
+  [92m✅ 通过[0m [30] 归母净利润 · 2025年                        报告:      -233.55 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0424/2026042400179.pdf: -233.55 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/3690/financials/: -233.55 (偏差 0.00%)
+  [92m✅ 通过[0m [32] 经营现金流 · 2022年                        报告:       114.11 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0424/2023042400042.pdf: 114.11 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/3690/financials/: 114.11 (偏差 0.00%)
+  [92m✅ 通过[0m [36] 资本开支现金支出 · 2021年                     报告:        90.10 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0424/2023042400042.pdf: 90.10 (偏差 0.01%)  |  https://stockanalysis.com/quote/hkg/3690/financials/: 90.10 (偏差 0.00%)
+  [92m✅ 通过[0m [55] 核心本地商业收入 · 2025Q3                    报告:       674.47 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1128/2025112800483.pdf: 674.47 (偏差 0.00%)
+  [92m✅ 通过[0m [65] 核心本地商业经营利润 · 2026Q1                  报告:       -20.30 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092900007.pdf: -20.30 (偏差 0.00%)
+  [92m✅ 通过[0m [70] 新业务经营利润 · 2026Q2                     报告:       -17.39 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092900007.pdf: -17.39 (偏差 0.00%)
+  [92m✅ 通过[0m [76] 期间净利润 · 2025Q4                       报告:      -151.44 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0424/2026042400179.pdf: -151.44 (偏差 0.00%)
+  [92m✅ 通过[0m [82] 再减：融资栏租赁付款 · 亿元人民币                   报告:        16.07 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092900007.pdf: 16.07 (偏差 0.02%)
+  ⬜ [87] 价格战防守 · 可核实事实或资料边界                       2025.00   →  [未提供核验值，跳过]
+  [92m✅ 通过[0m [95] 银行借款与票据债务 · 复算值与解释                   报告:       887.01 亿元
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092900007.pdf: 887.01 (偏差 0.00%)
+
+----------------------------------------------------------------------
+  抽检总数: 17  |  通过: [92m17[0m  |  警告: [93m0[0m  |  不通过: [91m0[0m
+
+[1m[92m【准出】所有抽检数据通过，报告可发布。[0m
+======================================================================

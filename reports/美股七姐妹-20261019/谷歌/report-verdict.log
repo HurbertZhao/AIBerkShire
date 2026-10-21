@@ -1,0 +1,42 @@
+======================================================================
+报告数据抽检 — 准出/打回判决
+报告：/workspace/scratch/351726a27bf6/ai-berkshire/reports/美股七姐妹-20261019/谷歌/谷歌投资研究报告-20261019.md
+======================================================================
+
+  ✅ 通过 [ 4] 现金加流动证券 · 数值                         报告:       242.47
+                                                    https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm: 242.47 (偏差 0.00%)  |  https://stockanalysis.com/stocks/googl/financials/balance-sheet/: 242.47 (偏差 0.00%)
+  ✅ 通过 [ 5] 非流动上市股权 · 数值                         报告:        14.13
+                                                    https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm: 14.13 (偏差 0.00%)  |  https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c: 14.10 (偏差 0.18%)
+  ✅ 通过 [12] 强制可转优先股账面权益 · 数值                     报告:        18.02
+                                                    https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm: 18.02 (偏差 0.00%)  |  https://www.gurufocus.com/term/book-value-per-share/GOOGL: 18.02 (偏差 0.00%)
+  ✅ 通过 [14] 其中短期合同承诺 · 数值                        报告:       200.70
+                                                    https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm: 200.70 (偏差 0.00%)  |  https://news.bloombergtax.com/financial-accounting/alphabets-future-spending-commitments-soar-to-811-billion: 200.70 (偏差 0.00%)
+  ⬜ [15] 品牌/入口 · 现有证据                             2026.00   →  [未提供核验值，跳过]
+  ⬜ [18] 暂停回购并新增融资 · 可核实结果                        2026.00   →  [未提供核验值，跳过]
+  ✅ 通过 [29] GOOGL 等价集团市值，万亿美元 · 数值               报告:         4.17
+                                                    recalculate.py: Decimal price multiplied by all-class shares: 4.17 (偏差 0.00%)  |  https://stockanalysis.com/stocks/googl/statistics/: 4.17 (偏差 0.11%)
+  ✅ 通过 [32] 自建经营税后盈利代理，十亿美元 · 解释                 报告:       147.63
+                                                    https://stockanalysis.com/stocks/googl/financials/: 147.63 (偏差 0.00%)  |  SEC four quarter operating income reconciliation S6-S9: 147.63 (偏差 0.00%)
+  ✅ 通过 [36] 股价/经营税后每股盈利 · 解释                     报告:        17.00 倍
+                                                    https://stockanalysis.com/stocks/googl/statistics/: 17.09 (偏差 0.53%)  |  recalculate.py exact price / filed TTM EPS: 17.09 (偏差 0.53%)
+  ✅ 通过 [55] 悲观 · 三年经营盈利倍数                        报告:        20.00
+                                                    research-data.json assumptions.pe3[2] research assumption, not external fact: 20.00 (偏差 0.00%)
+  ✅ 通过 [69] 乐观 · 主观概率                            报告:        25.00 %
+                                                    research-data.json assumptions.p[2]*100 subjective probability, not observed frequency: 25.00 (偏差 0.00%)
+  ✅ 通过 [75] 持仓者 · 建议                             报告:       300.00
+                                                    Report decision policy: lower bound of hold band; judgment not third-party forecast: 300.00 (偏差 0.00%)
+
+----------------------------------------------------------------------
+  抽检总数: 10  |  通过: 10  |  警告: 0  |  不通过: 0
+
+【准出】所有抽检数据通过，报告可发布。
+======================================================================
+{
+  "verdict": "PASS",
+  "pass_count": 10,
+  "warn_count": 0,
+  "fail_count": 0,
+  "total": 10,
+  "fail_items": [],
+  "warn_items": []
+}

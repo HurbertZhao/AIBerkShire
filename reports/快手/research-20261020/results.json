@@ -1,0 +1,122 @@
+{
+  "market_cap_hkd_bn": "126.1116418214",
+  "market_cap_cny_bn": "107.5101746527435",
+  "TTM_revenue_bn": "144.373",
+  "TTM_net_income_bn": "15.766",
+  "TTM_CFO_bn": "23.979",
+  "TTM_capex_bn": "25.808",
+  "TTM_lease_bn": "4.009",
+  "bridge_bn": "9.489",
+  "scenarios": {
+    "bear": {
+      "main_EV_bn": "49.092522394364999653364384917409519210",
+      "kling_EV_100pct_bn": "-11.067801448558096056263184259600304782",
+      "equity_bn": "51.018893664565252618119751112824630952",
+      "value_per_share_hkd": "13.904298725214799547888948620977134245",
+      "upside_pct": "-52.545055545341981065225431327723091314",
+      "terminal_share_operating_value_pct": "33.797695816128421546531227231801864042",
+      "parent_2036_FCFF_bn": "4.0000"
+    },
+    "base": {
+      "main_EV_bn": "145.47493189850159341598686735174081183",
+      "kling_EV_100pct_bn": "30.677181936136214266074020208235999518",
+      "equity_bn": "175.92565031546346862399524536002847030",
+      "value_per_share_hkd": "47.945430010624034861512650788036592799",
+      "upside_pct": "63.636279899740733315742835454049804770",
+      "terminal_share_operating_value_pct": "56.051577263055670282844930861858498028",
+      "parent_2036_FCFF_bn": "21.0998"
+    },
+    "bull": {
+      "main_EV_bn": "236.71512088837042738109620745529267722",
+      "kling_EV_100pct_bn": "125.21761294096929701950996567401638442",
+      "equity_bn": "331.76531581093474803452736700034807269",
+      "value_per_share_hkd": "90.416779478390789526195665258786561948",
+      "upside_pct": "208.58969105252829189827872101974935818",
+      "terminal_share_operating_value_pct": "61.032971863274298018538292292558390012",
+      "parent_2036_FCFF_bn": "41.6660"
+    }
+  },
+  "TTM_simple_FCF_bn": "-1.829",
+  "TTM_after_lease_FCF_bn": "-5.838",
+  "PE_TTM": "6.8191154796868895090701509577571990359",
+  "PS_TTM": "0.74466953414241928892521454842664487127",
+  "PE_2025": "5.7748388383060374926142772734597410968",
+  "reverse_flat_FCFF_bn": "10.2922233385380675",
+  "reverse_g2_FCFF_year1_bn": "8.3317998454831975",
+  "base_operating_bridge_bn": {
+    "2027_main": {
+      "revenue": "145",
+      "EBIT_after_economic_SBC_and_cash_lease": "17.5",
+      "cash_tax": "3.5",
+      "NOPAT_equals_normalized_NI_no_net_finance_or_investment": "14.0",
+      "PPE_depreciation": "10",
+      "cash_capex_including_prepayments": "14",
+      "additional_working_capital": "2",
+      "FCFF": "8.0",
+      "EBIT_margin": "0.12068965517241379310344827586206896552"
+    },
+    "2027_kling": {
+      "revenue": "8",
+      "EBIT_after_economic_SBC_and_cash_lease": "-2.5",
+      "cash_tax": "0",
+      "NOPAT_equals_normalized_NI_no_net_finance_or_investment": "-2.5",
+      "PPE_depreciation": "1",
+      "cash_capex_including_prepayments": "1",
+      "additional_working_capital": "0.5",
+      "FCFF": "-3.0",
+      "EBIT_margin": "-0.3125"
+    },
+    "2036_main": {
+      "revenue": "220",
+      "EBIT_after_economic_SBC_and_cash_lease": "27.5",
+      "cash_tax": "5.5",
+      "NOPAT_equals_normalized_NI_no_net_finance_or_investment": "22.0",
+      "PPE_depreciation": "10",
+      "cash_capex_including_prepayments": "13",
+      "additional_working_capital": "2",
+      "FCFF": "17.0",
+      "EBIT_margin": "0.125"
+    },
+    "2036_kling": {
+      "revenue": "60",
+      "EBIT_after_economic_SBC_and_cash_lease": "18.75",
+      "cash_tax": "3.75",
+      "NOPAT_equals_normalized_NI_no_net_finance_or_investment": "15.00",
+      "PPE_depreciation": "8",
+      "cash_capex_including_prepayments": "15",
+      "additional_working_capital": "2",
+      "FCFF": "6.00",
+      "EBIT_margin": "0.3125"
+    }
+  },
+  "kling_negative_cash_full_parent_stress": {
+    "bear": {
+      "additional_parent_negative_cash_PV_bn": "-3.5051727187583490210185504550154165245",
+      "per_share_change_hkd": "-0.95527294036442935872352539598719470821",
+      "stressed_value_hkd": "12.949025784850370189165423224989939537"
+    },
+    "base": {
+      "additional_parent_negative_cash_PV_bn": "-1.6132895189219131133891755693351989618",
+      "per_share_change_hkd": "-0.43967357561357854019267925593033825513",
+      "stressed_value_hkd": "47.505756435010456321319971532106254544"
+    },
+    "bull": {
+      "additional_parent_negative_cash_PV_bn": "-1.1191912532503429495710571036629061649",
+      "per_share_change_hkd": "-0.30501581665320304201965046841770933325",
+      "stressed_value_hkd": "90.111763661737586484176014790368852615"
+    }
+  },
+  "base_observe_75pct_hkd": "35.959072507968026146134488091027444599",
+  "shares_secondary_error_pct": "0.0035221343056420848678480957166323303838",
+  "RSU_grant_pct": "0.30884976277733793706399093241232066845",
+  "scenario_2036_net_profit_bn": {
+    "bear": "8",
+    "base": "32.2495",
+    "bull": "62.3320"
+  },
+  "sensitivity": {
+    ".09": "59.568316826785300776111633389235990549",
+    ".105": "47.945430010624034861512650788036592799",
+    ".12": "39.925040924619290258784265647440390395"
+  }
+}

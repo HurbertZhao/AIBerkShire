@@ -1,0 +1,227 @@
+======================================================================
+报告数据抽检清单
+文件：reports/七公司投资研究-20261002/美团/美团研究报告-20261002.md
+总提取数据点：106  |  抽样比例：15%  |  抽检数量：16
+随机种子：42（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+  4     26  核心本地商业收入 · 2026Q1                          640.63  
+  5     26  核心本地商业收入 · 2026Q2                          715.31  
+ 15     28  总收入 · 2026Q2                              1046.43  
+ 14     28  总收入 · 2026Q1                               910.39  
+ 12     28  总收入 · 2025Q3                               950.62  
+ 18     29  总毛利 · 2025Q4                               241.27  
+ 29     31  公司经营利润 · 2026Q1                            -64.70  
+ 28     31  公司经营利润 · 2025Q4                           -160.74  
+ 32     32  期间净利润，含少数股东 · 2025Q3                      -186.32  
+ 36     40  配送服务 · 收入，亿元                               278.30  
+ 55     81  再扣租赁负债71.16后的净现金 · 人民币亿元                   724.97  
+ 70    195  总股本 · 解释                                    61.75  亿
+ 76    200  PE、PEG、盈利型回报率 · 解释                         384.49  亿元
+ 82    217  基准 · 今日DCF现值，港元                             65.96  
+ 87    218  乐观 · 今日DCF现值，港元                            155.87  
+ 95    229  折现11% · 永续1.5%                              62.90  
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 4,
+    "label": "核心本地商业收入 · 2026Q1",
+    "reported_value": 640.63,
+    "unit": "",
+    "line_number": 26,
+    "raw_text": "| 核心本地商业收入 | 约2,608.26 | 约670.21 | 648.35 | 640.63 | 715.31 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 5,
+    "label": "核心本地商业收入 · 2026Q2",
+    "reported_value": 715.31,
+    "unit": "",
+    "line_number": 26,
+    "raw_text": "| 核心本地商业收入 | 约2,608.26 | 约670.21 | 648.35 | 640.63 | 715.31 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 15,
+    "label": "总收入 · 2026Q2",
+    "reported_value": 1046.43,
+    "unit": "",
+    "line_number": 28,
+    "raw_text": "| 总收入 | 3,648.55 | 950.62 | 920.96 | 910.39 | 1,046.43 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 14,
+    "label": "总收入 · 2026Q1",
+    "reported_value": 910.39,
+    "unit": "",
+    "line_number": 28,
+    "raw_text": "| 总收入 | 3,648.55 | 950.62 | 920.96 | 910.39 | 1,046.43 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 12,
+    "label": "总收入 · 2025Q3",
+    "reported_value": 950.62,
+    "unit": "",
+    "line_number": 28,
+    "raw_text": "| 总收入 | 3,648.55 | 950.62 | 920.96 | 910.39 | 1,046.43 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 18,
+    "label": "总毛利 · 2025Q4",
+    "reported_value": 241.27,
+    "unit": "",
+    "line_number": 29,
+    "raw_text": "| 总毛利 | 1,110.09 | 247.55 | 241.27 | 259.70 | 350.95 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 29,
+    "label": "公司经营利润 · 2026Q1",
+    "reported_value": -64.7,
+    "unit": "",
+    "line_number": 31,
+    "raw_text": "| 公司经营利润 | -250.41 | -197.59 | -160.74 | -64.70 | 26.91 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 28,
+    "label": "公司经营利润 · 2025Q4",
+    "reported_value": -160.74,
+    "unit": "",
+    "line_number": 31,
+    "raw_text": "| 公司经营利润 | -250.41 | -197.59 | -160.74 | -64.70 | 26.91 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 32,
+    "label": "期间净利润，含少数股东 · 2025Q3",
+    "reported_value": -186.32,
+    "unit": "",
+    "line_number": 32,
+    "raw_text": "| 期间净利润，含少数股东 | -233.54 | -186.32 | -151.44 | -68.27 | 21.55 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 36,
+    "label": "配送服务 · 收入，亿元",
+    "reported_value": 278.3,
+    "unit": "",
+    "line_number": 40,
+    "raw_text": "| 配送服务 | 278.30 | 订单密度帮助成本效率，骑手及履约成本持续存在 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 55,
+    "label": "再扣租赁负债71.16后的净现金 · 人民币亿元",
+    "reported_value": 724.97,
+    "unit": "",
+    "line_number": 81,
+    "raw_text": "| 再扣租赁负债71.16后的净现金 | 724.97 | 债务观察口径，DCF不重复扣 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 70,
+    "label": "总股本 · 解释",
+    "reported_value": 61.7548,
+    "unit": "亿",
+    "line_number": 195,
+    "raw_text": "| 总股本 | 61.754848亿股 | 腾讯行情精确值、同花顺约61.7548亿，SA约61.7亿 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 76,
+    "label": "PE、PEG、盈利型回报率 · 解释",
+    "reported_value": 384.49,
+    "unit": "亿元",
+    "line_number": 200,
+    "raw_text": "| PE、PEG、盈利型回报率 | 不适用 | 归母TTM亏损384.49亿元 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 82,
+    "label": "基准 · 今日DCF现值，港元",
+    "reported_value": 65.96,
+    "unit": "",
+    "line_number": 217,
+    "raw_text": "| 基准 | 65.96 | 84.50 | 0.00 | +20.38% | +6.38% | 61.79 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 87,
+    "label": "乐观 · 今日DCF现值，港元",
+    "reported_value": 155.87,
+    "unit": "",
+    "line_number": 218,
+    "raw_text": "| 乐观 | 155.87 | 200.69 | 0.00 | +185.88% | +41.93% | 150.78 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 95,
+    "label": "折现11% · 永续1.5%",
+    "reported_value": 62.9,
+    "unit": "",
+    "line_number": 229,
+    "raw_text": "| 折现11% | 62.90 | 65.96 | 69.83 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

@@ -1,0 +1,52 @@
+======================================================================
+报告数据抽检 — 准出/打回判决
+报告：快手研究报告-20261020.md
+======================================================================
+
+  ✅ 通过 [ 7] 毛利率 · 2022                           报告:        44.70 %
+                                                    https://stockanalysis.com/quote/hkg/1024/financials/ gross profit/revenue: 44.73 (偏差 0.07%)
+  ✅ 通过 [ 9] 毛利率 · 2024                           报告:        54.60 %
+                                                    https://stockanalysis.com/quote/hkg/1024/financials/ gross profit/revenue: 54.60 (偏差 0.00%)
+  ✅ 通过 [ 8] 毛利率 · 2023                           报告:        50.60 %
+                                                    https://stockanalysis.com/quote/hkg/1024/financials/ gross profit/revenue: 50.58 (偏差 0.04%)
+  ✅ 通过 [23] 经营现金流 · 2023                         报告:       207.81 
+                                                    https://stockanalysis.com/quote/hkg/1024/financials/cash-flow-statement/ FY2023 CFO: 207.81 (偏差 0.00%)
+  ✅ 通过 [24] 经营现金流 · 2024                         报告:       297.87 
+                                                    https://stockanalysis.com/quote/hkg/1024/financials/cash-flow-statement/ FY2024 CFO: 297.87 (偏差 0.00%)
+  ✅ 通过 [29] 固定及无形资产付款/预付款 · 2024                 报告:        80.63 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0424/2026042401899.pdf p278: 80.63 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/1024/financials/cash-flow-statement/: 80.63 (偏差 0.00%)
+  ✅ 通过 [27] 固定及无形资产付款/预付款 · 2022                 报告:        51.00 
+                                                    https://stockanalysis.com/quote/hkg/1024/financials/cash-flow-statement/ FY2022 capex: 51.00 (偏差 0.00%)
+  ✅ 通过 [36] 第三方现金与短期投资口径 · 2021                  报告:       454.57 
+                                                    https://stockanalysis.com/quote/hkg/1024/financials/ historical cash and investments: 454.57 (偏差 0.00%)
+  ✅ 通过 [51] 简单FCF · 滚动十二月计算值                     报告:       -18.29 
+                                                    derived: TTM CFO 267.16-117.81+90.44 minus TTM capex 149.42-70.75+179.41 (https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0424/2026042401899.pdf p278, https://www.hkexnews.hk/listedco/listconews/sehk/2026/0903/2026090300643_c.pdf p63): -18.29 (偏差 0.00%)
+  ✅ 通过 [58] 再扣租赁付款后的现金 · 2026H1                  报告:      -108.16 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0903/2026090300643_c.pdf p63; derived: -108.16 (偏差 0.00%)
+  ✅ 通过 [56] 再扣租赁付款后的现金 · 2025                    报告:        79.51 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0424/2026042401899.pdf p279; derived: 79.51 (偏差 0.00%)
+  ✅ 通过 [57] 再扣租赁付款后的现金 · 2025H1                  报告:        29.73 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0903/2026090300643_c.pdf p63; derived: 29.73 (偏差 0.00%)
+  ✅ 通过 [60] 总市值 · 本文计算                           报告:      1261.12 亿港元
+                                                    derived: 10-16 close 29.30 HKD x 43.0415亿 shares: 1261.12 (偏差 0.00%)
+  ✅ 通过 [63] FY2025归母PE · 本文计算                    报告:         5.77 倍
+                                                    derived: market cap CNY / FY2025 net profit 186.17: 5.77 (偏差 0.08%)
+  ✅ 通过 [71] 银行借款、优先票据及应计利息 · 金额                  报告:       273.62 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0903/2026090300643_c.pdf p97 note 20 total 27,362 RMB million: 273.62 (偏差 0.00%)
+  ✅ 通过 [72] 供应商融资安排负债 · 金额                       报告:       252.53 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0903/2026090300643_c.pdf p99-100 supplier finance 25,253 RMB million: 252.53 (偏差 0.00%)
+
+----------------------------------------------------------------------
+  抽检总数: 16  |  通过: 16  |  警告: 0  |  不通过: 0
+
+【准出】所有抽检数据通过，报告可发布。
+======================================================================
+{
+  "verdict": "PASS",
+  "pass_count": 16,
+  "warn_count": 0,
+  "fail_count": 0,
+  "total": 16,
+  "fail_items": [],
+  "warn_items": []
+}

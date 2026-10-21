@@ -1,0 +1,331 @@
+======================================================================
+报告数据抽检清单
+文件：reports/短剧与AI短剧研究-20261019/短剧与AI短剧深度研究报告-20261019.md
+总提取数据点：158  |  抽样比例：15%  |  抽检数量：24
+随机种子：42（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+  2     40  艾媒，2022年 · 披露规模，人民币                        101.70  亿元
+  7     44  DataEye，2025年 · 披露规模，人民币                  1000.00  亿元
+  8     45  DataEye，2026年 · 披露规模，人民币                  1210.00  亿元
+  9     57  CNNIC微短剧用户 · 已核实数值                           6.26  亿
+ 23    114  渠道费用，假设收入的15% · 原模式                         15.00
+ 24    114  渠道费用，假设收入的15% · AI降本、其他不变                   15.00
+ 27    115  获客投放 · AI降本、其他不变                            55.00
+ 29    116  内容制作 · 原模式                                  15.00
+ 36    118  税前项目利润 · AI降本、其他不变                          15.50
+ 51    242  快手：经调整利润净额 · 2024全年                        177.16
+ 58    243  掌阅：集团收入 · 2026上半年                           17.84
+ 56    243  掌阅：集团收入 · 2025全年                            32.43
+ 57    243  掌阅：集团收入 · 2025上半年                           15.26
+ 60    244  掌阅：归母净利润 · 2025全年                           -1.76
+ 63    245  掌阅：经营现金流 · 2024全年                           -0.75
+ 71    247  阅文：Non-IFRS归母净利润 · 2024全年                   11.42
+ 72    247  阅文：Non-IFRS归母净利润 · 2025全年                    8.58
+109    446  S03 · 主要用途和边界                             2026.00
+108    446  S03 · 来源与时间                               2025.00
+115    450  S07 · 来源与时间                               2026.00
+130    460  S17 · 来源与时间                               2025.00
+140    468  S25 · 来源与时间                               2025.00
+151    477  S34 · 来源与时间                               2025.00
+157    482  S39 · 来源与时间                               2026.00
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 2,
+    "label": "艾媒，2022年 · 披露规模，人民币",
+    "reported_value": 101.7,
+    "unit": "亿元",
+    "line_number": 40,
+    "raw_text": "| 艾媒，2022年 | 101.7亿元 | 历史市场估算 | 判断早期市场量级 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 7,
+    "label": "DataEye，2025年 · 披露规模，人民币",
+    "reported_value": 1000.0,
+    "unit": "亿元",
+    "line_number": 44,
+    "raw_text": "| DataEye，2025年 | 1000亿元 | 微短剧与漫剧合计产值估算 | 产品与资金流边界不同 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 8,
+    "label": "DataEye，2026年 · 披露规模，人民币",
+    "reported_value": 1210.0,
+    "unit": "亿元",
+    "line_number": 45,
+    "raw_text": "| DataEye，2026年 | 1210亿元 | 全年预测 | 不能称为已经实现 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 9,
+    "label": "CNNIC微短剧用户 · 已核实数值",
+    "reported_value": 6.26,
+    "unit": "亿",
+    "line_number": 57,
+    "raw_text": "| CNNIC微短剧用户 | 6.26亿人，网民占比55.8% | 2025年6月，调查口径 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 23,
+    "label": "渠道费用，假设收入的15% · 原模式",
+    "reported_value": 15.0,
+    "unit": "",
+    "line_number": 114,
+    "raw_text": "| 渠道费用，假设收入的15% | 15.00 | 15.00 | 13.50 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 24,
+    "label": "渠道费用，假设收入的15% · AI降本、其他不变",
+    "reported_value": 15.0,
+    "unit": "",
+    "line_number": 114,
+    "raw_text": "| 渠道费用，假设收入的15% | 15.00 | 15.00 | 13.50 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 27,
+    "label": "获客投放 · AI降本、其他不变",
+    "reported_value": 55.0,
+    "unit": "",
+    "line_number": 115,
+    "raw_text": "| 获客投放 | 55.00 | 55.00 | 60.00 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 29,
+    "label": "内容制作 · 原模式",
+    "reported_value": 15.0,
+    "unit": "",
+    "line_number": 116,
+    "raw_text": "| 内容制作 | 15.00 | 4.50 | 4.50 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 36,
+    "label": "税前项目利润 · AI降本、其他不变",
+    "reported_value": 15.5,
+    "unit": "",
+    "line_number": 118,
+    "raw_text": "| **税前项目利润** | **5.00** | **15.50** | **2.00** |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 51,
+    "label": "快手：经调整利润净额 · 2024全年",
+    "reported_value": 177.16,
+    "unit": "",
+    "line_number": 242,
+    "raw_text": "| 快手：经调整利润净额 | 177.16 | 206.47 | 101.98 | 72.87 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 58,
+    "label": "掌阅：集团收入 · 2026上半年",
+    "reported_value": 17.8379,
+    "unit": "",
+    "line_number": 243,
+    "raw_text": "| 掌阅：集团收入 | 25.8330 | 32.4274 | 15.2607 | 17.8379 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 56,
+    "label": "掌阅：集团收入 · 2025全年",
+    "reported_value": 32.4274,
+    "unit": "",
+    "line_number": 243,
+    "raw_text": "| 掌阅：集团收入 | 25.8330 | 32.4274 | 15.2607 | 17.8379 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 57,
+    "label": "掌阅：集团收入 · 2025上半年",
+    "reported_value": 15.2607,
+    "unit": "",
+    "line_number": 243,
+    "raw_text": "| 掌阅：集团收入 | 25.8330 | 32.4274 | 15.2607 | 17.8379 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 60,
+    "label": "掌阅：归母净利润 · 2025全年",
+    "reported_value": -1.7645,
+    "unit": "",
+    "line_number": 244,
+    "raw_text": "| 掌阅：归母净利润 | 0.4929 | -1.7645 | -1.6014 | -0.5014 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 63,
+    "label": "掌阅：经营现金流 · 2024全年",
+    "reported_value": -0.7502,
+    "unit": "",
+    "line_number": 245,
+    "raw_text": "| 掌阅：经营现金流 | -0.7502 | -2.3254 | -2.2718 | -1.1653 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 71,
+    "label": "阅文：Non-IFRS归母净利润 · 2024全年",
+    "reported_value": 11.4166,
+    "unit": "",
+    "line_number": 247,
+    "raw_text": "| 阅文：Non-IFRS归母净利润 | 11.4166 | 8.5849 | 5.0781 | 2.5884 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 72,
+    "label": "阅文：Non-IFRS归母净利润 · 2025全年",
+    "reported_value": 8.5849,
+    "unit": "",
+    "line_number": 247,
+    "raw_text": "| 阅文：Non-IFRS归母净利润 | 11.4166 | 8.5849 | 5.0781 | 2.5884 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 109,
+    "label": "S03 · 主要用途和边界",
+    "reported_value": 2026.0,
+    "unit": "",
+    "line_number": 446,
+    "raw_text": "| S03 | [DataEye《2025年微短剧行业数据报告》，2026年1月，PDF第3—4页](https://pdf.dfcfw.com/pdf/H3_AP202601211818183880_1.pdf) | 千亿产值、2026预",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 108,
+    "label": "S03 · 来源与时间",
+    "reported_value": 2025.0,
+    "unit": "",
+    "line_number": 446,
+    "raw_text": "| S03 | [DataEye《2025年微短剧行业数据报告》，2026年1月，PDF第3—4页](https://pdf.dfcfw.com/pdf/H3_AP202601211818183880_1.pdf) | 千亿产值、2026预",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 115,
+    "label": "S07 · 来源与时间",
+    "reported_value": 2026.0,
+    "unit": "",
+    "line_number": 450,
+    "raw_text": "| S07 | [Omdia：受众结构及全球规模更新，2026-10-13](https://omdia.tech.informa.com/pr/2026/oct/men-account-for-54percent-of-uk-microd",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 130,
+    "label": "S17 · 来源与时间",
+    "reported_value": 2025.0,
+    "unit": "",
+    "line_number": 460,
+    "raw_text": "| S17 | [FOX官方投资HOLYWATER公告，2025-10-09](https://www.foxcorporation.com/news/business/2025/fox-entertainment-deepens-crea",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 140,
+    "label": "S25 · 来源与时间",
+    "reported_value": 2025.0,
+    "unit": "",
+    "line_number": 468,
+    "raw_text": "| S25 | [美国版权局AI版权适格报告，2025-01](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightabili",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 151,
+    "label": "S34 · 来源与时间",
+    "reported_value": 2025.0,
+    "unit": "",
+    "line_number": 477,
+    "raw_text": "| S34 | [第一财经：掌阅2025全年](https://www.yicai.com/news/103151687.html)；[新浪鹰眼2026H1](https://finance.sina.com.cn/stock/aiassi",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 157,
+    "label": "S39 · 来源与时间",
+    "reported_value": 2026.0,
+    "unit": "",
+    "line_number": 482,
+    "raw_text": "| S39 | [蓝鲸采访可梦AI，2026-02-12，新浪转载](https://finance.sina.com.cn/stock/t/2026-02-12/doc-inhmpusi6914629.shtml) | 《斩仙台》集数、人",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

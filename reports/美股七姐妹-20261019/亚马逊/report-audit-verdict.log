@@ -1,0 +1,65 @@
+======================================================================
+报告数据抽检 — 准出/打回判决
+报告：/workspace/scratch/351726a27bf6/ai-berkshire/reports/美股七姐妹-20261019/亚马逊/亚马逊投资研究报告-20261019.md
+======================================================================
+
+  ⬜ [ 4] 最新原始披露普通股数（股） · 日期/口径                      10.00   →  [未提供核验值，跳过]
+  ✅ 通过 [ 7] 第三方市值 · 数值                           报告:      2696.58
+                                                    https://stockanalysis.com/stocks/amzn/financials/ratios/: 2696.58 (偏差 0.00%)  |  SEC July22 share count x independently verified October16 $250 price: 2696.58 (偏差 0.00%)
+  ✅ 通过 [ 9] 营业收入 · FY2022                        报告:    513983.00
+                                                    https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/amzn-20231231.htm: 513983.00 (偏差 0.00%)  |  https://stockanalysis.com/stocks/amzn/financials/: 513983.00 (偏差 0.00%)
+  ✅ 通过 [ 8] 营业收入 · FY2021                        报告:    469822.00
+                                                    https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/amzn-20231231.htm: 469822.00 (偏差 0.00%)  |  https://stockanalysis.com/stocks/amzn/financials/: 469822.00 (偏差 0.00%)
+  ✅ 通过 [27] 毛利率 · FY2025                         报告:        50.29 %
+                                                    https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm: 50.29 (偏差 0.01%)  |  https://stockanalysis.com/stocks/amzn/financials/: 50.29 (偏差 0.01%)
+  ✅ 通过 [23] 毛利率 · FY2021                         报告:        42.03 %
+                                                    https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/amzn-20231231.htm: 42.03 (偏差 0.01%)  |  https://stockanalysis.com/stocks/amzn/financials/: 42.03 (偏差 0.01%)
+  ✅ 通过 [24] 毛利率 · FY2022                         报告:        43.81 %
+                                                    https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/amzn-20231231.htm: 43.81 (偏差 0.01%)  |  https://stockanalysis.com/stocks/amzn/financials/: 43.81 (偏差 0.01%)
+  ✅ 通过 [26] 毛利率 · FY2024                         报告:        48.85 %
+                                                    https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm: 48.85 (偏差 0.01%)  |  https://stockanalysis.com/stocks/amzn/financials/: 48.85 (偏差 0.01%)
+  ✅ 通过 [29] 经营利润 · FY2022                        报告:     13348.00
+                                                    https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/amzn-20231231.htm: 13348.00 (偏差 0.00%)  |  https://stockanalysis.com/stocks/amzn/financials/: 13348.00 (偏差 0.00%)
+  ✅ 通过 [36] 经营利润率 · FY2024                       报告:        10.75 %
+                                                    https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm: 10.75 (偏差 0.02%)  |  https://stockanalysis.com/stocks/amzn/financials/: 10.75 (偏差 0.02%)
+  ✅ 通过 [56] 自由现金流（公司净资本开支口径） · FY2024            报告:     38219.00
+                                                    https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm: 38219.00 (偏差 0.00%)  |  https://stockanalysis.com/stocks/amzn/financials/cash-flow-statement/: 38219.00 (偏差 0.00%)
+  ✅ 通过 [58] 自由现金流（不冲回资产处置） · FY2021              报告:    -14726.00
+                                                    https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/amzn-20231231.htm: -14726.00 (偏差 0.00%)  |  https://stockanalysis.com/stocks/amzn/financials/cash-flow-statement/: -14726.00 (偏差 0.00%)
+  ✅ 通过 [60] 自由现金流（不冲回资产处置） · FY2023              报告:     32217.00
+                                                    https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/amzn-20231231.htm: 32217.00 (偏差 0.00%)  |  https://stockanalysis.com/stocks/amzn/financials/cash-flow-statement/: 32217.00 (偏差 0.00%)
+  ✅ 通过 [63] 现金及可交易证券 · FY2021                    报告:     96049.00
+                                                    https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/R7.htm: 96049.00 (偏差 0.00%)  |  https://stockanalysis.com/stocks/amzn/financials/balance-sheet/: 96049.00 (偏差 0.00%)
+  ✅ 通过 [65] 现金及可交易证券 · FY2023                    报告:     86780.00
+                                                    https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/amzn-20231231.htm: 86780.00 (偏差 0.00%)  |  https://stockanalysis.com/stocks/amzn/financials/balance-sheet/: 86780.00 (偏差 0.00%)
+  ✅ 通过 [71] 北美 · 2026Q2                          报告:    116177.00
+                                                    https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx: 116177.00 (偏差 0.00%)  |  https://www.morningstar.com/stocks/tbsx/amz/earnings-transcript: 116200.00 (偏差 0.02%)
+  ✅ 通过 [72] 国际 · 2025Q3                          报告:     40896.00
+                                                    https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx: 40896.00 (偏差 0.00%)  |  https://www.ecommercebytes.com/2025/10/31/amazon-grew-north-american-sales-11-in-3rd-quarter-2025/: 40900.00 (偏差 0.01%)
+  ✅ 通过 [78] AWS · 2026Q1                         报告:     37587.00
+                                                    https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx: 37587.00 (偏差 0.00%)  |  https://www.reuters.com/business/retail-consumer/amazon-beats-quarterly-cloud-growth-estimates-2026-04-29/: 37600.00 (偏差 0.03%)
+  ✅ 通过 [84] 经营现金流 · 截至2026Q2的TTM                 报告:       161.40
+                                                    https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx: 161.40 (偏差 0.00%)  |  https://stockanalysis.com/stocks/amzn/financials/cash-flow-statement/: 161.40 (偏差 0.00%)
+  ✅ 通过 [90] 订阅 · FY2025收入                        报告:        49.62
+                                                    https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm: 49.62 (偏差 0.00%)  |  https://stockanalysis.com/stocks/amzn/financials/: 49.62 (偏差 0.00%)
+  ✅ 通过 [92] 广告 · FY2025收入                        报告:        68.64
+                                                    https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm: 68.64 (偏差 0.00%)  |  https://stockanalysis.com/stocks/amzn/financials/: 68.64 (偏差 0.00%)
+  ✅ 通过 [109] 悲观 · 三年后价格                           报告:       188.07
+                                                    recalculate.py / model-results.json: 188.07 (偏差 0.00%)  |  independent direct formula in audit_report.py; NOT external data: 188.07 (偏差 0.00%)
+
+----------------------------------------------------------------------
+  抽检总数: 21  |  通过: 21  |  警告: 0  |  不通过: 0
+
+【准出】所有抽检数据通过，报告可发布。
+======================================================================
+{
+  "verdict": "PASS",
+  "pass_count": 21,
+  "warn_count": 0,
+  "fail_count": 0,
+  "total": 21,
+  "fail_items": [],
+  "warn_items": []
+}
+
+EXIT=0

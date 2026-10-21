@@ -1,0 +1,152 @@
+{
+  "market_cap_hkd_bn": "64.1866413243",
+  "market_cap_usd_bn": "8.1789343923519967379392950890695481536",
+  "TTM_revenue_m": "165.182",
+  "TTM_CFO_m": "-429.209",
+  "TTM_capex_m": "188.163",
+  "H1_simple_FCF_m": "-505.732",
+  "H1_after_lease_FCF_m": "-506.405",
+  "H1_after_lease_bank_interest_FCF_m": "-506.962",
+  "current_pool_m": "1223.290",
+  "July_net_proceeds_hkd_m": "15877.01",
+  "bond_redemption_hkd_m": "6678.7500",
+  "scenarios": {
+    "bear": {
+      "NI_2036_bn": "0.10",
+      "exit_equity_bn": "1.50",
+      "exit_current_holders_bn": "0.7500",
+      "present_equity_bn": "0.12112918716738429101254890006604684245",
+      "value_per_share_hkd": "2.6968824941066217019306338079673614167",
+      "conditional_IRR_at_current_price": "-0.21252558245699527711165131060083262932",
+      "upside_pct": "-98.519010162489499339961211527749938816"
+    },
+    "base": {
+      "NI_2036_bn": "1.28",
+      "exit_equity_bn": "32.00",
+      "exit_current_holders_bn": "22.4000",
+      "present_equity_bn": "3.6177250567325441582414604819725990279",
+      "value_per_share_hkd": "80.546890490651101497661596397958527646",
+      "conditional_IRR_at_current_price": "0.1060000061509510158280785505645790113",
+      "upside_pct": "-55.767770186353046953508184295464839294"
+    },
+    "bull": {
+      "NI_2036_bn": "4.40",
+      "exit_equity_bn": "132.00",
+      "exit_current_holders_bn": "105.6000",
+      "present_equity_bn": "17.054989553167708174566885129299395417",
+      "value_per_share_hkd": "379.72105517021233563183324016180448746",
+      "conditional_IRR_at_current_price": "0.2915068660829074150050677897297590113",
+      "upside_pct": "108.52336912147849293346141689280861475"
+    }
+  },
+  "base_path": [
+    {
+      "year": 2027,
+      "revenue_bn": "0.8",
+      "GM": "0.25",
+      "R_and_D_bn": "0.75",
+      "net_profit_bn": "-0.654",
+      "economic_FCF_proxy_bn": "-0.670"
+    },
+    {
+      "year": 2028,
+      "revenue_bn": "1.6",
+      "GM": "0.32",
+      "R_and_D_bn": "1.05",
+      "net_profit_bn": "-0.746",
+      "economic_FCF_proxy_bn": "-0.778"
+    },
+    {
+      "year": 2029,
+      "revenue_bn": "2.6",
+      "GM": "0.38",
+      "R_and_D_bn": "1.35",
+      "net_profit_bn": "-0.700",
+      "economic_FCF_proxy_bn": "-0.752"
+    },
+    {
+      "year": 2030,
+      "revenue_bn": "3.7",
+      "GM": "0.43",
+      "R_and_D_bn": "1.6",
+      "net_profit_bn": "-0.490",
+      "economic_FCF_proxy_bn": "-0.564"
+    },
+    {
+      "year": 2031,
+      "revenue_bn": "4.8",
+      "GM": "0.47",
+      "R_and_D_bn": "1.75",
+      "net_profit_bn": "-0.118",
+      "economic_FCF_proxy_bn": "-0.214"
+    },
+    {
+      "year": 2032,
+      "revenue_bn": "5.7",
+      "GM": "0.50",
+      "R_and_D_bn": "1.8",
+      "net_profit_bn": "0.24720",
+      "economic_FCF_proxy_bn": "0.13320"
+    },
+    {
+      "year": 2033,
+      "revenue_bn": "6.4",
+      "GM": "0.52",
+      "R_and_D_bn": "1.85",
+      "net_profit_bn": "0.51680",
+      "economic_FCF_proxy_bn": "0.38880"
+    },
+    {
+      "year": 2034,
+      "revenue_bn": "7",
+      "GM": "0.53",
+      "R_and_D_bn": "1.8",
+      "net_profit_bn": "0.8000",
+      "economic_FCF_proxy_bn": "0.6600"
+    },
+    {
+      "year": 2035,
+      "revenue_bn": "7.5",
+      "GM": "0.54",
+      "R_and_D_bn": "1.78",
+      "net_profit_bn": "1.03600",
+      "economic_FCF_proxy_bn": "0.88600"
+    },
+    {
+      "year": 2036,
+      "revenue_bn": "8",
+      "GM": "0.55",
+      "R_and_D_bn": "1.76",
+      "net_profit_bn": "1.2800",
+      "economic_FCF_proxy_bn": "1.1200"
+    }
+  ],
+  "TTM_simple_FCF_m": "-617.372",
+  "PS_TTM": "49.514683151626670811222137333786660493",
+  "PS_2025": "103.48103940322372451149187845175166570",
+  "secondary_share_error_pct": "0.91925253000677204028800677285168113976",
+  "potential_bond_shares": "19402985.074626865671641791044776119403",
+  "bond_new_share_pct": "5.5047023947518960723082100319881300683",
+  "RSU_potential_pct": "0.59356471679997964594792553202912970571",
+  "historic_proforma_pool_m": "3246.4060325186676520808379418435739953",
+  "historic_proforma_after_bank_and_redemption_m": "2261.8163476388287163281429190346339102",
+  "base_total_negative_economic_CF_bn": "2.978",
+  "base_revenue_CAGR_vs_annualized_H126": "0.4241187414871656040879727454274138422",
+  "reverse_2036_NI_bn": "2.8938174842026211544951269327527641959",
+  "reverse_2036_revenue_at_margin16_bn": "18.086359276266382215594543329704776224",
+  "base_sensitivity": {
+    ".15": "123.27722112579353288219088883651717201",
+    ".20": "80.546890490651101497661596397958527646",
+    ".25": "53.550201525818340828539572109788651579"
+  },
+  "H126_GM_pct": "17.854048536110420080121468950786202637",
+  "H126_RD_to_GP": "14.263681353000528515831451496660740883",
+  "revenue_growth_H126_pct": "283.09836011699365736632817378158993066",
+  "API_example_USD": "2.70",
+  "historical_simple_FCF_m": {
+    "2022": "-11.275",
+    "2023": "-65.152",
+    "2024": "-259.242",
+    "2025": "-280.561"
+  }
+}

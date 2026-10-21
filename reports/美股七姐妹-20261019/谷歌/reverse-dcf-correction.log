@@ -1,0 +1,58 @@
+
+2026-10-19 peer-review correction: auxiliary reverse DCF previously used OCF-capex and added an operating-valuation financial-asset bridge. That mixed equity and enterprise cash-flow conventions. Corrected to an explicitly approximate after-interest equity cash-flow model valued directly against all-class common equity at the A-price proxy. No additional financial assets or debt. No invented financial-income adjustment.
+Base r=10%, g=3%, ten years: growth 25.6873410925% from USD53,273m and 17.0403446038% from assumed USD100,000m. r=9%:23.0151010052%/14.6042622572%; r=11%:28.1617679933%/19.2950561230%.
+Recomputed all outputs; each reverse DCF equals USD4,165,415.7m within 0.000001m; financial-asset addition=0. Main operating-profit three-year base present value remains USD339.2298691825. Exact distributable common FCFE is not claimed; borrowing, preferred distributions and SBC dilution remain proxy limitations.
+report_audit extract seed42 rerun: same samples; verdict 10 passed, 2 extraction artifacts skipped, 0 warnings/failures. This is model recalculation, not external-source corroboration.
+
+{
+  "reverse_dcf_basis": {
+    "cash_flow": "OCF minus capex; after-interest equity cash-flow proxy, not exact FCFE",
+    "target": "A-price proxy for all A/B/C common equity",
+    "target_million": 4165415.7,
+    "financial_asset_addition_million": 0,
+    "terminal_growth": 0.03,
+    "years": 10
+  },
+  "reverse_dcf": {
+    "53273": {
+      "growth": 0.25687341092494875,
+      "value_million": 4165415.700000003
+    },
+    "100000": {
+      "growth": 0.17040344603795565,
+      "value_million": 4165415.700000004
+    }
+  },
+  "reverse_dcf_sensitivity": {
+    "0.09": {
+      "53273": {
+        "growth": 0.2301510100521157,
+        "value_million": 4165415.700000006
+      },
+      "100000": {
+        "growth": 0.1460426225718109,
+        "value_million": 4165415.7000000067
+      }
+    },
+    "0.1": {
+      "53273": {
+        "growth": 0.25687341092494875,
+        "value_million": 4165415.700000003
+      },
+      "100000": {
+        "growth": 0.17040344603795565,
+        "value_million": 4165415.700000004
+      }
+    },
+    "0.11": {
+      "53273": {
+        "growth": 0.2816176799328193,
+        "value_million": 4165415.699999998
+      },
+      "100000": {
+        "growth": 0.19295056122952403,
+        "value_million": 4165415.699999999
+      }
+    }
+  }
+}

@@ -1,0 +1,214 @@
+======================================================================
+报告数据抽检清单
+文件：E:\AIBerkshire\ai-berkshire-main\ai-berkshire-main\reports\腾讯\腾讯研究报告-20261021.md
+总提取数据点：98  |  抽样比例：15%  |  抽检数量：15
+随机种子：42（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+  4     50  增值服务 · Q2毛利率                                64.00  %
+  5     51  营销服务 · 2025收入                              144.97  
+ 12     52  金融科技及企业服务 · Q2毛利率                           52.00  %
+ 15     53  其他 · Q2同比                                   37.00  %
+ 14     53  其他 · 2026Q2收入                                2.52  
+ 18     67  集团收入 · 2025Q4                              194.37  
+ 32     70  金融科技及企业服务 · 2026Q2                          60.29  
+ 29     70  金融科技及企业服务 · 2025Q3                          58.17  
+ 36    186  人民币市值 · 工具验算值                            30525.33  亿元
+ 55    208  基准 · 含固定股息年化IRR                              9.94  %
+ 70    234  基准 · r−g                                     6.00  
+ 76    235  乐观 · 永续g                                     3.00  %
+ 82    241  6%（r−2pp） · 是否可用于决策                          4.00  
+ 87    245  10%（r＋2pp） · 加权近似年回报                         3.01  %
+ 95    336  2025公司FCF · 原始值与独立来源                    182600.00  
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 4,
+    "label": "增值服务 · Q2毛利率",
+    "reported_value": 64.0,
+    "unit": "%",
+    "line_number": 50,
+    "raw_text": "| 增值服务 | 369.281 | 98.414 | +8% | 64% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 5,
+    "label": "营销服务 · 2025收入",
+    "reported_value": 144.973,
+    "unit": "",
+    "line_number": 51,
+    "raw_text": "| 营销服务 | 144.973 | 43.565 | +22% | 57% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 12,
+    "label": "金融科技及企业服务 · Q2毛利率",
+    "reported_value": 52.0,
+    "unit": "%",
+    "line_number": 52,
+    "raw_text": "| 金融科技及企业服务 | 229.435 | 60.286 | +9% | 52% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 15,
+    "label": "其他 · Q2同比",
+    "reported_value": 37.0,
+    "unit": "%",
+    "line_number": 53,
+    "raw_text": "| 其他 | 8.077 | 2.520 | +37% | -35% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 14,
+    "label": "其他 · 2026Q2收入",
+    "reported_value": 2.52,
+    "unit": "",
+    "line_number": 53,
+    "raw_text": "| 其他 | 8.077 | 2.520 | +37% | -35% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 18,
+    "label": "集团收入 · 2025Q4",
+    "reported_value": 194.371,
+    "unit": "",
+    "line_number": 67,
+    "raw_text": "| 集团收入 | 192.869 | 194.371 | 196.458 | 204.785 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 32,
+    "label": "金融科技及企业服务 · 2026Q2",
+    "reported_value": 60.286,
+    "unit": "",
+    "line_number": 70,
+    "raw_text": "| 金融科技及企业服务 | 58.174 | 60.818 | 59.885 | 60.286 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 29,
+    "label": "金融科技及企业服务 · 2025Q3",
+    "reported_value": 58.174,
+    "unit": "",
+    "line_number": 70,
+    "raw_text": "| 金融科技及企业服务 | 58.174 | 60.818 | 59.885 | 60.286 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 36,
+    "label": "人民币市值 · 工具验算值",
+    "reported_value": 30525.33,
+    "unit": "亿元",
+    "line_number": 186,
+    "raw_text": "| 人民币市值 | 30525.33亿元 | 固定汇率假设0.8525 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 55,
+    "label": "基准 · 含固定股息年化IRR",
+    "reported_value": 9.94,
+    "unit": "%",
+    "line_number": 208,
+    "raw_text": "| 基准 | +7% | 16 | 505.73 | +9.94% | 415.12 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 70,
+    "label": "基准 · r−g",
+    "reported_value": 6.0,
+    "unit": "",
+    "line_number": 234,
+    "raw_text": "| 基准 | +6% | 3581.70 | 2% | 6个百分点 | 15.0 | +7.16% | +6.88% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 76,
+    "label": "乐观 · 永续g",
+    "reported_value": 3.0,
+    "unit": "%",
+    "line_number": 235,
+    "raw_text": "| 乐观 | +10% | 5187.48 | 3% | 5个百分点 | 17.0 | +12.54% | +12.07% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 82,
+    "label": "6%（r−2pp） · 是否可用于决策",
+    "reported_value": 4.0,
+    "unit": "",
+    "line_number": 241,
+    "raw_text": "| 6%（r−2pp） | +10.11% | 数学上通过 | 基准/乐观分母仅4/3个百分点，违反C2，仅参考 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 87,
+    "label": "10%（r＋2pp） · 加权近似年回报",
+    "reported_value": 3.01,
+    "unit": "%",
+    "line_number": 245,
+    "raw_text": "| 10%（r＋2pp） | +3.01% | 未通过 | 人民币合理区间外，仅参考 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 95,
+    "label": "2025公司FCF · 原始值与独立来源",
+    "reported_value": 182600.0,
+    "unit": "",
+    "line_number": 336,
+    "raw_text": "| 2025公司FCF | 182600；第三方狭义FCF215570，百万元人民币 | 内容和租赁等扣项不同，采用公司定义 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

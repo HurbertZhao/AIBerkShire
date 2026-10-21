@@ -1,0 +1,99 @@
+COMMAND: financial_rigor.py verify-market-cap --price 182.10 --shares 352480183 --reported 64186641324.30 --currency HKD
+============================================================
+市值验算 (Market Cap Verification)
+============================================================
+  股价 (Price):       182.1 HKD
+  总股本 (Shares):    352.48M
+  计算市值:           64.19B HKD
+  报告市值:           64.19B HKD
+  偏差:               0.00%
+
+  ✅ 验证通过, 偏差仅 0.00%
+
+COMMAND: financial_rigor.py cross-validate --field Oct16 close --values {"StockAnalysis":182.10,"Investing":182.10} --unit HKD
+============================================================
+交叉验证: Oct16 close (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 182.10 HKD
+
+  ✅ StockAnalysis       : 182.10 HKD  (偏差 0.00%)
+  ✅ Investing           : 182.10 HKD  (偏差 0.00%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): 182.10 HKD
+
+COMMAND: financial_rigor.py cross-validate --field 2025 revenue --values {"HKEX":79.038,"StockAnalysis":79.04} --unit USD million
+============================================================
+交叉验证: 2025 revenue (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 79.04 USD million
+
+  ✅ HKEX                : 79.04 USD million  (偏差 0.00%)
+  ✅ StockAnalysis       : 79.04 USD million  (偏差 0.00%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): 79.04 USD million
+
+COMMAND: financial_rigor.py cross-validate --field 2026H1 cash equivalents --values {"HKEX":930.905,"StockAnalysis":930.91} --unit USD million
+============================================================
+交叉验证: 2026H1 cash equivalents (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 930.91 USD million
+
+  ✅ HKEX                : 930.90 USD million  (偏差 0.00%)
+  ✅ StockAnalysis       : 930.91 USD million  (偏差 0.00%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): 930.91 USD million
+
+COMMAND: financial_rigor.py cross-validate --field 2025 CFO --values {"HKEX":-279.641,"StockAnalysis":-279.64} --unit USD million
+============================================================
+交叉验证: 2025 CFO (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: -279.64 USD million
+
+  ✅ HKEX                : -279.64 USD million  (偏差 -0.00%)
+  ✅ StockAnalysis       : -279.64 USD million  (偏差 -0.00%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): -279.64 USD million
+
+COMMAND: financial_rigor.py cross-validate --field shares differing dates NOT exact match --values {"HKEX Sept30":352480183,"StockAnalysis older":349240000} --unit shares
+============================================================
+交叉验证: shares differing dates NOT exact match (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 350.86M shares
+
+  ✅ HKEX Sept30         : 352.48M shares  (偏差 0.46%)
+  ✅ StockAnalysis older : 349.24M shares  (偏差 0.46%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): 350.86M shares
+
+COMMAND: financial_rigor.py cross-validate --field Oct16 USD HKD reference --values {"Investing":7.8478,"YCharts search summary":7.848} --unit HKD per USD
+============================================================
+交叉验证: Oct16 USD HKD reference (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 7.85 HKD per USD
+
+  ✅ Investing           : 7.85 HKD per USD  (偏差 0.00%)
+  ✅ YCharts search summary: 7.85 HKD per USD  (偏差 0.00%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): 7.85 HKD per USD
+
+COMMAND: financial_rigor.py calc --expr -318.106-187.626-.602-.071-.557
+usage: financial_rigor.py calc [-h] --expr EXPR
+financial_rigor.py calc: error: argument --expr: expected one argument

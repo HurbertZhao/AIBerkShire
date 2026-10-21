@@ -1,0 +1,80 @@
+[
+  {
+    "id": 36,
+    "label": "人民币市值 · 工具验算值",
+    "reported_value": 30525.33,
+    "unit": "亿元",
+    "line_number": 186,
+    "raw_text": "| 人民币市值 | 30525.33亿元 | 固定汇率假设0.8525 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "scope": "model_assumption_or_output_not_external_fact"
+  },
+  {
+    "id": 55,
+    "label": "基准 · 含固定股息年化IRR",
+    "reported_value": 9.94,
+    "unit": "%",
+    "line_number": 208,
+    "raw_text": "| 基准 | +7% | 16 | 505.73 | +9.94% | 415.12 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "scope": "model_assumption_or_output_not_external_fact"
+  },
+  {
+    "id": 70,
+    "label": "基准 · r−g",
+    "reported_value": 6.0,
+    "unit": "",
+    "line_number": 234,
+    "raw_text": "| 基准 | +6% | 3581.70 | 2% | 6个百分点 | 15.0 | +7.16% | +6.88% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "scope": "model_assumption_or_output_not_external_fact"
+  },
+  {
+    "id": 76,
+    "label": "乐观 · 永续g",
+    "reported_value": 3.0,
+    "unit": "%",
+    "line_number": 235,
+    "raw_text": "| 乐观 | +10% | 5187.48 | 3% | 5个百分点 | 17.0 | +12.54% | +12.07% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "scope": "model_assumption_or_output_not_external_fact"
+  },
+  {
+    "id": 82,
+    "label": "6%（r−2pp） · 是否可用于决策",
+    "reported_value": 4.0,
+    "unit": "",
+    "line_number": 241,
+    "raw_text": "| 6%（r−2pp） | +10.11% | 数学上通过 | 基准/乐观分母仅4/3个百分点，违反C2，仅参考 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "scope": "model_assumption_or_output_not_external_fact"
+  },
+  {
+    "id": 87,
+    "label": "10%（r＋2pp） · 加权近似年回报",
+    "reported_value": 3.01,
+    "unit": "%",
+    "line_number": 245,
+    "raw_text": "| 10%（r＋2pp） | +3.01% | 未通过 | 人民币合理区间外，仅参考 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "scope": "model_assumption_or_output_not_external_fact"
+  }
+]

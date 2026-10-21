@@ -1,0 +1,47 @@
+======================================================================
+报告数据抽检 — 准出/打回判决
+报告：泡泡玛特研究报告-20261019.md facts
+======================================================================
+
+  ✅ 通过 [ 4] 营业收入 · 2024                          报告:       130.38
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100395_c.pdf: 130.38 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/9992/financials/: 130.38 (偏差 0.00%)
+  ✅ 通过 [ 5] 营业收入 · 2025                          报告:       371.20
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100395_c.pdf: 371.20 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/9992/financials/: 371.20 (偏差 0.00%)
+  ✅ 通过 [15] 毛利率 · 2025                           报告:        72.10 %
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100395_c.pdf: 72.10 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/9992/financials/: 72.10 (偏差 0.00%)
+  ✅ 通过 [14] 毛利率 · 2024                           报告:        66.80 %
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100395_c.pdf: 66.80 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/9992/financials/: 66.79 (偏差 0.01%)
+  ✅ 通过 [12] 毛利率 · 2022                           报告:        57.50 %
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100395_c.pdf: 57.50 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/9992/financials/: 57.49 (偏差 0.02%)
+  ✅ 通过 [18] 收入 · 同比或解释                           报告:        23.80 %
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400544.pdf: 23.80 (偏差 0.00%)  |  https://www.finet.hk/newscenter/news_content/6a86c2d02308290c11eadd7c: 23.80 (偏差 0.00%)
+  ✅ 通过 [29] 中国收入，含港澳台 · 同比或解释                    报告:        47.30 %
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400544.pdf: 47.30 (偏差 0.00%)  |  https://www.finet.hk/newscenter/news_content/6a86c2d02308290c11eadd7c: 47.30 (偏差 0.00%)
+  ✅ 通过 [28] 中国收入，含港澳台 · 2026上半年                  报告:       122.01
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400544.pdf: 122.01 (偏差 0.00%)  |  https://www.finet.hk/newscenter/news_content/6a86c2d02308290c11eadd7c: 122.00 (偏差 0.01%)
+  ✅ 通过 [36] 美洲 · 2025上半年                         报告:        22.65
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400544.pdf: 22.65 (偏差 0.01%)
+  ✅ 通过 [55] 经营现金流CFO · 2025上半年                   报告:        59.77
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400544.pdf 报告第69页: 59.77 (偏差 0.01%)
+  ✅ 通过 [1001] 股价，港元                                报告:       142.20
+                                                    ETNet 2026-10-16: 142.20 (偏差 0.00%)  |  Webull 2026-10-16: 142.20 (偏差 0.00%)
+  ✅ 通过 [1002] 股本，股                                 报告: 1331779203.00
+                                                    HKEX 九月月报: 1331779203.00 (偏差 0.00%)  |  Webb 10月16日: 1331779203.00 (偏差 0.00%)
+  ✅ 通过 [1003] 2026H1归母，亿元                          报告:        50.38
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400544.pdf: 50.38 (偏差 0.01%)  |  https://www.finet.hk/newscenter/news_content/6a86c2d02308290c11eadd7c: 50.38 (偏差 0.00%)
+  ✅ 通过 [1004] 2026H1现金等价物，亿元                       报告:       124.42
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400544.pdf: 124.42 (偏差 0.00%)  |  ETNet资产负债表，市场证据F8: 124.42 (偏差 0.00%)
+  ✅ 通过 [1005] 2026H1库存周转，天                         报告:       201.00
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400544.pdf 第32页: 201.00 (偏差 0.00%)
+  ✅ 通过 [1006] 2025H1库存周转，天                         报告:        83.00
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0819/2025081900626.pdf 第32页: 83.00 (偏差 0.00%)
+  ✅ 通过 [1007] 2026H1会员复购，%                         报告:        51.60
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400544.pdf 第13页: 51.60 (偏差 0.00%)
+  ✅ 通过 [1008] 2025H1会员复购，%                         报告:        50.80
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0819/2025081900626.pdf 第20页: 50.80 (偏差 0.00%)
+
+----------------------------------------------------------------------
+  抽检总数: 18  |  通过: 18  |  警告: 0  |  不通过: 0
+
+【准出】所有抽检数据通过，报告可发布。
+======================================================================

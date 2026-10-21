@@ -1,0 +1,94 @@
+                                                                  CONSOLIDATED STATEMENT OF
+                                                                                 CASH FLOWS
+                                                                            綜合現金流量表
+
+
+                                                                               Year ended 31 December
+                                                                                截至12月31日止年度
+
+                                                                                    2023             2022
+                                                                                  2023年            2022年
+                                                                    Note         RMB’000         RMB’000
+                                                                    附註         人民幣千元            人民幣千元
+
+
+Cash flows from operating activities            經營活動產生的現金流量
+Cash generated from operations                  經營所得現金              34(a)       2,143,208        1,133,500
+Interest received                               已收利息                             109,457             1,656
+Income tax paid                                 已付所得稅                            (262,069)        (244,134)
+
+
+Net cash generated from                         經營活動所得現金淨額
+  operating activities                                                          1,990,596         891,022
+
+
+Cash flows from investing activities            投資活動產生的現金流量
+Increase in financial assets at fair value      按公平值計入損益的
+  through profit or loss                         金融資產增加             3.3(a)       (812,601)      (1,515,016)
+Purchases of property, plant and equipment      購買物業、廠房及設備                       (324,179)        (266,132)
+Purchases of intangible assets                  購買無形資產                            (68,287)         (81,491)
+Proceeds from disposal of financial assets      處置按公平值計入損益的
+  at fair value through profit or loss           金融資產所得款項           3.3(a)       810,236         1,443,524
+Dividends received from an associate            收到一間聯營公司股息                          8,860            8,538
+Proceeds from sale of property, plant and       出售物業、廠房及設備、
+  equipment, intangible assets                   無形資產所得款項           34(b)            866             2,363
+Acquisition of subsidiaries, net of cash acquired 收購附屬公司，扣除收購現金                     6,491                –
+Placement of term deposits with initial terms   存入初步為期三個月以上及
+  over three months and within one year          一年以內的定期存款                     (8,528,257)      (4,290,194)
+Redemption of term deposits with initial terms 贖回初步為期三個月以上及
+  over three months and within one year          一年以內的定期存款                      9,140,811                –
+
+
+Net cash generated from/(used in)               投資活動產生 ╱（所用）現金淨額
+  investing activities                                                           233,940        (4,698,408)
+
+
+
+
+                                                                   二零二三年年報 ANNUAL REPORT 2023                 187
+      CONSOLIDATED STATEMENT OF
+      CASH FLOWS
+      綜合現金流量表
+
+
+
+
+                                                                                     Year ended 31 December
+                                                                                      截至12月31日止年度
+
+                                                                                          2023             2022
+                                                                                        2023年            2022年
+                                                                          Note         RMB’000         RMB’000
+                                                                          附註         人民幣千元           人民幣千元
+
+
+      Cash flows from financing activities               融資活動產生的現金流量
+      Payment of lease liabilities                       租賃負債付款          16, 34(c)     (384,999)        (323,041)
+      Dividends paid                                     已付股息             34(c)        (121,609)        (220,086)
+      Payments for purchase of own shares                回購自身股份付款           25         (333,709)        (634,310)
+      Consideration paid in relation to acquisition of   就收購一間附屬公司
+        non-controlling interests on a subsidiary         非控股權益支付的代價                     (4,813)               –
+      Capital injection from non-controlling interests 非控股權益就新成立
+        on a newly established subsidiary                 附屬公司注資                          3,573                –
+
+
+      Net cash used in financing activities              融資活動所用現金淨額                    (841,557)      (1,177,437)
+
+
+      Net increase/(decrease) in cash and cash           現金及現金等價物增加 ╱
+        equivalents                                      （減少）淨額                       1,382,979       (4,984,823)
+
+
+      Cash and cash equivalents at                       年初的現金及現金等價物
+        beginning of the year                                                          685,314         5,264,710
+      Exchange gains on cash and cash equivalents        現金及現金等價物的匯兌收益                    9,634         405,427
+
+
+      Cash and cash equivalents at end of                年末的現金及現金等價物
+        the year                                                                      2,077,927         685,314
+
+
+
+
+188                POP MART INTERNATIONAL GROUP LIMITED 泡泡瑪特國際集團有限公司
+

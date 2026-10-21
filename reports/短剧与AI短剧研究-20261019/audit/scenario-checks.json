@@ -1,0 +1,29 @@
+[
+  {
+    "id": 2001,
+    "label": "bear十年情景金额换算",
+    "reported_value": 18.9,
+    "unit": "十亿美元",
+    "fetched_value": 18.9,
+    "fetched_source": "Decimal: 14 × 人群 × 时长 × 每小时变现",
+    "note": "仅验证计算；14是外部预测校准，其他均为研究假设"
+  },
+  {
+    "id": 2002,
+    "label": "base十年情景金额换算",
+    "reported_value": 30.24,
+    "unit": "十亿美元",
+    "fetched_value": 30.24,
+    "fetched_source": "Decimal: 14 × 人群 × 时长 × 每小时变现",
+    "note": "仅验证计算；14是外部预测校准，其他均为研究假设"
+  },
+  {
+    "id": 2003,
+    "label": "bull十年情景金额换算",
+    "reported_value": 49.28,
+    "unit": "十亿美元",
+    "fetched_value": 49.28,
+    "fetched_source": "Decimal: 14 × 人群 × 时长 × 每小时变现",
+    "note": "仅验证计算；14是外部预测校准，其他均为研究假设"
+  }
+]

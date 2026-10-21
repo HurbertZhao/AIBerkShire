@@ -1,0 +1,30 @@
+======================================================================
+[1m报告数据抽检 — 准出/打回判决[0m
+报告：七公司研究总览-20261002.md
+======================================================================
+
+  [92m✅ 通过[0m [ 2] [腾讯](腾讯/腾讯研究报告-20261002.md) · 主估值    报告:       468.97 
+                                                    独立复算.py: independently rebuild scenario arithmetic; does not validate forecast: 468.97 (偏差 0.00%)
+  [92m✅ 通过[0m [ 8] [拼多多](拼多多/拼多多研究报告-20261002.md) · 主估  报告:       109.09 
+                                                    独立复算.py: independently rebuild scenario arithmetic; does not validate forecast: 109.09 (偏差 0.00%)
+  [92m✅ 通过[0m [16] [茅台](茅台/茅台研究报告-20261002.md) · 参考价格   报告:      1258.62 
+                                                    https://hk.finance.yahoo.com/quote/600519.SS/history/ (2026-09-30): 1258.62 (偏差 0.00%)  |  https://cn.investing.com/equities/moutai-historical-data (2026-09-30): 1258.62 (偏差 0.00%)
+  [92m✅ 通过[0m [41] 泡泡玛特 · 乐观现值                          报告:       225.15 
+                                                    独立复算.py: independently rebuild scenario arithmetic; does not validate forecast: 225.15 (偏差 0.00%)
+  [92m✅ 通过[0m [48] MiniMax · 基准现值                       报告:       101.43 
+                                                    独立复算.py: independently rebuild scenario arithmetic; does not validate forecast: 101.43 (偏差 0.00%)
+
+----------------------------------------------------------------------
+  抽检总数: 5  |  通过: [92m5[0m  |  警告: [93m0[0m  |  不通过: [91m0[0m
+
+[1m[92m【准出】所有抽检数据通过，报告可发布。[0m
+======================================================================
+{
+  "verdict": "PASS",
+  "pass_count": 5,
+  "warn_count": 0,
+  "fail_count": 0,
+  "total": 5,
+  "fail_items": [],
+  "warn_items": []
+}

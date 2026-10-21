@@ -1,0 +1,38 @@
+======================================================================
+[1m报告数据抽检 — 准出/打回判决[0m
+报告：茅台研究报告-20261002
+======================================================================
+
+  [92m✅ 通过[0m [ 2] 2026H1 · 归母净利亿元                      报告:       445.17 
+                                                    2026H1.pdf p5/p35/p82; https://static.cninfo.com.cn/finalpage/2026-08-15/1225475868.PDF: 445.17 (偏差 0.00%)  |  新华社2026-08-14; https://www.xinhuanet.com/enterprise/20260814/7685c37162e94be69135af12ac59aaf6/c.html: 445.17 (偏差 0.00%)
+  [92m✅ 通过[0m [ 7] 2026H1 · 现金等价物亿元                     报告:      1848.11 
+                                                    2026H1.pdf p5/p35/p82; https://static.cninfo.com.cn/finalpage/2026-08-15/1225475868.PDF: 1848.11 (偏差 0.00%)  |  新华社2026-08-14; https://www.xinhuanet.com/enterprise/20260814/7685c37162e94be69135af12ac59aaf6/c.html: 1848.11 (偏差 0.00%)
+  [92m✅ 通过[0m [ 8] 2026H1 · 合并CFO／归母利润                  报告:         1.59 
+                                                    audit.py independent Decimal recomputation: 1.59 (偏差 0.13%)
+  [92m✅ 通过[0m [ 9] 2026H1 · 简单FCF／归母利润                  报告:         1.57 
+                                                    audit.py independent Decimal recomputation: 1.57 (偏差 0.05%)
+  [92m✅ 通过[0m [16] 悲观 · 当前每股内在价值元                       报告:       506.89 
+                                                    audit.py independent Decimal recomputation: 506.89 (偏差 0.00%)
+  [92m✅ 通过[0m [15] 悲观 · 另计超额净现金亿元                       报告:       800.00 
+                                                    Explicit researcher assumption; no external validation: 800.00 (偏差 0.00%)
+  [92m✅ 通过[0m [18] 中性 · 基期股东现金亿元                        报告:       760.00 
+                                                    Explicit researcher assumption; no external validation: 760.00 (偏差 0.00%)
+  [92m✅ 通过[0m [41] 中性 · 三年股息合计元                         报告:       158.61 
+                                                    audit.py independent Decimal recomputation: 158.61 (偏差 0.00%)
+  [92m✅ 通过[0m [48] 乐观 · 按10%折现现值元                       报告:      1559.35 
+                                                    audit.py independent Decimal recomputation: 1559.35 (偏差 0.00%)
+
+----------------------------------------------------------------------
+  抽检总数: 9  |  通过: [92m9[0m  |  警告: [93m0[0m  |  不通过: [91m0[0m
+
+[1m[92m【准出】所有抽检数据通过，报告可发布。[0m
+======================================================================
+{
+  "verdict": "PASS",
+  "pass_count": 9,
+  "warn_count": 0,
+  "fail_count": 0,
+  "total": 9,
+  "fail_items": [],
+  "warn_items": []
+}

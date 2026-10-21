@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "record_count": 709,
+  "summary_count": 316,
+  "checks": [
+    "unique_ids",
+    "canonical_author_urls",
+    "local_markdown_links",
+    "category_totals",
+    "historical_35_links_accounted",
+    "source_hashes_checked_before_final_editorial_changes",
+    "no_raw_body_or_quoted_user_fields"
+  ],
+  "audit_extractor": "已运行；主要抽到帖子ID与收录数量，不能当作财务事实审计。对分类计数及帖子ID与源记录逐条核对通过；预测数字按原帖个人表述处理。",
+  "known_limits": [
+    "未穷尽未同步时间线的独立评论",
+    "21条仅继承历史归档",
+    "209条关联候选未提炼独立观点",
+    "图片文字未OCR"
+  ]
+}

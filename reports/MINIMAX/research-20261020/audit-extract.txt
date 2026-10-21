@@ -1,0 +1,201 @@
+======================================================================
+报告数据抽检清单
+文件：reports/MINIMAX/MiniMax研究报告-20261020.md
+总提取数据点：88  |  抽样比例：15%  |  抽检数量：14
+随机种子：42（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+  4     26  毛利润 · 2023                                  -0.85  
+  5     26  毛利润 · 2024                                   3.74  
+ 14     28  IFRS 归母净利润 · 2025                        -1871.62  
+ 12     28  IFRS 归母净利润 · 2023                         -269.25  
+ 15     29  调整后净利润 · 2022                              -12.15  
+ 18     29  调整后净利润 · 2025                             -250.86  
+ 29     32  简单自由现金流 · 2024                            -259.24  
+ 32     44  收入 · 2025 上半年                               30.43  
+ 36     45  毛利润 · 2026 上半年                              20.81  
+ 55     52  股权支付费用 · 2025 全年                            24.03  
+ 70    172  2036 年归母净利润 · 悲观                             0.10  
+ 76    174  当前股东经济权益保留比例 · 悲观                           50.00  %
+ 82    176  按 20% 要求回报折现的每股价值 · 悲观                       2.70  
+ 87    177  以 182.10 港元买入的条件年化回报 · 乐观                   29.15  %
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 4,
+    "label": "毛利润 · 2023",
+    "reported_value": -0.854,
+    "unit": "",
+    "line_number": 26,
+    "raw_text": "| 毛利润 | N/D | 0 | -0.854 | 3.738 | 20.079 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 5,
+    "label": "毛利润 · 2024",
+    "reported_value": 3.738,
+    "unit": "",
+    "line_number": 26,
+    "raw_text": "| 毛利润 | N/D | 0 | -0.854 | 3.738 | 20.079 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 14,
+    "label": "IFRS 归母净利润 · 2025",
+    "reported_value": -1871.617,
+    "unit": "",
+    "line_number": 28,
+    "raw_text": "| IFRS 归母净利润 | N/D | -73.728 | -269.246 | -465.238 | -1,871.617 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 12,
+    "label": "IFRS 归母净利润 · 2023",
+    "reported_value": -269.246,
+    "unit": "",
+    "line_number": 28,
+    "raw_text": "| IFRS 归母净利润 | N/D | -73.728 | -269.246 | -465.238 | -1,871.617 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 15,
+    "label": "调整后净利润 · 2022",
+    "reported_value": -12.15,
+    "unit": "",
+    "line_number": 29,
+    "raw_text": "| 调整后净利润 | N/D | -12.150 | -89.074 | -244.243 | -250.856 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 18,
+    "label": "调整后净利润 · 2025",
+    "reported_value": -250.856,
+    "unit": "",
+    "line_number": 29,
+    "raw_text": "| 调整后净利润 | N/D | -12.150 | -89.074 | -244.243 | -250.856 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 29,
+    "label": "简单自由现金流 · 2024",
+    "reported_value": -259.242,
+    "unit": "",
+    "line_number": 32,
+    "raw_text": "| 简单自由现金流 | N/D | -11.275 | -65.152 | -259.242 | -280.561 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 32,
+    "label": "收入 · 2025 上半年",
+    "reported_value": 30.429,
+    "unit": "",
+    "line_number": 44,
+    "raw_text": "| 收入 | 79.038 | 30.429 | 116.573 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 36,
+    "label": "毛利润 · 2026 上半年",
+    "reported_value": 20.813,
+    "unit": "",
+    "line_number": 45,
+    "raw_text": "| 毛利润 | 20.079 | 3.685 | 20.813 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 55,
+    "label": "股权支付费用 · 2025 全年",
+    "reported_value": 24.031,
+    "unit": "",
+    "line_number": 52,
+    "raw_text": "| 股权支付费用 | 24.031 | 6.634 | 28.208 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 70,
+    "label": "2036 年归母净利润 · 悲观",
+    "reported_value": 0.1,
+    "unit": "",
+    "line_number": 172,
+    "raw_text": "| 2036 年归母净利润 | 0.10 | 1.28 | 4.40 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 76,
+    "label": "当前股东经济权益保留比例 · 悲观",
+    "reported_value": 50.0,
+    "unit": "%",
+    "line_number": 174,
+    "raw_text": "| 当前股东经济权益保留比例 | 50% | 70% | 80% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 82,
+    "label": "按 20% 要求回报折现的每股价值 · 悲观",
+    "reported_value": 2.7,
+    "unit": "",
+    "line_number": 176,
+    "raw_text": "| 按 20% 要求回报折现的每股价值 | **2.70** | **80.55** | **379.72** |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 87,
+    "label": "以 182.10 港元买入的条件年化回报 · 乐观",
+    "reported_value": 29.15,
+    "unit": "%",
+    "line_number": 177,
+    "raw_text": "| 以 182.10 港元买入的条件年化回报 | -21.25% | 10.60% | 29.15% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

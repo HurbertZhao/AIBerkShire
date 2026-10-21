@@ -1,0 +1,240 @@
+======================================================================
+报告数据抽检清单
+文件：reports/七公司投资研究-20261002/拼多多/拼多多研究报告-20261002.md
+总提取数据点：112  |  抽样比例：15%  |  抽检数量：17
+随机种子：42（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+  4     24  收入 · 2024                               393836.00  
+  5     24  收入 · 2025                               431846.00  
+ 15     26  经营现金流 · 2025                            106939.00  
+ 14     26  经营现金流 · 2024                            121929.00  
+ 12     26  经营现金流 · 2022                             48508.00  
+ 18     27  购置设备等现金支出 · 2023                           583.88  
+ 29     29  毛利率 · 2024                                  60.92  %
+ 28     29  毛利率 · 2023                                  62.96  %
+ 30     29  毛利率 · 2025                                  56.28  %
+ 32     30  经营利润率 · 2022                                23.29  %
+ 36     31  简单自由现金流 · 2021                           25496.00  
+ 55     39  线上营销及其他 · 2025Q3                         53347.60  
+ 70     42  归母净利润 · 2026Q2                           27182.00  
+ 76     44  毛利率（计算取整） · 2025Q4                          55.00  %
+ 82    167  悲观 · 净资产调整（十亿元）                            100.00  
+ 87    168  中性 · 净资产调整（十亿元）                            200.00  
+ 95    173  悲观 · 退出PE                                    7.00  
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 4,
+    "label": "收入 · 2024",
+    "reported_value": 393836.0,
+    "unit": "",
+    "line_number": 24,
+    "raw_text": "| 收入 | 93,950.00 | 130,558.00 | 247,639.00 | 393,836.00 | 431,846.00 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 5,
+    "label": "收入 · 2025",
+    "reported_value": 431846.0,
+    "unit": "",
+    "line_number": 24,
+    "raw_text": "| 收入 | 93,950.00 | 130,558.00 | 247,639.00 | 393,836.00 | 431,846.00 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 15,
+    "label": "经营现金流 · 2025",
+    "reported_value": 106939.0,
+    "unit": "",
+    "line_number": 26,
+    "raw_text": "| 经营现金流 | 28,783.00 | 48,508.00 | 94,163.00 | 121,929.00 | 106,939.00 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 14,
+    "label": "经营现金流 · 2024",
+    "reported_value": 121929.0,
+    "unit": "",
+    "line_number": 26,
+    "raw_text": "| 经营现金流 | 28,783.00 | 48,508.00 | 94,163.00 | 121,929.00 | 106,939.00 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 12,
+    "label": "经营现金流 · 2022",
+    "reported_value": 48508.0,
+    "unit": "",
+    "line_number": 26,
+    "raw_text": "| 经营现金流 | 28,783.00 | 48,508.00 | 94,163.00 | 121,929.00 | 106,939.00 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 18,
+    "label": "购置设备等现金支出 · 2023",
+    "reported_value": 583.88,
+    "unit": "",
+    "line_number": 27,
+    "raw_text": "| 购置设备等现金支出 | 3,287.00 | 635.72 | 583.88 | 967.14 | 1,145.08 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 29,
+    "label": "毛利率 · 2024",
+    "reported_value": 60.92,
+    "unit": "%",
+    "line_number": 29,
+    "raw_text": "| 毛利率 | 66.24% | 75.90% | 62.96% | 60.92% | 56.28% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 28,
+    "label": "毛利率 · 2023",
+    "reported_value": 62.96,
+    "unit": "%",
+    "line_number": 29,
+    "raw_text": "| 毛利率 | 66.24% | 75.90% | 62.96% | 60.92% | 56.28% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 30,
+    "label": "毛利率 · 2025",
+    "reported_value": 56.28,
+    "unit": "%",
+    "line_number": 29,
+    "raw_text": "| 毛利率 | 66.24% | 75.90% | 62.96% | 60.92% | 56.28% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 32,
+    "label": "经营利润率 · 2022",
+    "reported_value": 23.29,
+    "unit": "%",
+    "line_number": 30,
+    "raw_text": "| 经营利润率 | 7.34% | 23.29% | 23.70% | 27.53% | 21.56% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 36,
+    "label": "简单自由现金流 · 2021",
+    "reported_value": 25496.0,
+    "unit": "",
+    "line_number": 31,
+    "raw_text": "| 简单自由现金流 | 25,496.00 | 47,872.28 | 93,579.12 | 120,961.86 | 105,793.92 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 55,
+    "label": "线上营销及其他 · 2025Q3",
+    "reported_value": 53347.6,
+    "unit": "",
+    "line_number": 39,
+    "raw_text": "| 线上营销及其他 | 53,347.6 | 60,010.1 | 49,936 | 57,637 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 70,
+    "label": "归母净利润 · 2026Q2",
+    "reported_value": 27182.0,
+    "unit": "",
+    "line_number": 42,
+    "raw_text": "| 归母净利润 | 29,328.2 | 24,541.0 | 12,547 | 27,182 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 76,
+    "label": "毛利率（计算取整） · 2025Q4",
+    "reported_value": 55.0,
+    "unit": "%",
+    "line_number": 44,
+    "raw_text": "| 毛利率（计算取整） | 57% | 55% | 56% | 57% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 82,
+    "label": "悲观 · 净资产调整（十亿元）",
+    "reported_value": 100.0,
+    "unit": "",
+    "line_number": 167,
+    "raw_text": "| 悲观 | 50 | -3% / 0% | 15% / 0.0% | 100 | 39.80 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 87,
+    "label": "中性 · 净资产调整（十亿元）",
+    "reported_value": 200.0,
+    "unit": "",
+    "line_number": 168,
+    "raw_text": "| 中性 | 75 | 5% / 3% | 12% / 2.0% | 200 | 109.09 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 95,
+    "label": "悲观 · 退出PE",
+    "reported_value": 7.0,
+    "unit": "",
+    "line_number": 173,
+    "raw_text": "| 悲观 | -10% | 7 | 47.14 | 0.00 | 33.55 | -14.91% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

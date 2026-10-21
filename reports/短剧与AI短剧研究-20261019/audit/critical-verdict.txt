@@ -1,0 +1,52 @@
+======================================================================
+报告数据抽检 — 准出/打回判决
+报告：critical
+======================================================================
+
+  ✅ 通过 [1001] QuestMobile 2026-05去重用户              报告:         8.51 亿
+                                                    https://eu.36kr.com/zh/p/3914660062450823: 8.51 (偏差 0.00%)
+  ✅ 通过 [1002] 红果2026-05 App MAU                    报告:         3.56 亿
+                                                    https://eu.36kr.com/zh/p/3914660062450823: 3.56 (偏差 0.00%)
+  ✅ 通过 [1003] 短剧App 2026-05月时长                     报告:        26.90 小时
+                                                    https://eu.36kr.com/zh/p/3914660062450823: 26.90 (偏差 0.00%)
+  ✅ 通过 [1004] Sensor Tower Q1 IAP                  报告:         7.50 亿美元
+                                                    https://sensortower.com/blog/state-of-short-drama-apps-2026-report: 7.50 (偏差 0.00%)
+  ✅ 通过 [1005] Omdia 2026全球规模预测                     报告:       140.00 亿美元
+                                                    https://omdia.tech.informa.com/pr/2026/oct/men-account-for-54percent-of-uk-microdrama-users-challenging-industry-assumptions: 140.00 (偏差 0.00%)
+  ✅ 通过 [1006] 快手2026H1收入                           报告:       692.51 亿元
+                                                    https://ir.kuaishou.com/static-files/f1aadb37-caa1-4c1d-8294-15008c09067c: 692.51 (偏差 0.00%)
+  ✅ 通过 [1007] 快手2026H1经调整利润                        报告:        72.87 亿元
+                                                    https://ir.kuaishou.com/static-files/f1aadb37-caa1-4c1d-8294-15008c09067c: 72.87 (偏差 0.00%)
+  ✅ 通过 [1008] 快手2025H1经调整利润                        报告:       101.98 亿元
+                                                    https://ir.kuaishou.com/static-files/f1aadb37-caa1-4c1d-8294-15008c09067c: 101.98 (偏差 0.00%)
+  ✅ 通过 [1009] 可灵2026Q2收入下限                         报告:         8.50 亿元
+                                                    https://ir.kuaishou.com/static-files/f1aadb37-caa1-4c1d-8294-15008c09067c: 8.50 (偏差 0.00%)
+  ✅ 通过 [1010] 掌阅2026H1销售费用                         报告:        11.09 亿元
+                                                    https://static.cninfo.com.cn/finalpage/2026-08-27/1225510832.PDF: 11.09 (偏差 0.00%)
+  ✅ 通过 [1011] 阅文2026H1短剧加AI收入下限                    报告:         4.30 亿元
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0811/2026081100262_c.pdf: 4.30 (偏差 0.00%)
+  ✅ 通过 [1012] 阅文2026H1 Non-IFRS归母                  报告:         2.59 亿元
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0811/2026081100262_c.pdf: 2.59 (偏差 0.00%)
+  ✅ 通过 [1013] 阅文税务及滞纳金事项                           报告:         3.00 亿元
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0811/2026081100262_c.pdf: 3.00 (偏差 0.00%)
+  ✅ 通过 [1014] CMS间接持股                              报告:        49.24 %
+                                                    https://static.cninfo.com.cn/finalpage/2026-08-26/1225504423.PDF: 49.24 (偏差 0.00%)
+  ✅ 通过 [1015] My Muse付费转化                          报告:        23.60 %
+                                                    https://www.globenewswire.com/news-release/2026/07/23/3332522/0/en/holywater-tech-and-owl-co-publish-first-industry-report-on-the-vertical-series-audience.html: 23.60 (偏差 0.00%)
+  ✅ 通过 [1016] My Drama付费转化                         报告:        23.90 %
+                                                    https://www.globenewswire.com/news-release/2026/07/23/3332522/0/en/holywater-tech-and-owl-co-publish-first-industry-report-on-the-vertical-series-audience.html: 23.90 (偏差 0.00%)
+
+----------------------------------------------------------------------
+  抽检总数: 16  |  通过: 16  |  警告: 0  |  不通过: 0
+
+【准出】所有抽检数据通过，报告可发布。
+======================================================================
+{
+  "verdict": "PASS",
+  "pass_count": 16,
+  "warn_count": 0,
+  "fail_count": 0,
+  "total": 16,
+  "fail_items": [],
+  "warn_items": []
+}

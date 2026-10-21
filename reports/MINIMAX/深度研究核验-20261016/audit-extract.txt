@@ -1,0 +1,279 @@
+======================================================================
+报告数据抽检清单
+文件：reports/MINIMAX/MiniMax研究报告-20261016.md
+总提取数据点：133  |  抽样比例：15%  |  抽检数量：20
+随机种子：42（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+  7     26  毛利 · 2024                                    3.74
+  9     26  毛利 · 2025H1                                  3.69
+  8     26  毛利 · 2025                                   20.08
+ 23     29  IFRS净利润 · 2025                           -1871.62
+ 24     29  IFRS净利润 · 2025H1                          -402.19
+ 29     30  调整后净利润 · 2025H1                           -138.74
+ 27     30  调整后净利润 · 2024                             -244.24
+ 36     46  开放平台及其他基于AI的企业服务 · 收入，百万美元                  73.93
+ 51    267  外部生产API与模型服务 · 毛利，亿美元                        8.00
+ 56    268  企业Agent与工作流 · 毛利，亿美元                        15.60
+ 58    269  专业创作订阅与工具 · 年度净收入单价                        300.00
+ 60    269  专业创作订阅与工具 · 毛利率假设                           60.00  %
+ 57    269  专业创作订阅与工具 · 客户/用户假设                        800.00
+ 63    270  消费互动与娱乐 · 年度净收入单价                           60.00
+ 71    285  毛利 · 亿美元                                    44.00
+ 72    285  毛利 · 占收入                                    55.00  %
+109    349  2027E · 正常化净利润                             -14.16
+108    349  2027E · 研发费用                                15.00
+115    350  2029E · 经济口径现金流代理                          -12.45
+130    353  2036E · 经济口径现金流代理                           11.20
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 7,
+    "label": "毛利 · 2024",
+    "reported_value": 3.738,
+    "unit": "",
+    "line_number": 26,
+    "raw_text": "| 毛利 | -0.854 | 3.738 | 20.079 | 3.685 | 20.813 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 9,
+    "label": "毛利 · 2025H1",
+    "reported_value": 3.685,
+    "unit": "",
+    "line_number": 26,
+    "raw_text": "| 毛利 | -0.854 | 3.738 | 20.079 | 3.685 | 20.813 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 8,
+    "label": "毛利 · 2025",
+    "reported_value": 20.079,
+    "unit": "",
+    "line_number": 26,
+    "raw_text": "| 毛利 | -0.854 | 3.738 | 20.079 | 3.685 | 20.813 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 23,
+    "label": "IFRS净利润 · 2025",
+    "reported_value": -1871.617,
+    "unit": "",
+    "line_number": 29,
+    "raw_text": "| IFRS净利润 | -269.246 | -465.238 | -1,871.617 | -402.188 | -357.997 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 24,
+    "label": "IFRS净利润 · 2025H1",
+    "reported_value": -402.188,
+    "unit": "",
+    "line_number": 29,
+    "raw_text": "| IFRS净利润 | -269.246 | -465.238 | -1,871.617 | -402.188 | -357.997 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 29,
+    "label": "调整后净利润 · 2025H1",
+    "reported_value": -138.735,
+    "unit": "",
+    "line_number": 30,
+    "raw_text": "| 调整后净利润 | -89.074 | -244.243 | -250.856 | -138.735 | -293.031 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 27,
+    "label": "调整后净利润 · 2024",
+    "reported_value": -244.243,
+    "unit": "",
+    "line_number": 30,
+    "raw_text": "| 调整后净利润 | -89.074 | -244.243 | -250.856 | -138.735 | -293.031 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 36,
+    "label": "开放平台及其他基于AI的企业服务 · 收入，百万美元",
+    "reported_value": 73.929,
+    "unit": "",
+    "line_number": 46,
+    "raw_text": "| 开放平台及其他基于AI的企业服务 | 73.929 | 63.4% | 包含个人开发者、API与Token Plan，不全是大企业合同 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 51,
+    "label": "外部生产API与模型服务 · 毛利，亿美元",
+    "reported_value": 8.0,
+    "unit": "",
+    "line_number": 267,
+    "raw_text": "| 外部生产API与模型服务 | 10万个付费账户 | 2万美元 | 20.0 | 40% | 8.0 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 56,
+    "label": "企业Agent与工作流 · 毛利，亿美元",
+    "reported_value": 15.6,
+    "unit": "",
+    "line_number": 268,
+    "raw_text": "| 企业Agent与工作流 | 4万家组织 | 6万美元 | 24.0 | 65% | 15.6 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 58,
+    "label": "专业创作订阅与工具 · 年度净收入单价",
+    "reported_value": 300.0,
+    "unit": "",
+    "line_number": 269,
+    "raw_text": "| 专业创作订阅与工具 | 800万付费当量 | 300美元 | 24.0 | 60% | 14.4 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 60,
+    "label": "专业创作订阅与工具 · 毛利率假设",
+    "reported_value": 60.0,
+    "unit": "%",
+    "line_number": 269,
+    "raw_text": "| 专业创作订阅与工具 | 800万付费当量 | 300美元 | 24.0 | 60% | 14.4 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 57,
+    "label": "专业创作订阅与工具 · 客户/用户假设",
+    "reported_value": 800.0,
+    "unit": "",
+    "line_number": 269,
+    "raw_text": "| 专业创作订阅与工具 | 800万付费当量 | 300美元 | 24.0 | 60% | 14.4 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 63,
+    "label": "消费互动与娱乐 · 年度净收入单价",
+    "reported_value": 60.0,
+    "unit": "",
+    "line_number": 270,
+    "raw_text": "| 消费互动与娱乐 | 2,000万付费当量 | 60美元 | 12.0 | 50% | 6.0 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 71,
+    "label": "毛利 · 亿美元",
+    "reported_value": 44.0,
+    "unit": "",
+    "line_number": 285,
+    "raw_text": "| 毛利 | 44.0 | 55% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 72,
+    "label": "毛利 · 占收入",
+    "reported_value": 55.0,
+    "unit": "%",
+    "line_number": 285,
+    "raw_text": "| 毛利 | 44.0 | 55% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 109,
+    "label": "2027E · 正常化净利润",
+    "reported_value": -14.16,
+    "unit": "",
+    "line_number": 349,
+    "raw_text": "| 2027E | 6.5 | 30% | 15.0 | -14.16 | -16.96 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 108,
+    "label": "2027E · 研发费用",
+    "reported_value": 15.0,
+    "unit": "",
+    "line_number": 349,
+    "raw_text": "| 2027E | 6.5 | 30% | 15.0 | -14.16 | -16.96 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 115,
+    "label": "2029E · 经济口径现金流代理",
+    "reported_value": -12.45,
+    "unit": "",
+    "line_number": 350,
+    "raw_text": "| 2029E | 15.0 | 42% | 15.0 | -10.95 | -12.45 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 130,
+    "label": "2036E · 经济口径现金流代理",
+    "reported_value": 11.2,
+    "unit": "",
+    "line_number": 353,
+    "raw_text": "| 2036E | 80.0 | 55% | 17.6 | 12.80 | 11.20 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

@@ -1,0 +1,96 @@
+======================================================================
+报告数据抽检 — 准出/打回判决
+报告：reports/智能廉价时代稀缺性研究-20260926/README.md
+======================================================================
+
+  ✅ 通过 [ 1] 一成 · 新总成本占原成本                        报告:        90.01 %
+                                                    calculations.json / total_cost / 0 / new_total_cost_pct: 90.01 (偏差 0.00%)
+  ✅ 通过 [ 2] 一成 · 总成本降幅                           报告:         9.99 %
+                                                    calculations.json / total_cost / 0 / cost_reduction_pct: 9.99 (偏差 0.00%)
+  ✅ 通过 [ 3] 一成 · 同样预算可购买的完整交付量                   报告:         1.11 倍
+                                                    calculations.json / total_cost / 0 / purchasing_power_multiple: 1.11 (偏差 0.00%)
+  ✅ 通过 [ 4] 一半 · 新总成本占原成本                        报告:        50.05 %
+                                                    calculations.json / total_cost / 1 / new_total_cost_pct: 50.05 (偏差 0.00%)
+  ✅ 通过 [ 5] 一半 · 总成本降幅                           报告:        49.95 %
+                                                    calculations.json / total_cost / 1 / cost_reduction_pct: 49.95 (偏差 0.00%)
+  ✅ 通过 [ 6] 一半 · 同样预算可购买的完整交付量                   报告:         2.00 倍
+                                                    calculations.json / total_cost / 1 / purchasing_power_multiple: 2.00 (偏差 0.00%)
+  ✅ 通过 [ 7] 九成 · 新总成本占原成本                        报告:        10.09 %
+                                                    calculations.json / total_cost / 2 / new_total_cost_pct: 10.09 (偏差 0.00%)
+  ✅ 通过 [ 8] 九成 · 总成本降幅                           报告:        89.91 %
+                                                    calculations.json / total_cost / 2 / cost_reduction_pct: 89.91 (偏差 0.00%)
+  ✅ 通过 [ 9] 九成 · 同样预算可购买的完整交付量                   报告:         9.91 倍
+                                                    calculations.json / total_cost / 2 / purchasing_power_multiple: 9.91 (偏差 0.00%)
+  ✅ 通过 [10] 九成九 · 新总成本占原成本                       报告:         1.10 %
+                                                    calculations.json / total_cost / 3 / new_total_cost_pct: 1.10 (偏差 0.00%)
+  ✅ 通过 [11] 九成九 · 总成本降幅                          报告:        98.90 %
+                                                    calculations.json / total_cost / 3 / cost_reduction_pct: 98.90 (偏差 0.00%)
+  ✅ 通过 [12] 九成九 · 同样预算可购买的完整交付量                  报告:        90.99 倍
+                                                    calculations.json / total_cost / 3 / purchasing_power_multiple: 90.99 (偏差 0.00%)
+  ✅ 通过 [13] 九成九九 · 新总成本占原成本                      报告:         0.20 %
+                                                    calculations.json / total_cost / 4 / new_total_cost_pct: 0.20 (偏差 0.00%)
+  ✅ 通过 [14] 九成九九 · 总成本降幅                         报告:        99.80 %
+                                                    calculations.json / total_cost / 4 / cost_reduction_pct: 99.80 (偏差 0.00%)
+  ✅ 通过 [15] 九成九九 · 同样预算可购买的完整交付量                 报告:       500.25 倍
+                                                    calculations.json / total_cost / 4 / purchasing_power_multiple: 500.25 (偏差 0.00%)
+  ✅ 通过 [16] 较低：ε = 0.5 · 使用量倍数                   报告:        31.62
+                                                    calculations.json / demand / 0 / quantity_multiple: 31.62 (偏差 0.00%)
+  ✅ 通过 [17] 较低：ε = 0.5 · 收入倍数                    报告:         0.03
+                                                    calculations.json / demand / 0 / revenue_multiple: 0.03 (偏差 0.01%)
+  ✅ 通过 [18] 临界：ε = 1.0 · 使用量倍数                   报告:      1000.00
+                                                    calculations.json / demand / 1 / quantity_multiple: 1000.00 (偏差 0.00%)
+  ✅ 通过 [19] 临界：ε = 1.0 · 收入倍数                    报告:         1.00
+                                                    calculations.json / demand / 1 / revenue_multiple: 1.00 (偏差 0.00%)
+  ✅ 通过 [20] 较高：ε = 1.5 · 使用量倍数                   报告:     31622.78
+                                                    calculations.json / demand / 2 / quantity_multiple: 31622.78 (偏差 0.00%)
+  ✅ 通过 [21] 较高：ε = 1.5 · 收入倍数                    报告:        31.62
+                                                    calculations.json / demand / 2 / revenue_multiple: 31.62 (偏差 0.00%)
+  ✅ 通过 [23] Berkeley Lab，2026 版并网研究，数据截至 2025 年  报告:      2060.00
+                                                    https://emp.lbl.gov/queues: 2061.00 (偏差 0.05%)
+  ✅ 通过 [24] 《Generative AI at Work》修订稿 · 资料实际告诉  报告:      5172.00
+                                                    https://arxiv.org/abs/2304.11771v2: 5172.00 (偏差 0.00%)
+  ✅ 通过 [26] 五年 · 额外租金现值                          报告:        37.91
+                                                    calculations.json / scarcity_rent_pv / five_years: 37.91 (偏差 0.01%)
+  ✅ 通过 [27] 十年 · 额外租金现值                          报告:        61.45
+                                                    calculations.json / scarcity_rent_pv / ten_years: 61.45 (偏差 0.01%)
+  ✅ 通过 [101] 等价年度降幅                               报告:        49.88
+                                                    calculations.json / annual_price_decline_pct: 49.88 (偏差 0.00%)
+  ✅ 通过 [102] 每年固定能力购买量倍数                          报告:         2.00
+                                                    calculations.json / annual_efficiency_multiple: 2.00 (偏差 0.01%)
+  ✅ 通过 [103] Epoch 固定测试表现成本年度下降倍数                 报告:        13.00
+                                                    https://epoch.ai/publications/the-plunging-price-of-thought: 13.00 (偏差 0.00%)
+  ✅ 通过 [104] IEA 2025 数据中心用电估计                    报告:       485.00
+                                                    https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary: 485.00 (偏差 0.00%)
+  ✅ 通过 [105] IEA 2030 数据中心用电预测                    报告:       950.00
+                                                    https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary: 950.00 (偏差 0.00%)
+  ✅ 通过 [106] 客服样本每小时解决问题数改善百分比                    报告:        15.00
+                                                    https://arxiv.org/abs/2304.11771v2: 15.00 (偏差 0.00%)
+  ✅ 通过 [107] ILO 职业暴露就业占比百分比                      报告:        25.00
+                                                    https://www.ilo.org/publications/generative-ai-and-jobs-2025-update: 25.00 (偏差 0.00%)
+  ✅ 通过 [108] 单步 99% 的一百步成功率                       报告:        36.60
+                                                    calculations.json / serial_reliability / 0: 36.60 (偏差 0.01%)
+  ✅ 通过 [109] 单步 99.9% 的一百步成功率                     报告:        90.48
+                                                    calculations.json / serial_reliability / 1: 90.48 (偏差 0.00%)
+  ✅ 通过 [110] 单步 99.99% 的一百步成功率                    报告:        99.00
+                                                    calculations.json / serial_reliability / 2: 99.00 (偏差 0.00%)
+  ✅ 通过 [111] 五次独立尝试至少一次成功率                        报告:       100.00
+                                                    calculations.json / independent_retry_example: 100.00 (偏差 0.00%)
+  ✅ 通过 [112] 示例总能耗倍数                              报告:        10.00
+                                                    calculations.json / energy_example: 10.00 (偏差 0.00%)
+  ✅ 通过 [113] 额外租金持续期缩短的现值降幅                       报告:        38.31
+                                                    calculations.json / scarcity_rent_pv: 38.31 (偏差 0.01%)
+
+----------------------------------------------------------------------
+  抽检总数: 38  |  通过: 38  |  警告: 0  |  不通过: 0
+
+【准出】所有抽检数据通过，报告可发布。
+======================================================================
+{
+  "verdict": "PASS",
+  "pass_count": 38,
+  "warn_count": 0,
+  "fail_count": 0,
+  "total": 38,
+  "fail_items": [],
+  "warn_items": []
+}

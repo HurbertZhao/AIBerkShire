@@ -1,0 +1,175 @@
+======================================================================
+报告数据抽检清单
+文件：/workspace/scratch/351726a27bf6/ai-berkshire/reports/美股七姐妹-20261019/谷歌/谷歌投资研究报告-20261019.md
+总提取数据点：76  |  抽样比例：15%  |  抽检数量：12
+随机种子：42（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+  4     51  现金加流动证券 · 数值                               242.47
+  5     52  非流动上市股权 · 数值                                14.13
+ 12     57  强制可转优先股账面权益 · 数值                            18.02
+ 14     59  其中短期合同承诺 · 数值                              200.70
+ 15     91  品牌/入口 · 现有证据                              2026.00
+ 18    137  暂停回购并新增融资 · 可核实结果                         2026.00
+ 29    168  GOOGL 等价集团市值，万亿美元 · 数值                       4.17
+ 32    170  自建经营税后盈利代理，十亿美元 · 解释                       147.63
+ 36    172  股价/经营税后每股盈利 · 解释                            17.00  倍
+ 55    192  悲观 · 三年经营盈利倍数                               20.00
+ 69    212  乐观 · 主观概率                                   25.00  %
+ 75    250  持仓者 · 建议                                   300.00
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 4,
+    "label": "现金加流动证券 · 数值",
+    "reported_value": 242.474,
+    "unit": "",
+    "line_number": 51,
+    "raw_text": "| 现金加流动证券 | 242.474 | 第三方所谓 cash and investments |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 5,
+    "label": "非流动上市股权 · 数值",
+    "reported_value": 14.126,
+    "unit": "",
+    "line_number": 52,
+    "raw_text": "| 非流动上市股权 | 14.126 | 主要为有限售限制的 SpaceX 股份 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 12,
+    "label": "强制可转优先股账面权益 · 数值",
+    "reported_value": 18.023,
+    "unit": "",
+    "line_number": 57,
+    "raw_text": "| 强制可转优先股账面权益 | 18.023 | 普通股之外的权利，不算普通股股本 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 14,
+    "label": "其中短期合同承诺 · 数值",
+    "reported_value": 200.7,
+    "unit": "",
+    "line_number": 59,
+    "raw_text": "| 其中短期合同承诺 | 200.700 | 应结合现金流及交付期评估 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 15,
+    "label": "品牌/入口 · 现有证据",
+    "reported_value": 2026.0,
+    "unit": "",
+    "line_number": 91,
+    "raw_text": "| 品牌/入口 | 全球搜索份额在 Statcounter 2026 年 9 月口径为 89.94% | 搜索仍强，AI 原生入口分流构成压力 | 用户将商业决策迁往其他助手 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 18,
+    "label": "暂停回购并新增融资 · 可核实结果",
+    "reported_value": 2026.0,
+    "unit": "",
+    "line_number": 137,
+    "raw_text": "| 暂停回购并新增融资 | 2026 上半年零回购 | 有利于建设产能，但普通股持有人需承担资本配置风险 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 29,
+    "label": "GOOGL 等价集团市值，万亿美元 · 数值",
+    "reported_value": 4.165416,
+    "unit": "",
+    "line_number": 168,
+    "raw_text": "| GOOGL 等价集团市值，万亿美元 | 4.165416 | 统一 A 类价格乘全类别普通股 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 32,
+    "label": "自建经营税后盈利代理，十亿美元 · 解释",
+    "reported_value": 147.628,
+    "unit": "",
+    "line_number": 170,
+    "raw_text": "| 自建经营税后盈利代理，十亿美元 | 121.055 | TTM 经营利润 147.628 乘假设税后比例 82% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 36,
+    "label": "股价/经营税后每股盈利 · 解释",
+    "reported_value": 17.0,
+    "unit": "倍",
+    "line_number": 172,
+    "raw_text": "| 股价/经营税后每股盈利 | 34.41 | 不能拿 17 倍直接声称便宜 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 55,
+    "label": "悲观 · 三年经营盈利倍数",
+    "reported_value": 20.0,
+    "unit": "",
+    "line_number": 192,
+    "raw_text": "| 悲观 | 5% | 20 | 11.46 | 229.17 | 186.39 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 69,
+    "label": "乐观 · 主观概率",
+    "reported_value": 25.0,
+    "unit": "%",
+    "line_number": 212,
+    "raw_text": "| 乐观 | 25% | 750 | 4% | 6pp | 13.8889 | 9.60% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 75,
+    "label": "持仓者 · 建议",
+    "reported_value": 300.0,
+    "unit": "",
+    "line_number": 250,
+    "raw_text": "| 持仓者 | 300—360 美元以持有为主；集中度过高可分散，避免因 GAAP 低 PE 加仓 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

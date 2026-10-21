@@ -1,0 +1,198 @@
+{
+  "price": 214.13,
+  "shares_million": 24147.0,
+  "mcap_million": 5170597.11,
+  "annual": {
+    "FY2022": {
+      "revenue": 26914,
+      "net": 9752,
+      "gross": 17475,
+      "op": 10041,
+      "ocf": 9108,
+      "capex": 976,
+      "cash": 1990,
+      "liquid": 21208,
+      "gm": 64.92903321691314,
+      "om": 37.307720888756776,
+      "fcf": 8132
+    },
+    "FY2023": {
+      "revenue": 26974,
+      "net": 4368,
+      "gross": 15356,
+      "op": 4224,
+      "ocf": 5641,
+      "capex": 1833,
+      "cash": 3389,
+      "liquid": 13296,
+      "gm": 56.928894490991325,
+      "om": 15.65952398606065,
+      "fcf": 3808
+    },
+    "FY2024": {
+      "revenue": 60922,
+      "net": 29760,
+      "gross": 44301,
+      "op": 32972,
+      "ocf": 28090,
+      "capex": 1069,
+      "cash": 7280,
+      "liquid": 25984,
+      "gm": 72.71757329043696,
+      "om": 54.121663766783755,
+      "fcf": 27021
+    },
+    "FY2025": {
+      "revenue": 130497,
+      "net": 72880,
+      "gross": 97858,
+      "op": 81453,
+      "ocf": 64089,
+      "capex": 3236,
+      "cash": 8589,
+      "liquid": 43210,
+      "gm": 74.98869705816992,
+      "om": 62.417526839697466,
+      "fcf": 60853
+    },
+    "FY2026": {
+      "revenue": 215938,
+      "net": 120067,
+      "gross": 153463,
+      "op": 130387,
+      "ocf": 102718,
+      "capex": 6042,
+      "cash": 10605,
+      "liquid": 62556,
+      "gm": 71.06808435754708,
+      "om": 60.38168363141272,
+      "fcf": 96676
+    }
+  },
+  "quarters": {
+    "FY26Q3": {
+      "revenue": 57006,
+      "compute": 50908,
+      "graphics": 6098,
+      "compute_yoy_base": 31036,
+      "graphics_yoy_base": 4046,
+      "gm": 73.4,
+      "net": 31910,
+      "compute_yoy": 64.02886969970356,
+      "graphics_yoy": 50.71675729115175
+    },
+    "FY26Q4": {
+      "revenue": 68127,
+      "compute": 61651,
+      "graphics": 6476,
+      "compute_yoy_base": 36036,
+      "graphics_yoy_base": 3295,
+      "gm": 75,
+      "net": 42960,
+      "compute_yoy": 71.08169608169608,
+      "graphics_yoy": 96.54021244309561
+    },
+    "FY27Q1": {
+      "revenue": 81615,
+      "compute": 74550,
+      "graphics": 7065,
+      "compute_yoy_base": 39589,
+      "graphics_yoy_base": 4473,
+      "gm": 74.9,
+      "net": 58321,
+      "compute_yoy": 88.30988405870318,
+      "graphics_yoy": 57.947686116700204
+    },
+    "FY27Q2": {
+      "revenue": 96221,
+      "compute": 88299,
+      "graphics": 7922,
+      "compute_yoy_base": 41331,
+      "graphics_yoy_base": 5412,
+      "gm": 75,
+      "net": 59688,
+      "compute_yoy": 113.63867315090368,
+      "graphics_yoy": 46.37841832963785
+    }
+  },
+  "eps_normalized_calculation": 8.176678445229681,
+  "eps_used": 8.18,
+  "three_year": [
+    {
+      "name": "悲观",
+      "growth": -0.05,
+      "pe": 18,
+      "probability": 0.25,
+      "eps": 7.0133275,
+      "profit": 169350.8191425,
+      "revenue": 400000,
+      "net_margin": 0.42337704785625,
+      "price": 126.239895,
+      "pv": 94.84590157776108,
+      "cagr": -0.1614936242211375
+    },
+    {
+      "name": "基准",
+      "growth": 0.2,
+      "pe": 25,
+      "probability": 0.5,
+      "eps": 14.13504,
+      "profit": 341318.81088,
+      "revenue": 700000,
+      "net_margin": 0.4875983012571429,
+      "price": 353.376,
+      "pv": 265.49661908339596,
+      "cagr": 0.1817343090533729
+    },
+    {
+      "name": "乐观",
+      "growth": 0.3,
+      "pe": 30,
+      "probability": 0.25,
+      "eps": 17.97146,
+      "profit": 433956.84462,
+      "revenue": 1000000,
+      "net_margin": 0.43395684462,
+      "price": 539.1438,
+      "pv": 405.06671675432005,
+      "cagr": 0.360428430847047
+    }
+  ],
+  "three_year_weighted_pv": 257.7264641247183,
+  "terminal_pes": [
+    10.833333333333334,
+    13.214285714285714,
+    15.0
+  ],
+  "terminal_profit_million": [
+    150000,
+    600000,
+    1200000
+  ],
+  "terminal_irr": [
+    -10.430038084461057,
+    4.867534561764841,
+    13.785201272133973
+  ],
+  "expected_irr": 3.2725580778006496,
+  "reverse_dcf_growth": 0.1673000983961931,
+  "reverse_dcf_terminal_fcf": 596553.5845713965,
+  "reverse_dcf_terminal_weight": 0.6545172449314309,
+  "net_cash_narrow": 23220,
+  "net_cash_including_leases": 17726,
+  "liquid_broad": 99369,
+  "cash_conflict_pct": 10.396564521259675,
+  "fy23_op_conflict_pct": 32.03125,
+  "ttm_revenue": 302969,
+  "ttm_net": 192879,
+  "pb": 22.580604365370508,
+  "ps": 17.066366669967323,
+  "ev_sales": 16.989725418358255,
+  "fcf_yield": 2.456312052516503,
+  "pe_eps": 27.07079646017699,
+  "pe_profit": 26.80732636872667,
+  "normalized_pe": 26.177261613691932,
+  "h1_investment_gain_share": 16.76472668128138,
+  "huang_vote_pct": 3.5809436733455775,
+  "huang_ex_foundation_pct": 3.339567037512274
+}

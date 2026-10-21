@@ -1,0 +1,259 @@
+{
+  "cutoff": "2026-10-20 01:35:45 Asia/Shanghai",
+  "price_date": "2026-10-16",
+  "price_hkd": "142.20",
+  "shares_bn": "1.331779203",
+  "shares_date": "2026-09-30",
+  "cny_per_hkd": "0.8525",
+  "market_cap_hkd_bn": "189.37900266660",
+  "market_cap_cny_bn": "161.445599773276500",
+  "liquid_assets_bn": "13.971914",
+  "operating_cash_buffer_assumption_bn": "3",
+  "minority_cash_deduction_proxy_bn": "0.229451",
+  "surplus_common_cash_proxy_bn": "10.742463",
+  "lease_debt_bn": "3.727572",
+  "annual": {
+    "2021": {
+      "revenue_bn": "4.490651",
+      "gross_margin_pct": "61.43038058401777381497693764222603805105",
+      "operating_profit_bn": "1.149812",
+      "operating_margin_pct": "25.60457270003836860179069805246499895004",
+      "attributable_profit_bn": "0.854339",
+      "cfo_bn": "0.7791",
+      "ppe_capex_bn": "0.2875",
+      "fcf_ppe_only_not_owner_cash_bn": "0.4916",
+      "liquid_assets_rounded_bn": "5.285",
+      "equity_bn": "6.818182",
+      "roe_average_equity_pct": null
+    },
+    "2022": {
+      "revenue_bn": "4.617324",
+      "gross_margin_pct": "57.49094064007637324129734019098508140213",
+      "operating_profit_bn": "0.583380",
+      "operating_margin_pct": "12.63459094488495934008529615855417553544",
+      "attributable_profit_bn": "0.475660",
+      "cfo_bn": "0.89102",
+      "ppe_capex_bn": "0.26613",
+      "fcf_ppe_only_not_owner_cash_bn": "0.62489",
+      "liquid_assets_rounded_bn": "5.054",
+      "equity_bn": "6.963288",
+      "roe_average_equity_pct": "6.902892071745612042837229990704910288960"
+    },
+    "2023": {
+      "revenue_bn": "6.301002",
+      "gross_margin_pct": "61.32470676885993687988037458169351477749",
+      "operating_profit_bn": "1.230646",
+      "operating_margin_pct": "19.53095713983268058000933819732163233721",
+      "attributable_profit_bn": "1.082344",
+      "cfo_bn": "1.990596",
+      "ppe_capex_bn": "0.324179",
+      "fcf_ppe_only_not_owner_cash_bn": "1.666417",
+      "liquid_assets_rounded_bn": "5.972",
+      "equity_bn": "7.769927",
+      "roe_average_equity_pct": "14.69257049462727585255492436647398412363"
+    },
+    "2024": {
+      "revenue_bn": "13.037749",
+      "gross_margin_pct": "66.78886823177835376336820105986087015481",
+      "operating_profit_bn": "4.154272",
+      "operating_margin_pct": "31.86341445904503913980856664750947421982",
+      "attributable_profit_bn": "3.125473",
+      "cfo_bn": "4.954220",
+      "ppe_capex_bn": "0.372668",
+      "fcf_ppe_only_not_owner_cash_bn": "4.581552",
+      "liquid_assets_rounded_bn": "9.632",
+      "equity_bn": "10.683505",
+      "roe_average_equity_pct": "33.87416497917568937853945000583089367875"
+    },
+    "2025": {
+      "revenue_bn": "37.120052",
+      "gross_margin_pct": "72.10365976858006556671849489866016351486",
+      "operating_profit_bn": "16.890474",
+      "operating_margin_pct": "45.50229078342885942077882865034779584899",
+      "attributable_profit_bn": "12.775689",
+      "cfo_bn": "10.865152",
+      "ppe_capex_bn": "0.985250",
+      "fcf_ppe_only_not_owner_cash_bn": "9.879902",
+      "liquid_assets_rounded_bn": "17.235",
+      "equity_bn": "22.277735",
+      "roe_average_equity_pct": "77.51946832097336143907207374479843598117"
+    }
+  },
+  "full_capex": {
+    "2023": "0.392466",
+    "2024": "0.516690",
+    "2025": "1.171537",
+    "h1_2025": "0.374523",
+    "h1_2026": "0.724139"
+  },
+  "h1": {
+    "revenue_growth_pct": "23.75741877719930044631571179472071613450",
+    "net_profit_growth_pct": "10.14382751890534386389551518373685720080",
+    "gross_margin_pct": "69.67795403006861791305043562478392580971",
+    "net_margin_pct": "29.33912058408700534987612183157425577163",
+    "domestic_margin_pct": "53.04140999363223288470997398551158808210",
+    "overseas_margin_pct": "30.33722869303669929201361431836299968707",
+    "overseas_margin_prior_pct": "44.06053207815407411221382670917342097848",
+    "overseas_growth_pct": "-11.10317327509393105953663061029801925962",
+    "after_full_capex_lease_bn": "2.410296",
+    "after_sbc_bn": "2.354829",
+    "cash_to_attributable_profit_pct": "46.73778338451376473091372154246282141258"
+  },
+  "ttm": {
+    "revenue_bn": "40.416697",
+    "attributable_profit_bn": "13.239705",
+    "cfo_bn": "8.525003",
+    "capex_bn": "1.521153",
+    "leases_bn": "0.847585",
+    "sbc_bn": "0.104179",
+    "interest_received_bn": "0.138665",
+    "minority_dividend_bn": "0.184823",
+    "fcf_full_capex_bn": "7.003850",
+    "post_lease_cash_bn": "6.156265",
+    "post_sbc_cash_bn": "6.052086",
+    "attributable_operating_cash_proxy_bn": "5.728598"
+  },
+  "multiples": {
+    "pe_ttm": "12.19404811310195355561169980751081689509",
+    "pe_2025": "12.63693878062282981371885304972592867594",
+    "ps_ttm": "3.994527305714182927912194309198497838653",
+    "pb": "7.001406467735863408616080194894632140545",
+    "ev_revenue_exleases": "3.648830723927699980035478901207587547295",
+    "price_owner_cash_proxy": "28.18239292987158463554258825632379859784",
+    "cash_yield_pct": "3.548314731429573398168007578649057430229",
+    "last_dividend_yield_pct": "1.964685647821621688506131135775888736281"
+  },
+  "ownership": {
+    "sfo_deemed_pct": "49.13794635168728575455041087180920448819",
+    "economic_lookthrough_estimate_pct": "46.38691606879402824828869273617418154817"
+  },
+  "buyback_average_hkd": "155.4806880570409982174688057040998217469",
+  "scenarios": {
+    "bear": {
+      "fcfe_bn": [
+        "5",
+        "4.5",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4"
+      ],
+      "r": "0.10",
+      "g": "0",
+      "growth_year6_10": "0",
+      "pv_explicit_bn": "25.90058247240550696492798645225062219739",
+      "pv_terminal_bn": "15.42173157718126989457614577915433648030",
+      "terminal_share_pct": "37.32059041677867314487427278555349428232",
+      "equity_cny_bn": "52.06477704958677685950413223140495867769",
+      "fair_hkd": "45.85824145624520380999232601768385296248",
+      "upside_pct": "-67.75088505186694528129934879206480101092",
+      "year10_revenue_assumption_bn": "35",
+      "year10_profit_assumption_bn": "7",
+      "year10_net_margin_assumption_pct": "20.0",
+      "year10_cash_conversion_pct": "57.14285714285714285714285714285714285714",
+      "year5_stock_value_plus_surplus_cash_bn": "50.74246300000000000000000000000000000000",
+      "fiveyear_cash_distributed_assumption_bn": "21.5",
+      "fiveyear_wealth_multiple": "0.4474724805225569909477616605044971237085",
+      "fiveyear_annualized_return_pct": "-14.85615347959184545681333475685040917916"
+    },
+    "base": {
+      "fcfe_bn": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "12",
+        "12.48",
+        "12.9792",
+        "13.498368",
+        "14.03830272",
+        "14.5998348288"
+      ],
+      "r": "0.10",
+      "g": "0.025",
+      "growth_year6_10": "0.04",
+      "pv_explicit_bn": "65.60281413261042061467388629576300006687",
+      "pv_terminal_bn": "76.92786738198641867543062009805589487485",
+      "terminal_share_pct": "53.97284750519353186759605914835881379593",
+      "equity_cny_bn": "153.2731445145968392901045063938188949417",
+      "fair_hkd": "135.0017664190522599300498487629994484007",
+      "upside_pct": "-5.062048931749465590682244189170570744900",
+      "year10_revenue_assumption_bn": "65",
+      "year10_profit_assumption_bn": "17",
+      "year10_net_margin_assumption_pct": "26.15384615384615384615384615384615384615",
+      "year10_cash_conversion_pct": "85.88138134588235294117647058823529411765",
+      "year5_stock_value_plus_surplus_cash_bn": "185.5028508860733556451062085923092684926",
+      "fiveyear_cash_distributed_assumption_bn": "46",
+      "fiveyear_wealth_multiple": "1.433937197490551714263846832500907710220",
+      "fiveyear_annualized_return_pct": "7.474646706885716787357200788828760202400"
+    },
+    "bull": {
+      "fcfe_bn": [
+        "10",
+        "12",
+        "15",
+        "18",
+        "20",
+        "21.40",
+        "22.8980",
+        "24.500860",
+        "26.21592020",
+        "28.0510346140"
+      ],
+      "r": "0.10",
+      "g": "0.03",
+      "growth_year6_10": "0.07",
+      "pv_explicit_bn": "112.1835213172173030117563289991498874950",
+      "pv_terminal_bn": "159.1333543098958831414959085689504789375",
+      "terminal_share_pct": "58.65221392590494625199110470803674814096",
+      "equity_cny_bn": "282.0593386271131861532522375681003664325",
+      "fair_hkd": "248.4356217146933007206373834165768649362",
+      "upside_pct": "74.70859473607123820016693629857726085530",
+      "year10_revenue_assumption_bn": "100",
+      "year10_profit_assumption_bn": "32",
+      "year10_net_margin_assumption_pct": "32.00",
+      "year10_cash_conversion_pct": "87.6594831687500",
+      "year5_stock_value_plus_surplus_cash_bn": "359.1380043662220574316742611258013211432",
+      "fiveyear_cash_distributed_assumption_bn": "75",
+      "fiveyear_wealth_multiple": "2.689066812448878736143491177584462773493",
+      "fiveyear_annualized_return_pct": "21.87659674131039928670994121925769173460"
+    }
+  },
+  "sensitivity": {
+    "0.09": "155.8371955758300096806831118942793634194",
+    "0.10": "135.0017664190522599300498487629994484007",
+    "0.11": "119.1241240583008276301070299898021816309"
+  },
+  "reverse_dcf": {
+    "base_path_scale": "1.057338217791673885735327933485277620721",
+    "year5_fcfe_bn": "12.68805861350008662882393520182333144865",
+    "year10_fcfe_bn": "15.43696333793620021961007226188788597904"
+  },
+  "action_lines": {
+    "70pct_base": "94.50123649333658195103489413409961388049",
+    "85pct_base": "114.7515014561944209405423714485495311406"
+  },
+  "share_source_discrepancy_pct": "1.662534580152671755725190839694656488500",
+  "base_cash_bridges_assumptions": {
+    "year1": {
+      "revenue_bn": "45",
+      "normalized_attributable_profit_after_tax_sbc_full_rent_ex_nonoperating_interest_bn": "11",
+      "nonlease_depreciation_bn": "0.8",
+      "full_capex_bn": "1.8",
+      "working_capital_increase_bn": "3",
+      "fcfe_bn": "7.0"
+    },
+    "year5": {
+      "revenue_bn": "60",
+      "normalized_attributable_profit_after_tax_sbc_full_rent_ex_nonoperating_interest_bn": "15",
+      "nonlease_depreciation_bn": "1",
+      "full_capex_bn": "2",
+      "working_capital_increase_bn": "2",
+      "fcfe_bn": "12"
+    }
+  }
+}

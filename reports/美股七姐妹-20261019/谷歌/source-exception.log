@@ -1,0 +1,21 @@
+============================================================
+交叉验证: all_class_shares_outlier_rejected (Cross-Validation)
+============================================================
+  数据来源数: 3
+  参考中位数: 12.23 billion_shares
+
+  ✅ SEC_periodend       : 12.23 billion_shares  (偏差 0.00%)
+  ✅ StockAnalysis_periodend: 12.23 billion_shares  (偏差 0.00%)
+  ❌ Macrotrends_unspecified_definition_REJECTED: 13.14 billion_shares  (偏差 7.47%)
+
+  ⚠️  存在来源偏差 > 2.0%, 请核实差异原因
+     建议: 优先采用公司年报/交易所数据
+
+  共识值 (加权中位数): 12.23 billion_shares
+
+Resolution: use SEC period-end12.230 corroborated by StockAnalysis; do not average periods/definitions. Difference vs SEC=7.473426001635321%
+
+2026-10-19 peer-review correction: auxiliary reverse DCF previously used OCF-capex and added an operating-valuation financial-asset bridge. That mixed equity and enterprise cash-flow conventions. Corrected to an explicitly approximate after-interest equity cash-flow model valued directly against all-class common equity at the A-price proxy. No additional financial assets or debt. No invented financial-income adjustment.
+Base r=10%, g=3%, ten years: growth 25.6873410925% from USD53,273m and 17.0403446038% from assumed USD100,000m. r=9%:23.0151010052%/14.6042622572%; r=11%:28.1617679933%/19.2950561230%.
+Recomputed all outputs; each reverse DCF equals USD4,165,415.7m within 0.000001m; financial-asset addition=0. Main operating-profit three-year base present value remains USD339.2298691825. Exact distributable common FCFE is not claimed; borrowing, preferred distributions and SBC dilution remain proxy limitations.
+report_audit extract seed42 rerun: same samples; verdict 10 passed, 2 extraction artifacts skipped, 0 warnings/failures. This is model recalculation, not external-source corroboration.

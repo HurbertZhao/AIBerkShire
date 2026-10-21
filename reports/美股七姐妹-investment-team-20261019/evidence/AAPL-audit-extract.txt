@@ -1,0 +1,318 @@
+======================================================================
+报告数据抽检清单
+文件：reports/美股七姐妹-investment-team-20261019/01-苹果-AAPL-研究报告.md
+总提取数据点：147  |  抽样比例：15%  |  抽检数量：23
+随机种子：42（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+142      3  数据截止                                      2026.00
+  7     59  营业收入 · FY 2024                             391.04
+  9     59  营业收入 · TTM                                 466.82
+  8     59  营业收入 · FY 2025                             416.16
+ 23     63  经营现金流 CFO · FY 2024                        118.25
+ 24     63  经营现金流 CFO · FY 2025                        111.48
+ 29     64  现金资本开支 · TTM                                10.04
+ 27     64  现金资本开支 · FY 2024                             9.45
+ 36     66  股权薪酬 SBC · FY 2025                          12.86
+ 51     89  CFO · 金额                                   146.72
+ 56    104  正常收盘价（美元） · 复算结果                           343.46
+ 57    105  公开已发行股数（十亿） · 复算结果                          14.59
+ 58    106  估算总市值（万亿美元） · 复算结果                           5.01
+ 60    108  总市值/TTM归属利润 · 复算结果                          38.88  倍
+ 63    111  基础FCF收益率 · 复算结果                              2.70  %
+ 71    128  AAPL · PS                                   10.74
+ 76    129  MSFT · 营业利润率                                46.78  %
+143    186  超出“可能监管”。Epic 案最高院案号 25-1311 显示           2026.00
+109    215  基准 · 终值增长                                    2.50  %
+108    215  基准 · 第十年现金率                                 25.00  %
+130    257  悲观 · 经营利润CAGR                                2.00  %
+140    295  尚未持有、偏现金流价值 · 行动规则                         130.00
+146    354  reports-third-quarter-results/)           2026.00
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 142,
+    "label": "数据截止",
+    "reported_value": 2026.0,
+    "unit": "",
+    "line_number": 3,
+    "raw_text": "数据截止：2026-10-19（Asia/Shanghai）。行情统一为2026-10-16美国正常收盘；币种USD。最新财务：截至2026-06-27的FY2026第三财季；完整年度为FY2025。本报告为 /investment-tea",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 7,
+    "label": "营业收入 · FY 2024",
+    "reported_value": 391.035,
+    "unit": "",
+    "line_number": 59,
+    "raw_text": "| 营业收入 | 383.285 | 391.035 | 416.161 | 466.823 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 9,
+    "label": "营业收入 · TTM",
+    "reported_value": 466.823,
+    "unit": "",
+    "line_number": 59,
+    "raw_text": "| 营业收入 | 383.285 | 391.035 | 416.161 | 466.823 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 8,
+    "label": "营业收入 · FY 2025",
+    "reported_value": 416.161,
+    "unit": "",
+    "line_number": 59,
+    "raw_text": "| 营业收入 | 383.285 | 391.035 | 416.161 | 466.823 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 23,
+    "label": "经营现金流 CFO · FY 2024",
+    "reported_value": 118.254,
+    "unit": "",
+    "line_number": 63,
+    "raw_text": "| 经营现金流 CFO | 110.543 | 118.254 | 111.482 | 146.724 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 24,
+    "label": "经营现金流 CFO · FY 2025",
+    "reported_value": 111.482,
+    "unit": "",
+    "line_number": 63,
+    "raw_text": "| 经营现金流 CFO | 110.543 | 118.254 | 111.482 | 146.724 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 29,
+    "label": "现金资本开支 · TTM",
+    "reported_value": 10.041,
+    "unit": "",
+    "line_number": 64,
+    "raw_text": "| 现金资本开支 | 10.959 | 9.447 | 12.715 | 10.041 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 27,
+    "label": "现金资本开支 · FY 2024",
+    "reported_value": 9.447,
+    "unit": "",
+    "line_number": 64,
+    "raw_text": "| 现金资本开支 | 10.959 | 9.447 | 12.715 | 10.041 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 36,
+    "label": "股权薪酬 SBC · FY 2025",
+    "reported_value": 12.863,
+    "unit": "",
+    "line_number": 66,
+    "raw_text": "| 股权薪酬 SBC | 10.833 | 11.688 | 12.863 | 13.706 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 51,
+    "label": "CFO · 金额",
+    "reported_value": 146.724,
+    "unit": "",
+    "line_number": 89,
+    "raw_text": "| CFO | 146.724 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 56,
+    "label": "正常收盘价（美元） · 复算结果",
+    "reported_value": 343.46,
+    "unit": "",
+    "line_number": 104,
+    "raw_text": "| 正常收盘价（美元） | 343.46 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 57,
+    "label": "公开已发行股数（十亿） · 复算结果",
+    "reported_value": 14.59418,
+    "unit": "",
+    "line_number": 105,
+    "raw_text": "| 公开已发行股数（十亿） | 14.594180 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 58,
+    "label": "估算总市值（万亿美元） · 复算结果",
+    "reported_value": 5.013,
+    "unit": "",
+    "line_number": 106,
+    "raw_text": "| 估算总市值（万亿美元） | 5.013 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 60,
+    "label": "总市值/TTM归属利润 · 复算结果",
+    "reported_value": 38.88,
+    "unit": "倍",
+    "line_number": 108,
+    "raw_text": "| 总市值/TTM归属利润 | 38.88倍 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 63,
+    "label": "基础FCF收益率 · 复算结果",
+    "reported_value": 2.7,
+    "unit": "%",
+    "line_number": 111,
+    "raw_text": "| 基础FCF收益率 | 2.7% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 71,
+    "label": "AAPL · PS",
+    "reported_value": 10.74,
+    "unit": "",
+    "line_number": 128,
+    "raw_text": "| AAPL | 10.74 | 33.17% | 39.39 | 2.7% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 76,
+    "label": "MSFT · 营业利润率",
+    "reported_value": 46.78,
+    "unit": "%",
+    "line_number": 129,
+    "raw_text": "| MSFT | 11.84 | 46.78% | 29.47 | 1.7% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 143,
+    "label": "超出“可能监管”。Epic 案最高院案号 25-1311 显示",
+    "reported_value": 2026.0,
+    "unit": "",
+    "line_number": 186,
+    "raw_text": "App Store 收费压力已超出“可能监管”。Epic 案最高院案号 25-1311 显示：2026-06-30 仅受理申请中的第一个问题，8月13日驳回暂停申请；截至本次检索仍处于书面审理阶段。不能写成“最高院已推翻禁令”，也不能把所有",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 109,
+    "label": "基准 · 终值增长",
+    "reported_value": 2.5,
+    "unit": "%",
+    "line_number": 215,
+    "raw_text": "| 基准 | 7.0% | 4.0% | 25%→25%→25%→25%→25% | 25.0% | 2.5% | 175.88 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 108,
+    "label": "基准 · 第十年现金率",
+    "reported_value": 25.0,
+    "unit": "%",
+    "line_number": 215,
+    "raw_text": "| 基准 | 7.0% | 4.0% | 25%→25%→25%→25%→25% | 25.0% | 2.5% | 175.88 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 130,
+    "label": "悲观 · 经营利润CAGR",
+    "reported_value": 2.0,
+    "unit": "%",
+    "line_number": 257,
+    "raw_text": "| 悲观 | 2.0% | 18 | 172.89 | -12.8% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 140,
+    "label": "尚未持有、偏现金流价值 · 行动规则",
+    "reported_value": 130.0,
+    "unit": "",
+    "line_number": 295,
+    "raw_text": "| 尚未持有、偏现金流价值 | 优先观察；约130美元以下且投资论文成立时再评估分批买入。 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 146,
+    "label": "reports-third-quarter-results/)",
+    "reported_value": 2026.0,
+    "unit": "",
+    "line_number": 354,
+    "raw_text": "- [B4 苹果FY26Q3新闻稿](https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/)：2026-07-30；退款影响及装机口径。",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

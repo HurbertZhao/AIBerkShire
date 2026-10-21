@@ -1,0 +1,186 @@
+[
+  {
+    "id": 7,
+    "label": "营业收入 · FY 2024",
+    "reported_value": 60.922,
+    "unit": "",
+    "raw_text": "| 营业收入 | 60.922 | 130.497 | 215.938 | 302.970 |",
+    "line_number": 66
+  },
+  {
+    "id": 9,
+    "label": "营业收入 · FY 2026",
+    "reported_value": 215.938,
+    "unit": "",
+    "raw_text": "| 营业收入 | 60.922 | 130.497 | 215.938 | 302.970 |",
+    "line_number": 66
+  },
+  {
+    "id": 8,
+    "label": "营业收入 · FY 2025",
+    "reported_value": 130.497,
+    "unit": "",
+    "raw_text": "| 营业收入 | 60.922 | 130.497 | 215.938 | 302.970 |",
+    "line_number": 66
+  },
+  {
+    "id": 23,
+    "label": "经营现金流 CFO · FY 2024",
+    "reported_value": 28.09,
+    "unit": "",
+    "raw_text": "| 经营现金流 CFO | 28.090 | 64.089 | 102.718 | 134.360 |",
+    "line_number": 70
+  },
+  {
+    "id": 24,
+    "label": "经营现金流 CFO · FY 2025",
+    "reported_value": 64.089,
+    "unit": "",
+    "raw_text": "| 经营现金流 CFO | 28.090 | 64.089 | 102.718 | 134.360 |",
+    "line_number": 70
+  },
+  {
+    "id": 29,
+    "label": "现金资本开支 · FY 2026",
+    "reported_value": 6.042,
+    "unit": "",
+    "raw_text": "| 现金资本开支 | 1.069 | 3.236 | 6.042 | 7.354 |",
+    "line_number": 71
+  },
+  {
+    "id": 27,
+    "label": "现金资本开支 · FY 2024",
+    "reported_value": 1.069,
+    "unit": "",
+    "raw_text": "| 现金资本开支 | 1.069 | 3.236 | 6.042 | 7.354 |",
+    "line_number": 71
+  },
+  {
+    "id": 36,
+    "label": "股权薪酬 SBC · FY 2025",
+    "reported_value": 4.737,
+    "unit": "",
+    "raw_text": "| 股权薪酬 SBC | 3.549 | 4.737 | 6.386 | 7.241 |",
+    "line_number": 73
+  },
+  {
+    "id": 51,
+    "label": "SBC/收入 · 本报告复算",
+    "reported_value": 2.4,
+    "unit": "%",
+    "raw_text": "| SBC/收入 | 2.4% |",
+    "line_number": 88
+  },
+  {
+    "id": 56,
+    "label": "减：SBC经济成本代理 · 金额",
+    "reported_value": 7.241,
+    "unit": "",
+    "raw_text": "| 减：SBC经济成本代理 | 7.241 |",
+    "line_number": 100
+  },
+  {
+    "id": 57,
+    "label": "研究现金代理 · 金额",
+    "reported_value": 119.645,
+    "unit": "",
+    "raw_text": "| 研究现金代理 | 119.645 |",
+    "line_number": 101
+  },
+  {
+    "id": 58,
+    "label": "正常收盘价（美元） · 复算结果",
+    "reported_value": 214.13,
+    "unit": "",
+    "raw_text": "| 正常收盘价（美元） | 214.13 |",
+    "line_number": 111
+  },
+  {
+    "id": 60,
+    "label": "估算总市值（万亿美元） · 复算结果",
+    "reported_value": 5.171,
+    "unit": "",
+    "raw_text": "| 估算总市值（万亿美元） | 5.171 |",
+    "line_number": 113
+  },
+  {
+    "id": 63,
+    "label": "PS · 复算结果",
+    "reported_value": 17.07,
+    "unit": "倍",
+    "raw_text": "| PS | 17.07倍 |",
+    "line_number": 116
+  },
+  {
+    "id": 71,
+    "label": "FY 2026 · PE（倍）",
+    "reported_value": 37.98,
+    "unit": "",
+    "raw_text": "| FY 2026 | 37.98 | 21.12 |",
+    "line_number": 129
+  },
+  {
+    "id": 72,
+    "label": "FY 2026 · PS（倍）",
+    "reported_value": 21.12,
+    "unit": "",
+    "raw_text": "| FY 2026 | 37.98 | 21.12 |",
+    "line_number": 129
+  },
+  {
+    "id": 148,
+    "label": "最重要的新风险在最新10-Q",
+    "reported_value": 8.0,
+    "unit": "",
+    "raw_text": "最重要的新风险在最新10-Q：8月签订的 SB Energy/OpenAI 相关担保上限为 **1,050亿美元**，按项目交付分阶段生效、首期预计FY2029，违约时触发，并有信用评级等终止条件。[R4，单一SEC披露，尚未完成独立财务源",
+    "line_number": 190
+  },
+  {
+    "id": 104,
+    "label": "悲观 · 第十年现金率",
+    "reported_value": 20.0,
+    "unit": "%",
+    "raw_text": "| 悲观 | 10.0% | 2.0% | 30%→29%→28%→28%→28% | 20.0% | 2.0% | 51.27 |",
+    "line_number": 224
+  },
+  {
+    "id": 109,
+    "label": "基准 · 前五年现金率逐年路径",
+    "reported_value": 42.0,
+    "unit": "%",
+    "raw_text": "| 基准 | 25.0% | 6.0% | 42%→43%→44%→43%→42% | 32.0% | 3.0% | 170.24 |",
+    "line_number": 225
+  },
+  {
+    "id": 108,
+    "label": "基准 · 后五年收入CAGR",
+    "reported_value": 6.0,
+    "unit": "%",
+    "raw_text": "| 基准 | 25.0% | 6.0% | 42%→43%→44%→43%→42% | 32.0% | 3.0% | 170.24 |",
+    "line_number": 225
+  },
+  {
+    "id": 115,
+    "label": "乐观 · 前五年现金率逐年路径",
+    "reported_value": 44.0,
+    "unit": "%",
+    "raw_text": "| 乐观 | 32.0% | 8.0% | 44%→46%→48%→47%→46% | 38.0% | 3.0% | 269.30 |",
+    "line_number": 226
+  },
+  {
+    "id": 130,
+    "label": "中性 · 第五年条件价格USD",
+    "reported_value": 390.18,
+    "unit": "",
+    "raw_text": "| 中性 | 22.0% | 22 | 390.18 | 12.8% |",
+    "line_number": 268
+  },
+  {
+    "id": 140,
+    "label": "简单平均 · 评分/5",
+    "reported_value": 3.98,
+    "unit": "",
+    "raw_text": "| 简单平均 | 3.98 |",
+    "line_number": 292
+  }
+]

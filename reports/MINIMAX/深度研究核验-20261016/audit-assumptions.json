@@ -1,0 +1,72 @@
+[
+  {
+    "id": 58,
+    "label": "专业创作订阅与工具 · 年度净收入单价",
+    "reported_value": 300.0,
+    "unit": "",
+    "line_number": 269,
+    "raw_text": "| 专业创作订阅与工具 | 800万付费当量 | 300美元 | 24.0 | 60% | 14.4 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "classification": "unverified_forward_assumption",
+    "boundary": "300 USD/year, assumption"
+  },
+  {
+    "id": 60,
+    "label": "专业创作订阅与工具 · 毛利率假设",
+    "reported_value": 60.0,
+    "unit": "%",
+    "line_number": 269,
+    "raw_text": "| 专业创作订阅与工具 | 800万付费当量 | 300美元 | 24.0 | 60% | 14.4 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "classification": "unverified_forward_assumption",
+    "boundary": "60%, assumption"
+  },
+  {
+    "id": 57,
+    "label": "专业创作订阅与工具 · 客户/用户假设",
+    "reported_value": 800.0,
+    "unit": "",
+    "line_number": 269,
+    "raw_text": "| 专业创作订阅与工具 | 800万付费当量 | 300美元 | 24.0 | 60% | 14.4 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "classification": "unverified_forward_assumption",
+    "boundary": "800万=8000000 accounts; extractor omitted 万; assumption"
+  },
+  {
+    "id": 63,
+    "label": "消费互动与娱乐 · 年度净收入单价",
+    "reported_value": 60.0,
+    "unit": "",
+    "line_number": 270,
+    "raw_text": "| 消费互动与娱乐 | 2,000万付费当量 | 60美元 | 12.0 | 50% | 6.0 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "classification": "unverified_forward_assumption",
+    "boundary": "60 USD/year, assumption"
+  },
+  {
+    "id": 108,
+    "label": "2027E · 研发费用",
+    "reported_value": 15.0,
+    "unit": "",
+    "line_number": 349,
+    "raw_text": "| 2027E | 6.5 | 30% | 15.0 | -14.16 | -16.96 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "classification": "unverified_forward_assumption",
+    "boundary": "15亿美元, assumption"
+  }
+]

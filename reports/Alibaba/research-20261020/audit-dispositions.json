@@ -1,0 +1,128 @@
+[
+  {
+    "id": 7,
+    "label": "FY2022 · 简单FCF",
+    "classification": "derived_single_source",
+    "independent_second_source": false
+  },
+  {
+    "id": 2,
+    "label": "FY2022 · 归普通股净利",
+    "classification": "fact",
+    "independent_second_source": true
+  },
+  {
+    "id": 9,
+    "label": "FY2023 · 归普通股净利",
+    "classification": "fact",
+    "independent_second_source": true
+  },
+  {
+    "id": 8,
+    "label": "FY2023 · 收入",
+    "classification": "fact",
+    "independent_second_source": true
+  },
+  {
+    "id": 27,
+    "label": "FY2025 · 购建固定资产",
+    "classification": "fact",
+    "independent_second_source": true
+  },
+  {
+    "id": 23,
+    "label": "FY2025 · 归普通股净利",
+    "classification": "fact",
+    "independent_second_source": true
+  },
+  {
+    "id": 24,
+    "label": "FY2025 · 毛利率%",
+    "classification": "derived",
+    "independent_second_source": true
+  },
+  {
+    "id": 29,
+    "label": "FY2026 · 收入",
+    "classification": "fact",
+    "independent_second_source": true
+  },
+  {
+    "id": 36,
+    "label": "2026June · 收入",
+    "classification": "fact",
+    "independent_second_source": true
+  },
+  {
+    "id": 51,
+    "label": "2025年12月季 · 云分部收入",
+    "classification": "fact",
+    "independent_second_source": false
+  },
+  {
+    "id": 56,
+    "label": "2026年3月季 · 云分部收入",
+    "classification": "fact",
+    "independent_second_source": true
+  },
+  {
+    "id": 57,
+    "label": "2026年3月季 · 云同比",
+    "classification": "fact",
+    "independent_second_source": true
+  },
+  {
+    "id": 58,
+    "label": "2026年6月季 · 收入",
+    "classification": "fact",
+    "independent_second_source": true
+  },
+  {
+    "id": 60,
+    "label": "2026年6月季 · 归普通股净利",
+    "classification": "fact",
+    "independent_second_source": true
+  },
+  {
+    "id": 63,
+    "label": "港股收盘 · 采用值",
+    "classification": "fact",
+    "independent_second_source": true
+  },
+  {
+    "id": 71,
+    "label": "自算TTM PS · 采用值",
+    "classification": "formula",
+    "independent_second_source": false
+  },
+  {
+    "id": 72,
+    "label": "PB（六月权益基数） · 采用值",
+    "classification": "formula",
+    "independent_second_source": false
+  },
+  {
+    "id": 109,
+    "label": "基准 · 第6年至第10年FCFF",
+    "classification": "assumption_transcription",
+    "independent_second_source": false
+  },
+  {
+    "id": 108,
+    "label": "基准 · 第1年至第5年FCFF",
+    "classification": "assumption_transcription",
+    "independent_second_source": false
+  },
+  {
+    "id": 115,
+    "label": "悲观 · 五年后净利",
+    "classification": "assumption_transcription",
+    "independent_second_source": false
+  },
+  {
+    "id": 130,
+    "label": "乐观 · 五年末股价/股",
+    "classification": "assumption_formula",
+    "independent_second_source": false
+  }
+]

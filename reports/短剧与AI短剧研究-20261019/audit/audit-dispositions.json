@@ -1,0 +1,72 @@
+[
+  {
+    "id": 109,
+    "label": "S03 · 主要用途和边界",
+    "reported_value": 2026.0,
+    "unit": "",
+    "raw_text": "| S03 | [DataEye《2025年微短剧行业数据报告》，2026年1月，PDF第3—4页](https://pdf.dfcfw.com/pdf/H3_AP202601211818183880_1.pdf) | 千亿产值、2026预",
+    "line_number": 446,
+    "disposition": "excluded_non_metric",
+    "reason": "来源索引中的年份或标题，不是经济数据；保留原始抽样记录"
+  },
+  {
+    "id": 108,
+    "label": "S03 · 来源与时间",
+    "reported_value": 2025.0,
+    "unit": "",
+    "raw_text": "| S03 | [DataEye《2025年微短剧行业数据报告》，2026年1月，PDF第3—4页](https://pdf.dfcfw.com/pdf/H3_AP202601211818183880_1.pdf) | 千亿产值、2026预",
+    "line_number": 446,
+    "disposition": "excluded_non_metric",
+    "reason": "来源索引中的年份或标题，不是经济数据；保留原始抽样记录"
+  },
+  {
+    "id": 115,
+    "label": "S07 · 来源与时间",
+    "reported_value": 2026.0,
+    "unit": "",
+    "raw_text": "| S07 | [Omdia：受众结构及全球规模更新，2026-10-13](https://omdia.tech.informa.com/pr/2026/oct/men-account-for-54percent-of-uk-microd",
+    "line_number": 450,
+    "disposition": "excluded_non_metric",
+    "reason": "来源索引中的年份或标题，不是经济数据；保留原始抽样记录"
+  },
+  {
+    "id": 130,
+    "label": "S17 · 来源与时间",
+    "reported_value": 2025.0,
+    "unit": "",
+    "raw_text": "| S17 | [FOX官方投资HOLYWATER公告，2025-10-09](https://www.foxcorporation.com/news/business/2025/fox-entertainment-deepens-crea",
+    "line_number": 460,
+    "disposition": "excluded_non_metric",
+    "reason": "来源索引中的年份或标题，不是经济数据；保留原始抽样记录"
+  },
+  {
+    "id": 140,
+    "label": "S25 · 来源与时间",
+    "reported_value": 2025.0,
+    "unit": "",
+    "raw_text": "| S25 | [美国版权局AI版权适格报告，2025-01](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightabili",
+    "line_number": 468,
+    "disposition": "excluded_non_metric",
+    "reason": "来源索引中的年份或标题，不是经济数据；保留原始抽样记录"
+  },
+  {
+    "id": 151,
+    "label": "S34 · 来源与时间",
+    "reported_value": 2025.0,
+    "unit": "",
+    "raw_text": "| S34 | [第一财经：掌阅2025全年](https://www.yicai.com/news/103151687.html)；[新浪鹰眼2026H1](https://finance.sina.com.cn/stock/aiassi",
+    "line_number": 477,
+    "disposition": "excluded_non_metric",
+    "reason": "来源索引中的年份或标题，不是经济数据；保留原始抽样记录"
+  },
+  {
+    "id": 157,
+    "label": "S39 · 来源与时间",
+    "reported_value": 2026.0,
+    "unit": "",
+    "raw_text": "| S39 | [蓝鲸采访可梦AI，2026-02-12，新浪转载](https://finance.sina.com.cn/stock/t/2026-02-12/doc-inhmpusi6914629.shtml) | 《斩仙台》集数、人",
+    "line_number": 482,
+    "disposition": "excluded_non_metric",
+    "reason": "来源索引中的年份或标题，不是经济数据；保留原始抽样记录"
+  }
+]

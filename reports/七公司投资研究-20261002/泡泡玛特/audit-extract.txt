@@ -1,0 +1,253 @@
+======================================================================
+报告数据抽检清单
+文件：reports/七公司投资研究-20261002/泡泡玛特/泡泡玛特研究报告-20261002.md
+总提取数据点：114  |  抽样比例：15%  |  抽检数量：18
+随机种子：42（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+  4     26  收入 · 2024                                  130.38  
+  5     26  收入 · 2025                                  371.20  
+ 12     27  归母净利润 · 2026上半年                             50.38  
+ 15     28  毛利率 · 2023                                  61.30  %
+ 18     28  毛利率 · 2026上半年                               69.70  %
+ 14     28  毛利率 · 2022                                  57.50  %
+ 29     30  经营现金流CFO · 2025                            108.65  
+ 28     30  经营现金流CFO · 2024                             49.54  
+ 30     30  经营现金流CFO · 2026上半年                          36.37  
+ 36     31  简单FCF：CFO减设备支出 · 2026上半年                    29.64  
+ 32     31  简单FCF：CFO减设备支出 · 2022                        6.25  
+ 55     55  CFO/归母净利 · 2025全年                           85.05  %
+ 65    166  TTM归母PE · 数值                                12.88  
+ 70    169  TTM简单FCF收益率 · 数值                             4.23  %
+ 76    181  前五年现金增长 · 基准                                 7.00  %
+ 82    183  折现率 · 乐观                                    10.00  %
+ 87    185  加回净现金，亿元 · 基准                               99.62  
+ 95    199  三年累计税前股息，港元 · 悲观                             5.84  
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 4,
+    "label": "收入 · 2024",
+    "reported_value": 130.38,
+    "unit": "",
+    "line_number": 26,
+    "raw_text": "| 收入 | 44.91 | 46.17 | 63.01 | 130.38 | 371.20 | 171.73 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 5,
+    "label": "收入 · 2025",
+    "reported_value": 371.2,
+    "unit": "",
+    "line_number": 26,
+    "raw_text": "| 收入 | 44.91 | 46.17 | 63.01 | 130.38 | 371.20 | 171.73 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 12,
+    "label": "归母净利润 · 2026上半年",
+    "reported_value": 50.38,
+    "unit": "",
+    "line_number": 27,
+    "raw_text": "| 归母净利润 | 8.54 | 4.76 | 10.82 | 31.25 | 127.76 | 50.38 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 15,
+    "label": "毛利率 · 2023",
+    "reported_value": 61.3,
+    "unit": "%",
+    "line_number": 28,
+    "raw_text": "| 毛利率 | 61.4% | 57.5% | 61.3% | 66.8% | 72.1% | 69.7% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 18,
+    "label": "毛利率 · 2026上半年",
+    "reported_value": 69.7,
+    "unit": "%",
+    "line_number": 28,
+    "raw_text": "| 毛利率 | 61.4% | 57.5% | 61.3% | 66.8% | 72.1% | 69.7% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 14,
+    "label": "毛利率 · 2022",
+    "reported_value": 57.5,
+    "unit": "%",
+    "line_number": 28,
+    "raw_text": "| 毛利率 | 61.4% | 57.5% | 61.3% | 66.8% | 72.1% | 69.7% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 29,
+    "label": "经营现金流CFO · 2025",
+    "reported_value": 108.65,
+    "unit": "",
+    "line_number": 30,
+    "raw_text": "| 经营现金流CFO | 7.79 | 8.91 | 19.91 | 49.54 | 108.65 | 36.37 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 28,
+    "label": "经营现金流CFO · 2024",
+    "reported_value": 49.54,
+    "unit": "",
+    "line_number": 30,
+    "raw_text": "| 经营现金流CFO | 7.79 | 8.91 | 19.91 | 49.54 | 108.65 | 36.37 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 30,
+    "label": "经营现金流CFO · 2026上半年",
+    "reported_value": 36.37,
+    "unit": "",
+    "line_number": 30,
+    "raw_text": "| 经营现金流CFO | 7.79 | 8.91 | 19.91 | 49.54 | 108.65 | 36.37 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 36,
+    "label": "简单FCF：CFO减设备支出 · 2026上半年",
+    "reported_value": 29.64,
+    "unit": "",
+    "line_number": 31,
+    "raw_text": "| 简单FCF：CFO减设备支出 | 4.92 | 6.25 | 16.66 | 45.82 | 98.80 | 29.64 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 32,
+    "label": "简单FCF：CFO减设备支出 · 2022",
+    "reported_value": 6.25,
+    "unit": "",
+    "line_number": 31,
+    "raw_text": "| 简单FCF：CFO减设备支出 | 4.92 | 6.25 | 16.66 | 45.82 | 98.80 | 29.64 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 55,
+    "label": "CFO/归母净利 · 2025全年",
+    "reported_value": 85.05,
+    "unit": "%",
+    "line_number": 55,
+    "raw_text": "| CFO/归母净利 | 85.05% | 72.19% | 合并现金流除归母利润，少数股东造成小幅口径差 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 65,
+    "label": "TTM归母PE · 数值",
+    "reported_value": 12.88,
+    "unit": "",
+    "line_number": 166,
+    "raw_text": "| TTM归母PE | 12.88 | 人民币利润先按统一汇率换算 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 70,
+    "label": "TTM简单FCF收益率 · 数值",
+    "reported_value": 4.23,
+    "unit": "%",
+    "line_number": 169,
+    "raw_text": "| TTM简单FCF收益率 | 4.23% | 只扣设备资本支出 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 76,
+    "label": "前五年现金增长 · 基准",
+    "reported_value": 7.0,
+    "unit": "%",
+    "line_number": 181,
+    "raw_text": "| 前五年现金增长 | 0% | +7% | +12% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 82,
+    "label": "折现率 · 乐观",
+    "reported_value": 10.0,
+    "unit": "%",
+    "line_number": 183,
+    "raw_text": "| 折现率 | 13% | 11% | 10% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 87,
+    "label": "加回净现金，亿元 · 基准",
+    "reported_value": 99.62,
+    "unit": "",
+    "line_number": 185,
+    "raw_text": "| 加回净现金，亿元 | 50 | 99.62 | 100 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 95,
+    "label": "三年累计税前股息，港元 · 悲观",
+    "reported_value": 5.84,
+    "unit": "",
+    "line_number": 199,
+    "raw_text": "| 三年累计税前股息，港元 | 5.84 | 7.90 | 9.17 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

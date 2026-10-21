@@ -1,0 +1,214 @@
+======================================================================
+报告数据抽检清单
+文件：reports/腾讯/腾讯研究报告-20261020.md
+总提取数据点：98  |  抽样比例：15%  |  抽检数量：15
+随机种子：42（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+  4     31  增值服务 · Q2分部毛利率                              64.00  %
+  5     32  营销服务 · 2025收入                              144.97  
+ 12     33  金融科技及企业服务 · Q2分部毛利率                         52.00  %
+ 15     34  其他 · Q2同比                                   37.00  %
+ 14     34  其他 · 2026Q2收入                                2.52  
+ 18     35  集团 · 2026Q2收入                              204.78  
+ 32     43  营销服务 · 2026Q2                               43.56  
+ 29     43  营销服务 · 2025Q3                               36.24  
+ 36     44  金融科技及企业服务 · 2026Q2                          60.29  
+ 55    212  港元市值 · 解释                                  417.80  
+ 70    235  正常化起始FCFF，十亿元 · 乐观                         200.00  
+ 76    237  后五年增长 · 乐观                                   6.00  %
+ 82    239  非经营净资产，十亿元 · 乐观                            900.00  
+ 87    241  五年后FCFF，十亿元 · 基准                           235.09  
+ 95    261  390—450 · 必须同时满足的条件                       1600.00  亿元
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 4,
+    "label": "增值服务 · Q2分部毛利率",
+    "reported_value": 64.0,
+    "unit": "%",
+    "line_number": 31,
+    "raw_text": "| 增值服务 | 369.281 | 98.414 | +8% | 64% | 游戏玩家、音乐视频会员及其他增值用户 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 5,
+    "label": "营销服务 · 2025收入",
+    "reported_value": 144.973,
+    "unit": "",
+    "line_number": 32,
+    "raw_text": "| 营销服务 | 144.973 | 43.565 | +22% | 57% | 商家为可转化的广告曝光和点击付费 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 12,
+    "label": "金融科技及企业服务 · Q2分部毛利率",
+    "reported_value": 52.0,
+    "unit": "%",
+    "line_number": 33,
+    "raw_text": "| 金融科技及企业服务 | 229.435 | 60.286 | +9% | 52% | 商户支付、金融服务机构、云和企业软件客户 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 15,
+    "label": "其他 · Q2同比",
+    "reported_value": 37.0,
+    "unit": "%",
+    "line_number": 34,
+    "raw_text": "| 其他 | 8.077 | 2.520 | +37% | -35% | 其他业务，体量较小但仍消耗资源 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 14,
+    "label": "其他 · 2026Q2收入",
+    "reported_value": 2.52,
+    "unit": "",
+    "line_number": 34,
+    "raw_text": "| 其他 | 8.077 | 2.520 | +37% | -35% | 其他业务，体量较小但仍消耗资源 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 18,
+    "label": "集团 · 2026Q2收入",
+    "reported_value": 204.785,
+    "unit": "",
+    "line_number": 35,
+    "raw_text": "| 集团 | 751.766 | 204.785 | +11% | 58% | 不能把各分部毛利直接当归母利润 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 32,
+    "label": "营销服务 · 2026Q2",
+    "reported_value": 43.565,
+    "unit": "",
+    "line_number": 43,
+    "raw_text": "| 营销服务 | 36.242 | 41.116 | 38.171 | 43.565 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 29,
+    "label": "营销服务 · 2025Q3",
+    "reported_value": 36.242,
+    "unit": "",
+    "line_number": 43,
+    "raw_text": "| 营销服务 | 36.242 | 41.116 | 38.171 | 43.565 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 36,
+    "label": "金融科技及企业服务 · 2026Q2",
+    "reported_value": 60.286,
+    "unit": "",
+    "line_number": 44,
+    "raw_text": "| 金融科技及企业服务 | 58.174 | 60.818 | 59.885 | 60.286 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 55,
+    "label": "港元市值 · 解释",
+    "reported_value": 417.8,
+    "unit": "",
+    "line_number": 212,
+    "raw_text": "| 港元市值 | 37989.07亿港元 | 417.80港元乘10月15日已发行股份 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 70,
+    "label": "正常化起始FCFF，十亿元 · 乐观",
+    "reported_value": 200.0,
+    "unit": "",
+    "line_number": 235,
+    "raw_text": "| 正常化起始FCFF，十亿元 | 120 | 160 | 200 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 76,
+    "label": "后五年增长 · 乐观",
+    "reported_value": 6.0,
+    "unit": "%",
+    "line_number": 237,
+    "raw_text": "| 后五年增长 | +1% | +4% | +6% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 82,
+    "label": "非经营净资产，十亿元 · 乐观",
+    "reported_value": 900.0,
+    "unit": "",
+    "line_number": 239,
+    "raw_text": "| 非经营净资产，十亿元 | 450 | 709.341 | 900 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 87,
+    "label": "五年后FCFF，十亿元 · 基准",
+    "reported_value": 235.09,
+    "unit": "",
+    "line_number": 241,
+    "raw_text": "| 五年后FCFF，十亿元 | 126.12 | 235.09 | 352.47 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 95,
+    "label": "390—450 · 必须同时满足的条件",
+    "reported_value": 1600.0,
+    "unit": "亿元",
+    "line_number": 261,
+    "raw_text": "| 390—450 | 现价所在区域，适合小规模分批而非激进押注 | 基准现金流1600亿元有望维持，未来投入可解释 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

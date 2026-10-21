@@ -1,0 +1,128 @@
+{
+  "retrieved_at": "2026-10-02 Asia/Shanghai",
+  "company": "腾讯",
+  "annual_facts_million_cny": {
+    "revenue": [
+      560118,
+      554552,
+      609015,
+      660257,
+      751766
+    ],
+    "gross": [
+      245944,
+      238746,
+      293109,
+      349246,
+      422593
+    ],
+    "op": [
+      124656,
+      110827,
+      160074,
+      208099,
+      241562
+    ],
+    "net": [
+      224822,
+      188243,
+      115216,
+      194073,
+      224842
+    ],
+    "cfo": [
+      175186,
+      146091,
+      221962,
+      258521,
+      303052
+    ],
+    "capex": [
+      29302,
+      22679,
+      21008,
+      62927,
+      87482
+    ],
+    "cash": [
+      264101,
+      290756,
+      379155,
+      338409,
+      422552
+    ]
+  },
+  "valuation_assumptions_are_not_facts": {
+    "price": "421.2",
+    "shares": "9.092605595",
+    "fx": "1.16493091959646792945178350923790219",
+    "r": ".10",
+    "cf": "170",
+    "adj": "500",
+    "g1": ".08",
+    "g2": ".05",
+    "gt": ".025",
+    "scenarios": [
+      [
+        "悲观",
+        140,
+        0,
+        0,
+        0.12,
+        0.015,
+        300
+      ],
+      [
+        "中性",
+        170,
+        0.08,
+        0.05,
+        0.1,
+        0.025,
+        500
+      ],
+      [
+        "乐观",
+        200,
+        0.12,
+        0.07,
+        0.09,
+        0.03,
+        650
+      ]
+    ],
+    "eps": "24.153",
+    "egrowth": [
+      "-.03",
+      ".07",
+      ".13"
+    ],
+    "pe": [
+      13,
+      18,
+      23
+    ],
+    "div": "5.3",
+    "divgrowth": ".05",
+    "mos": ".25"
+  },
+  "quote": {
+    "price": "421.2",
+    "timestamp": "2026-10-02 16:08 HKT delayed"
+  },
+  "fx": {
+    "date": "2026-09-30",
+    "CNY_per_HKD": "0.85842",
+    "CNY_per_USD": "6.7351",
+    "source": "https://www.safe.gov.cn/AppStructured/hlw/RMBQuery.do?COLLCC=546877760"
+  },
+  "sources": "See report numbered primary and third party sources. Company news release republishing is not independent confirmation.",
+  "limitations": [
+    "Some latest quarter and ownership figures have one primary source only.",
+    "Tencent standardized operating income, cash and shares differ in definition or date.",
+    "PDD latest half-year capex cannot be assumed zero; TTM database capex stale.",
+    "Arithmetic validation cannot verify future investment return."
+  ],
+  "memory_use": "MEMORY.md 162-174 workflow only; no old financial number reused",
+  "valuation_cash_convention": "3270亿元是融资前税后、已按母公司普通股归属调整的正常化CFO假设；不是披露合并CFO。少数股东现金不能精确剥离，该桥低置信。"
+}

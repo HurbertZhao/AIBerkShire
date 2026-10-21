@@ -1,0 +1,186 @@
+[
+  {
+    "id": 2,
+    "label": "YouTube广告 · 收入（十亿美元）",
+    "reported_value": 11.055,
+    "unit": "",
+    "raw_text": "| YouTube广告 | 11.055 | 内容消费与创作者分发；品牌和效果广告主付费 |",
+    "line_number": 18
+  },
+  {
+    "id": 7,
+    "label": "集团收入 · 收入（十亿美元）",
+    "reported_value": 119.796,
+    "unit": "",
+    "raw_text": "| 集团收入 | 119.796 | 另含0.106汇率套期收益；总收入与StockAnalysis的119.80一致 |",
+    "line_number": 23
+  },
+  {
+    "id": 8,
+    "label": "集团收入 · 用户价值与支付机制",
+    "reported_value": 0.106,
+    "unit": "",
+    "raw_text": "| 集团收入 | 119.796 | 另含0.106汇率套期收益；总收入与StockAnalysis的119.80一致 |",
+    "line_number": 23
+  },
+  {
+    "id": 9,
+    "label": "营业收入 · FY 2023",
+    "reported_value": 307.394,
+    "unit": "",
+    "raw_text": "| 营业收入 | 307.394 | 350.018 | 402.836 | 445.866 |",
+    "line_number": 60
+  },
+  {
+    "id": 23,
+    "label": "归属普通股净利润 · FY 2025",
+    "reported_value": 132.17,
+    "unit": "",
+    "raw_text": "| 归属普通股净利润 | 73.795 | 100.118 | 132.170 | 244.119 |",
+    "line_number": 63
+  },
+  {
+    "id": 24,
+    "label": "归属普通股净利润 · TTM",
+    "reported_value": 244.119,
+    "unit": "",
+    "raw_text": "| 归属普通股净利润 | 73.795 | 100.118 | 132.170 | 244.119 |",
+    "line_number": 63
+  },
+  {
+    "id": 27,
+    "label": "经营现金流 CFO · FY 2025",
+    "reported_value": 164.713,
+    "unit": "",
+    "raw_text": "| 经营现金流 CFO | 101.746 | 125.299 | 164.713 | 185.675 |",
+    "line_number": 64
+  },
+  {
+    "id": 29,
+    "label": "现金资本开支 · FY 2023",
+    "reported_value": 32.251,
+    "unit": "",
+    "raw_text": "| 现金资本开支 | 32.251 | 52.535 | 91.447 | 132.402 |",
+    "line_number": 65
+  },
+  {
+    "id": 36,
+    "label": "基础FCF（CFO−现金CapEx） · TTM",
+    "reported_value": 53.273,
+    "unit": "",
+    "raw_text": "| 基础FCF（CFO−现金CapEx） | 69.495 | 72.764 | 73.266 | 53.273 |",
+    "line_number": 66
+  },
+  {
+    "id": 51,
+    "label": "流动比率 · 本报告复算",
+    "reported_value": 2.72,
+    "unit": "倍",
+    "raw_text": "| 流动比率 | 2.72倍 |",
+    "line_number": 80
+  },
+  {
+    "id": 56,
+    "label": "基础FCF · 金额",
+    "reported_value": 53.273,
+    "unit": "",
+    "raw_text": "| 基础FCF | 53.273 |",
+    "line_number": 92
+  },
+  {
+    "id": 57,
+    "label": "减：SBC经济成本代理 · 金额",
+    "reported_value": 28.147,
+    "unit": "",
+    "raw_text": "| 减：SBC经济成本代理 | 28.147 |",
+    "line_number": 94
+  },
+  {
+    "id": 58,
+    "label": "研究现金代理 · 金额",
+    "reported_value": 25.126,
+    "unit": "",
+    "raw_text": "| 研究现金代理 | 25.126 |",
+    "line_number": 95
+  },
+  {
+    "id": 60,
+    "label": "公开已发行股数（十亿） · 复算结果",
+    "reported_value": 12.23,
+    "unit": "",
+    "raw_text": "| 公开已发行股数（十亿） | 12.230000 |",
+    "line_number": 106
+  },
+  {
+    "id": 63,
+    "label": "总市值/TTM归属利润 · 复算结果",
+    "reported_value": 17.06,
+    "unit": "倍",
+    "raw_text": "| 总市值/TTM归属利润 | 17.06倍 |",
+    "line_number": 109
+  },
+  {
+    "id": 71,
+    "label": "FY 2024 · PS（倍）",
+    "reported_value": 6.64,
+    "unit": "",
+    "raw_text": "| FY 2024 | 23.21 | 6.64 |",
+    "line_number": 122
+  },
+  {
+    "id": 72,
+    "label": "FY 2025 · PE（倍）",
+    "reported_value": 28.61,
+    "unit": "",
+    "raw_text": "| FY 2025 | 28.61 | 9.39 |",
+    "line_number": 123
+  },
+  {
+    "id": 109,
+    "label": "基准 · 前五年现金率逐年路径",
+    "reported_value": 3.0,
+    "unit": "%",
+    "raw_text": "| 基准 | 18.0% | 8.0% | 3%→7%→12%→17%→20% | 20.0% | 3.0% | 258.14 |",
+    "line_number": 215
+  },
+  {
+    "id": 108,
+    "label": "基准 · 后五年收入CAGR",
+    "reported_value": 8.0,
+    "unit": "%",
+    "raw_text": "| 基准 | 18.0% | 8.0% | 3%→7%→12%→17%→20% | 20.0% | 3.0% | 258.14 |",
+    "line_number": 215
+  },
+  {
+    "id": 115,
+    "label": "乐观 · 前五年现金率逐年路径",
+    "reported_value": 6.0,
+    "unit": "%",
+    "raw_text": "| 乐观 | 24.0% | 10.0% | 6%→12%→19%→25%→29% | 29.0% | 3.0% | 512.08 |",
+    "line_number": 216
+  },
+  {
+    "id": 130,
+    "label": "中性 · 第五年条件价格USD",
+    "reported_value": 429.9,
+    "unit": "",
+    "raw_text": "| 中性 | 15.0% | 22 | 429.90 | 4.8% |",
+    "line_number": 256
+  },
+  {
+    "id": 140,
+    "label": "简单平均 · 评分/5",
+    "reported_value": 3.8,
+    "unit": "",
+    "raw_text": "| 简单平均 | 3.80 |",
+    "line_number": 280
+  },
+  {
+    "id": 149,
+    "label": "gle-marketing-live-search-ads/)",
+    "reported_value": 2026.0,
+    "unit": "",
+    "raw_text": "- [B3 Google AI搜索广告产品公告](https://blog.google/products/ads-commerce/google-marketing-live-search-ads/)：2026-05-20；产品试验为公司",
+    "line_number": 353
+  }
+]

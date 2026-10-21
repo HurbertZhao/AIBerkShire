@@ -1,0 +1,222 @@
+{
+  "shares_million": 12230,
+  "market_cap_class_million": "4145076.34",
+  "market_cap_a_proxy_million": "4165415.70",
+  "core_profit_million": 121054.96,
+  "core_eps": 9.89819787408013,
+  "strict_net_cash_million": 55247,
+  "financial_assets_haircut_million": 173786.8,
+  "financial_assets_per_share": 14.209877350776777,
+  "normalized_pe": 34.409293927320284,
+  "gaap_pe": 17.089312594079278,
+  "ps": 9.342303965765499,
+  "fcf_yield": 0.012789359775063987,
+  "ev_sales_exleases": 9.258816998829245,
+  "annual_ratios": {
+    "2021": {
+      "gross_margin": 56.93980290098084,
+      "op_margin": 30.55228868524319,
+      "fcf": 67012
+    },
+    "2022": {
+      "gross_margin": 55.37944250378312,
+      "op_margin": 26.46127084246701,
+      "fcf": 60010
+    },
+    "2023": {
+      "gross_margin": 56.625047984020505,
+      "op_margin": 27.421810445226647,
+      "fcf": 69495
+    },
+    "2024": {
+      "gross_margin": 58.20043540617911,
+      "op_margin": 32.1097772114577,
+      "fcf": 72764
+    },
+    "2025": {
+      "gross_margin": 59.65231508603998,
+      "op_margin": 32.032638592380025,
+      "fcf": 73266
+    }
+  },
+  "quarter_ratios": {
+    "2025Q3": {
+      "services_growth": 13.778591033851797,
+      "cloud_growth": 33.50656214216508,
+      "services_margin": 38.51376188944539,
+      "cloud_margin": 23.71181632249126
+    },
+    "2025Q4": {
+      "services_growth": 13.993864009322891,
+      "cloud_growth": 47.75407779171894,
+      "services_margin": 41.8643466649976,
+      "cloud_margin": 30.078125
+    },
+    "2026Q1": {
+      "services_growth": 16.013926278732654,
+      "cloud_growth": 63.360522022838495,
+      "services_margin": 45.28152437051664,
+      "cloud_margin": 32.943878570002
+    },
+    "2026Q2": {
+      "services_growth": 14.53424275831992,
+      "cloud_growth": 81.7968291250734,
+      "services_margin": 41.827797757562934,
+      "cloud_margin": 35.58624031007752
+    }
+  },
+  "three_year": [
+    {
+      "name": "bull",
+      "growth": 0.25,
+      "pe": 35,
+      "eps3": 19.332417722812757,
+      "target_core": 676.6346202984465,
+      "fair_today_core": 508.36560503264184,
+      "fair_today_with_assets": 522.5754823834186,
+      "price_only_annual_return": 0.2658516249923615
+    },
+    {
+      "name": "base",
+      "growth": 0.16,
+      "pe": 28,
+      "eps3": 15.450057468860177,
+      "target_core": 432.60160912808493,
+      "fair_today_core": 325.0199918317692,
+      "fair_today_with_assets": 339.22986918254594,
+      "price_only_annual_return": 0.09470595079013666
+    },
+    {
+      "name": "bear",
+      "growth": 0.05,
+      "pe": 20,
+      "eps3": 11.458401313982012,
+      "target_core": 229.16802627964023,
+      "fair_today_core": 172.17733003729538,
+      "fair_today_with_assets": 186.38720738807214,
+      "price_only_annual_return": -0.10597481927495878
+    }
+  ],
+  "ten_year": [
+    {
+      "name": "bear",
+      "g": 0.02,
+      "pe": 11.458333333333332,
+      "profit_billion": 150,
+      "probability": 0.25,
+      "irr_percent": -8.47169155226446,
+      "denominator": 0.08
+    },
+    {
+      "name": "base",
+      "g": 0.03,
+      "pe": 12.499999999999998,
+      "profit_billion": 400,
+      "probability": 0.5,
+      "irr_percent": 1.842995680511228,
+      "denominator": 0.07
+    },
+    {
+      "name": "bull",
+      "g": 0.04,
+      "pe": 13.888888888888886,
+      "profit_billion": 750,
+      "probability": 0.25,
+      "irr_percent": 9.599113599276897,
+      "denominator": 0.060000000000000005
+    }
+  ],
+  "weighted_irr_percent": 1.2033533520087234,
+  "reverse_dcf_basis": {
+    "cash_flow": "OCF minus capex; after-interest equity cash-flow proxy, not exact FCFE",
+    "target": "A-price proxy for all A/B/C common equity",
+    "target_million": 4165415.7,
+    "financial_asset_addition_million": 0,
+    "terminal_growth": 0.03,
+    "years": 10
+  },
+  "reverse_dcf": {
+    "53273": {
+      "growth": 0.25687341092494875,
+      "value_million": 4165415.700000003
+    },
+    "100000": {
+      "growth": 0.17040344603795565,
+      "value_million": 4165415.700000004
+    }
+  },
+  "reverse_dcf_sensitivity": {
+    "0.09": {
+      "53273": {
+        "growth": 0.2301510100521157,
+        "value_million": 4165415.700000006
+      },
+      "100000": {
+        "growth": 0.1460426225718109,
+        "value_million": 4165415.7000000067
+      }
+    },
+    "0.1": {
+      "53273": {
+        "growth": 0.25687341092494875,
+        "value_million": 4165415.700000003
+      },
+      "100000": {
+        "growth": 0.17040344603795565,
+        "value_million": 4165415.700000004
+      }
+    },
+    "0.11": {
+      "53273": {
+        "growth": 0.2816176799328193,
+        "value_million": 4165415.699999998
+      },
+      "100000": {
+        "growth": 0.19295056122952403,
+        "value_million": 4165415.699999999
+      }
+    }
+  },
+  "sensitivity": {
+    "0.08": {
+      "irr_percent": [
+        -5.800345521379469,
+        5.328031841918124,
+        14.134296861810114
+      ],
+      "expected_irr_percent": 4.747503756066723
+    },
+    "0.09": {
+      "irr_percent": [
+        -7.241304822521355,
+        3.4250749842487327,
+        11.615668915770438
+      ],
+      "expected_irr_percent": 2.806128515436637
+    },
+    "0.1": {
+      "irr_percent": [
+        -8.47169155226446,
+        1.842995680511228,
+        9.599113599276897
+      ],
+      "expected_irr_percent": 1.2033533520087234
+    },
+    "0.11": {
+      "irr_percent": [
+        -9.543415817288036,
+        0.4921113223081308,
+        7.922590866662982
+      ],
+      "expected_irr_percent": -0.1591505765021981
+    },
+    "0.12": {
+      "irr_percent": [
+        -10.491467919654873,
+        -0.6845720008526679,
+        6.491064437924732
+      ],
+      "expected_irr_percent": -1.3423868708588693
+    }
+  }
+}

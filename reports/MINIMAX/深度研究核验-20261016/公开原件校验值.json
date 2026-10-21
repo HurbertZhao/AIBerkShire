@@ -1,0 +1,18 @@
+[
+  {
+    "document": "2026中报",
+    "retrieved_date": "2026-10-16",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0930/2026093002173.pdf",
+    "bytes": 1479208,
+    "sha256": "97203b59f97acdc8f177dc556fc4ddca7b8f5adbddd05b445c882d5d603cb6b4",
+    "note": "Original PDF read locally; full file not redistributed in this report package."
+  },
+  {
+    "document": "2026九月股份月报",
+    "retrieved_date": "2026-10-16",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1002/2026100200077.pdf",
+    "bytes": 72376,
+    "sha256": "3c3b8dfdda0751eb1188273f213572131dd0b9d5a7c260d15960fc932f52f544",
+    "note": "Original PDF read locally; full file not redistributed in this report package."
+  }
+]

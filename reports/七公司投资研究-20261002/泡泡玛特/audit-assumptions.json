@@ -1,0 +1,30 @@
+[
+  {
+    "id": 76,
+    "label": "前五年现金增长 · 基准",
+    "reported_value": 7.0,
+    "unit": "%",
+    "line_number": 181,
+    "raw_text": "| 前五年现金增长 | 0% | +7% | +12% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "assumption_value": 7,
+    "status": "ASSUMPTION_NOT_EXTERNAL_FACT"
+  },
+  {
+    "id": 82,
+    "label": "折现率 · 乐观",
+    "reported_value": 10.0,
+    "unit": "%",
+    "line_number": 183,
+    "raw_text": "| 折现率 | 13% | 11% | 10% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "assumption_value": 10,
+    "status": "ASSUMPTION_NOT_EXTERNAL_FACT"
+  }
+]

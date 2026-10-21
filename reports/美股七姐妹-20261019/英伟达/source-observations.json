@@ -1,0 +1,123 @@
+{
+  "retrieved_at": "2026-10-19 Asia/Shanghai",
+  "provenance_note": "Manually transcribed observations from browsed original sources; not a downloaded full-page archive. Forecasts are separate in model.py. Search-only / inaccessible pages are marked.",
+  "original_sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "period": "FY2026",
+      "observations": {
+        "revenue_million": 215938,
+        "net_income_million": 120067,
+        "gross_profit_million": 153463,
+        "operating_income_million": 130387,
+        "ocf_million": 102718,
+        "capex_million": 6042,
+        "cash_and_marketables_million": 62556,
+        "compute_networking_million": 193479,
+        "graphics_million": 22459
+      }
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000017/nvda-20230129.htm",
+      "period": "FY2023",
+      "observations": {
+        "revenue_million": 26974,
+        "net_income_million": 4368,
+        "operating_income_million": 4224,
+        "arm_termination_cost_million": 1353,
+        "cash_million": 3389,
+        "cash_marketables_million": 13296
+      }
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm",
+      "period": "FY2024 comparative balance",
+      "observations": {
+        "cash_million": 7280,
+        "cash_marketables_million": 25984
+      }
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
+      "period": "FY27Q2",
+      "observations": {
+        "revenue_million": 96221,
+        "net_income_million": 59688,
+        "cash_million": 22443,
+        "marketable_debt_million": 34143,
+        "marketable_equity_million": 42783,
+        "short_debt_million": 1000,
+        "long_debt_million": 32366,
+        "shares_million": 24147,
+        "equity_million": 228984,
+        "supply_capacity_commitments_billion": 279,
+        "h1_investment_gains_million": 23707
+      }
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/H15/",
+      "release_date": "2026-10-16",
+      "observation_date": "2026-10-15",
+      "ten_year_percent": 5.1
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000036/nvda-20260512.htm",
+      "observation_date": "2026-03-23",
+      "huang_beneficial_shares": 870604104,
+      "beneficial_percent": 3.58,
+      "foundation_shares_without_pecuniary_interest": 58683830
+    }
+  ],
+  "independent_third_party": [
+    {
+      "url": "https://stockanalysis.com/stocks/nvda/financials/",
+      "observations": {
+        "FY26_revenue": 215938,
+        "FY26_net_income": 120067,
+        "FY23_operating_income_standardized": 5577,
+        "TTM_revenue": 302970,
+        "TTM_net_income": 192880,
+        "TTM_simple_fcf": 127006
+      },
+      "differences": "FY23 operating income excludes Arm termination versus SEC GAAP. TTM sums differ by 1 million due display rounding."
+    },
+    {
+      "url": "https://stockanalysis.com/stocks/nvda/financials/balance-sheet/",
+      "observations": {
+        "shares_million": 24147,
+        "cash_million": 22443,
+        "cash_short_investments": 62469,
+        "total_debt_including_leases": 38860
+      },
+      "differences": "Current cash/investment mapping unresolved; rejected cash aggregate for valuation."
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/NVDA/history/",
+      "retrieval_type": "search result history table",
+      "date": "2026-10-16",
+      "close": 214.13
+    },
+    {
+      "url": "https://www.investing.com/equities/nvidia-corp-historical-data",
+      "retrieval_type": "search result history table",
+      "date": "2026-10-16",
+      "close": 214.13
+    },
+    {
+      "url": "https://www.macrotrends.net/stocks/charts/NVDA/nvidia/revenue",
+      "retrieval_type": "search result only; full page error",
+      "FY26_revenue_billion": 215.938
+    },
+    {
+      "url": "https://ycharts.com/companies/NVDA/cash_on_hand",
+      "retrieval_type": "search result only; body limited",
+      "cash_short_investments_billion": 99.37,
+      "period_label": "July 31 2026; company actual period July26"
+    }
+  ],
+  "limitations": [
+    "Quarterly reportable segment independent third-party single-quarter series unavailable; TTM not substituted.",
+    "Management beneficial ownership SECInfo is a filing reprint, not independent underlying source.",
+    "No verified consistent latest AI accelerator market-share series."
+  ]
+}

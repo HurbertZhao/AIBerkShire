@@ -1,0 +1,292 @@
+======================================================================
+报告数据抽检清单
+文件：reports/汽车之家/汽车之家研究报告-20261021.md
+总提取数据点：135  |  抽样比例：15%  |  抽检数量：21
+随机种子：42（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+  2     34  ADS 收盘价（2026-10-20） · 口径与来源                 20.16  
+  7     37  当前普通股（本文估计上限） · 数值                   424455140.00  
+  8     37  当前普通股（本文估计上限） · 口径与来源                        3.00  
+  9     38  市值 · 数值                                     21.38  亿美元
+ 23     47  近 12 个月宣派股息 · 数值                             1.86  
+ 24     47  近 12 个月宣派股息 · 口径与来源                       2025.00  
+ 29     63  媒体服务 · 2026Q2                              280.40  
+ 27     63  媒体服务 · 2025                               1153.40  
+ 36     64  线索服务 · Q2 同比                               -23.50  %
+130     87  亿元。高毛利的媒体和线索收入在缩，低毛利的交易收入在涨               2025.00  
+ 51    125  现金被用于低回报项目（加盟门店、授权经销、出海、关联交易） · 影响          30.00  亿元
+ 56    154  2025-08-29 · 事件                             13.00  
+ 57    155  2026-03-05 · 事件                              2.00  亿美元
+ 58    156  2026-07-28 · 事件                              4.00  亿美元
+ 60    202  股息率 · 数值                                     9.23  %
+ 63    212  减：应付股息（7 月已支付） · 百万元                      -489.80  
+ 71    231  悲观 · 额外假设                                   30.00  亿元
+ 72    231  悲观 · 每 ADS 价值                               13.78  
+108    298  加仓信号 · 建议                                 2027.00  
+109    346  2026-10-20 ADS 收盘价 · 来源一                    20.15  
+115    348  2025 年收入 · 来源二                            6452.00  
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 2,
+    "label": "ADS 收盘价（2026-10-20） · 口径与来源",
+    "reported_value": 20.16,
+    "unit": "",
+    "line_number": 34,
+    "raw_text": "| ADS 收盘价（2026-10-20） | US$20.15 | StockAnalysis 历史价；Yahoo 为 20.16 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 7,
+    "label": "当前普通股（本文估计上限） · 数值",
+    "reported_value": 424455140.0,
+    "unit": "",
+    "line_number": 37,
+    "raw_text": "| 当前普通股（本文估计上限） | 424,455,140 股 | 3 月 31 日股本扣除 5 月 22 日后可证明的回购 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 8,
+    "label": "当前普通股（本文估计上限） · 口径与来源",
+    "reported_value": 3.0,
+    "unit": "",
+    "line_number": 37,
+    "raw_text": "| 当前普通股（本文估计上限） | 424,455,140 股 | 3 月 31 日股本扣除 5 月 22 日后可证明的回购 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 9,
+    "label": "市值 · 数值",
+    "reported_value": 21.38,
+    "unit": "亿美元",
+    "line_number": 38,
+    "raw_text": "| 市值 | 21.38 亿美元 | 约 143.06 亿元人民币（美元兑人民币 6.6909） |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 23,
+    "label": "近 12 个月宣派股息 · 数值",
+    "reported_value": 1.86,
+    "unit": "",
+    "line_number": 47,
+    "raw_text": "| 近 12 个月宣派股息 | US$1.86/ADS | 2025-11 宣派 1.20 + 2026-05 宣派 0.66，股息率 9.23% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 24,
+    "label": "近 12 个月宣派股息 · 口径与来源",
+    "reported_value": 2025.0,
+    "unit": "",
+    "line_number": 47,
+    "raw_text": "| 近 12 个月宣派股息 | US$1.86/ADS | 2025-11 宣派 1.20 + 2026-05 宣派 0.66，股息率 9.23% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 29,
+    "label": "媒体服务 · 2026Q2",
+    "reported_value": 280.4,
+    "unit": "",
+    "line_number": 63,
+    "raw_text": "| 媒体服务 | 1,870.8 | 1,523.1 | 1,153.4 | -24.3% | 280.4 | +0.4% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 27,
+    "label": "媒体服务 · 2025",
+    "reported_value": 1153.4,
+    "unit": "",
+    "line_number": 63,
+    "raw_text": "| 媒体服务 | 1,870.8 | 1,523.1 | 1,153.4 | -24.3% | 280.4 | +0.4% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 36,
+    "label": "线索服务 · Q2 同比",
+    "reported_value": -23.5,
+    "unit": "%",
+    "line_number": 64,
+    "raw_text": "| 线索服务 | 3,111.8 | 3,135.9 | 2,709.2 | -13.6% | 560.4 | -23.5% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 130,
+    "label": "亿元。高毛利的媒体和线索收入在缩，低毛利的交易收入在涨",
+    "reported_value": 2025.0,
+    "unit": "",
+    "line_number": 87,
+    "raw_text": "1. **收入只降了一成，经营利润降了六成**。2021 到 2025 年收入从 72.37 亿元降到 64.52 亿元，经营利润从 17.82 亿元降到 7.69 亿元。高毛利的媒体和线索收入在缩，低毛利的交易收入在涨：2025 年营业成",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 51,
+    "label": "现金被用于低回报项目（加盟门店、授权经销、出海、关联交易） · 影响",
+    "reported_value": 30.0,
+    "unit": "亿元",
+    "line_number": 125,
+    "raw_text": "| 现金被用于低回报项目（加盟门店、授权经销、出海、关联交易） | 中 | 高：保守桥假设一次性损失 30 亿元，每 ADS 约 -US$4.2 | 资本开支、长期投资、关联交易科目上升；回购暂停 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 56,
+    "label": "2025-08-29 · 事件",
+    "reported_value": 13.0,
+    "unit": "",
+    "line_number": 154,
+    "raw_text": "| 2025-08-29 | 13D 文件披露：收购资金来自等额定期贷款，所购股份须质押给招商永隆银行 | 控股股东有偿债压力 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 57,
+    "label": "2026-03-05 · 事件",
+    "reported_value": 2.0,
+    "unit": "亿美元",
+    "line_number": 155,
+    "raw_text": "| 2026-03-05 | 宣布 2 亿美元回购，7 月 30 日完成，回购 10,627,269 份 ADS | 执行速度快 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 58,
+    "label": "2026-07-28 · 事件",
+    "reported_value": 4.0,
+    "unit": "亿美元",
+    "line_number": 156,
+    "raw_text": "| 2026-07-28 | 再宣布 4 亿美元、12 个月回购；截至 8 月 14 日用掉 4,360 万美元 | 规模为前一轮的两倍 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 60,
+    "label": "股息率 · 数值",
+    "reported_value": 9.23,
+    "unit": "%",
+    "line_number": 202,
+    "raw_text": "| 股息率 | 9.23% | 近 12 个月宣派，来自存量现金 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 63,
+    "label": "减：应付股息（7 月已支付） · 百万元",
+    "reported_value": -489.8,
+    "unit": "",
+    "line_number": 212,
+    "raw_text": "| 减：应付股息（7 月已支付） | -489.8 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 71,
+    "label": "悲观 · 额外假设",
+    "reported_value": 30.0,
+    "unit": "亿元",
+    "line_number": 231,
+    "raw_text": "| 悲观 | 30% | -4 到 0，第六年起持平为零 | 0% | 30 亿元现金被低效消耗 | US$13.78 | -31.6% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 72,
+    "label": "悲观 · 每 ADS 价值",
+    "reported_value": 13.78,
+    "unit": "",
+    "line_number": 231,
+    "raw_text": "| 悲观 | 30% | -4 到 0，第六年起持平为零 | 0% | 30 亿元现金被低效消耗 | US$13.78 | -31.6% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 108,
+    "label": "加仓信号 · 建议",
+    "reported_value": 2027.0,
+    "unit": "",
+    "line_number": 298,
+    "raw_text": "| 加仓信号 | 公布 2027 年以后的分红与回购政策；经营利润连续两个季度同比增长 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 109,
+    "label": "2026-10-20 ADS 收盘价 · 来源一",
+    "reported_value": 20.15,
+    "unit": "",
+    "line_number": 346,
+    "raw_text": "| 2026-10-20 ADS 收盘价 | StockAnalysis US$20.15 | Yahoo US$20.16；港股折算 US$20.13 | ≤ 0.08% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 115,
+    "label": "2025 年收入 · 来源二",
+    "reported_value": 6452.0,
+    "unit": "",
+    "line_number": 348,
+    "raw_text": "| 2025 年收入 | 20-F 6,452.03 百万元 | StockAnalysis 6,452 百万元 | 0.00% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

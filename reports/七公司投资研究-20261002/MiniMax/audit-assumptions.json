@@ -1,0 +1,44 @@
+[
+  {
+    "id": 72,
+    "label": "基准收入，十亿美元，假设 · 第1年",
+    "reported_value": 0.8,
+    "unit": "",
+    "line_number": 198,
+    "raw_text": "| 基准收入，十亿美元，假设 | 0.8 | 1.35 | 2.0 | 2.75 | 3.5 | 4.3 | 5.2 | 6.2 | 7.3 | 8.5 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "assumption_value": 0.8,
+    "status": "ASSUMPTION_NOT_EXTERNAL_FACT"
+  },
+  {
+    "id": 109,
+    "label": "三年后收入，十亿美元 · 悲观",
+    "reported_value": 0.8,
+    "unit": "",
+    "line_number": 222,
+    "raw_text": "| 三年后收入，十亿美元 | 0.8 | 2.0 | 4.0 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "assumption_value": 0.8,
+    "status": "ASSUMPTION_NOT_EXTERNAL_FACT"
+  },
+  {
+    "id": 115,
+    "label": "未来股份，百万股 · 悲观",
+    "reported_value": 550.0,
+    "unit": "",
+    "line_number": 224,
+    "raw_text": "| 未来股份，百万股 | 550 | 440 | 400 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "assumption_value": 550,
+    "status": "ASSUMPTION_NOT_EXTERNAL_FACT"
+  }
+]

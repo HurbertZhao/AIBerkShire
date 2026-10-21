@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1001,
+    "label": "QuestMobile 2026-05去重用户",
+    "reported_value": 8.51,
+    "unit": "亿",
+    "fetched_value": 8.51,
+    "fetched_source": "https://eu.36kr.com/zh/p/3914660062450823",
+    "note": "渠道监测，非CNNIC同口径增长序列"
+  },
+  {
+    "id": 1002,
+    "label": "红果2026-05 App MAU",
+    "reported_value": 3.56,
+    "unit": "亿",
+    "fetched_value": 3.56,
+    "fetched_source": "https://eu.36kr.com/zh/p/3914660062450823",
+    "note": "不是收入份额"
+  },
+  {
+    "id": 1003,
+    "label": "短剧App 2026-05月时长",
+    "reported_value": 26.9,
+    "unit": "小时",
+    "fetched_value": 26.9,
+    "fetched_source": "https://eu.36kr.com/zh/p/3914660062450823",
+    "note": "按月活用户，不是单日活跃分母"
+  },
+  {
+    "id": 1004,
+    "label": "Sensor Tower Q1 IAP",
+    "reported_value": 7.5,
+    "unit": "亿美元",
+    "fetched_value": 7.5,
+    "fetched_source": "https://sensortower.com/blog/state-of-short-drama-apps-2026-report",
+    "note": "约数、商店估算，不是公司会计收入"
+  },
+  {
+    "id": 1005,
+    "label": "Omdia 2026全球规模预测",
+    "reported_value": 140.0,
+    "unit": "亿美元",
+    "fetched_value": 140.0,
+    "fetched_source": "https://omdia.tech.informa.com/pr/2026/oct/men-account-for-54percent-of-uk-microdrama-users-challenging-industry-assumptions",
+    "note": "预测，不是实绩"
+  },
+  {
+    "id": 1006,
+    "label": "快手2026H1收入",
+    "reported_value": 692.51,
+    "unit": "亿元",
+    "fetched_value": 692.51,
+    "fetched_source": "https://ir.kuaishou.com/static-files/f1aadb37-caa1-4c1d-8294-15008c09067c",
+    "note": "集团收入"
+  },
+  {
+    "id": 1007,
+    "label": "快手2026H1经调整利润",
+    "reported_value": 72.87,
+    "unit": "亿元",
+    "fetched_value": 72.87,
+    "fetched_source": "https://ir.kuaishou.com/static-files/f1aadb37-caa1-4c1d-8294-15008c09067c",
+    "note": "经调整期内利润，非归母口径"
+  },
+  {
+    "id": 1008,
+    "label": "快手2025H1经调整利润",
+    "reported_value": 101.98,
+    "unit": "亿元",
+    "fetched_value": 101.98,
+    "fetched_source": "https://ir.kuaishou.com/static-files/f1aadb37-caa1-4c1d-8294-15008c09067c",
+    "note": "比较期相同口径"
+  },
+  {
+    "id": 1009,
+    "label": "可灵2026Q2收入下限",
+    "reported_value": 8.5,
+    "unit": "亿元",
+    "fetched_value": 8.5,
+    "fetched_source": "https://ir.kuaishou.com/static-files/f1aadb37-caa1-4c1d-8294-15008c09067c",
+    "note": "原文超过；全用途，非纯AI短剧"
+  },
+  {
+    "id": 1010,
+    "label": "掌阅2026H1销售费用",
+    "reported_value": 11.0889694596,
+    "unit": "亿元",
+    "fetched_value": 11.0889694596,
+    "fetched_source": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225510832.PDF",
+    "note": "集团合并费用，含阅读与短剧"
+  },
+  {
+    "id": 1011,
+    "label": "阅文2026H1短剧加AI收入下限",
+    "reported_value": 4.3,
+    "unit": "亿元",
+    "fetched_value": 4.3,
+    "fetched_source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0811/2026081100262_c.pdf",
+    "note": "原文超过；混合业务，不能全算AI"
+  },
+  {
+    "id": 1012,
+    "label": "阅文2026H1 Non-IFRS归母",
+    "reported_value": 2.58838,
+    "unit": "亿元",
+    "fetched_value": 2.58838,
+    "fetched_source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0811/2026081100262_c.pdf",
+    "note": "对账表仍含税务事项"
+  },
+  {
+    "id": 1013,
+    "label": "阅文税务及滞纳金事项",
+    "reported_value": 3.0,
+    "unit": "亿元",
+    "fetched_value": 3.0,
+    "fetched_source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0811/2026081100262_c.pdf",
+    "note": "PDF第10—11页，166+134百万元"
+  },
+  {
+    "id": 1014,
+    "label": "CMS间接持股",
+    "reported_value": 49.24,
+    "unit": "%",
+    "fetched_value": 49.24,
+    "fetched_source": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225504423.PDF",
+    "note": "PDF第157页，权益法；经营数据仅Q1"
+  },
+  {
+    "id": 1015,
+    "label": "My Muse付费转化",
+    "reported_value": 23.6,
+    "unit": "%",
+    "fetched_value": 23.6,
+    "fetched_source": "https://www.globenewswire.com/news-release/2026/07/23/3332522/0/en/holywater-tech-and-owl-co-publish-first-industry-report-on-the-vertical-series-audience.html",
+    "note": "运营商自报，非随机对照"
+  },
+  {
+    "id": 1016,
+    "label": "My Drama付费转化",
+    "reported_value": 23.9,
+    "unit": "%",
+    "fetched_value": 23.9,
+    "fetched_source": "https://www.globenewswire.com/news-release/2026/07/23/3332522/0/en/holywater-tech-and-owl-co-publish-first-industry-report-on-the-vertical-series-audience.html",
+    "note": "不能证明AI与真人全市场LTV相同"
+  }
+]

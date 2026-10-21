@@ -1,0 +1,38 @@
+[
+  {
+    "id": 63,
+    "label": "七月融资增量净现金 · 百万美元",
+    "reported_value": 1195.144,
+    "unit": "",
+    "line_number": 73,
+    "raw_text": "| 七月融资增量净现金 | 1195.144 | 配售净款+可转债净款-债券本金，统一汇率换算 |",
+    "fetched_value": 1195.143787649775,
+    "fetched_source": "Decimal公式复算: 融资净款合计减6500百万港元债券本金，再按统一汇率换算",
+    "fetched_value2": null,
+    "fetched_source2": "计算值不是第二份事实来源"
+  },
+  {
+    "id": 71,
+    "label": "模型EV/TTM收入 · 数值",
+    "reported_value": 53.73,
+    "unit": "",
+    "line_number": 187,
+    "raw_text": "| 模型EV/TTM收入 | 53.73 | 减模型净现金，包含Q3烧钱假设，非已披露EV |",
+    "fetched_value": 53.733684412906015,
+    "fetched_source": "Decimal公式复算: 市值减估计期初净现金再除TTM收入",
+    "fetched_value2": null,
+    "fetched_source2": "计算值不是第二份事实来源"
+  },
+  {
+    "id": 108,
+    "label": "每股现值，港元 · 乐观",
+    "reported_value": 382.63,
+    "unit": "",
+    "line_number": 210,
+    "raw_text": "| 每股现值，港元 | 6.40 | 101.43 | 382.63 |",
+    "fetched_value": 382.6337436731501,
+    "fetched_source": "Decimal公式复算: 十年乐观DCF含稀释与租赁经营处理",
+    "fetched_value2": null,
+    "fetched_source2": "计算值不是第二份事实来源"
+  }
+]

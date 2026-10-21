@@ -1,0 +1,419 @@
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/financial_rigor.py verify-market-cap --price 529.05 --shares 7425545491 --reported 3930000000000 --currency USD
+============================================================
+市值验算 (Market Cap Verification)
+============================================================
+  股价 (Price):       529.05 USD
+  总股本 (Shares):    7.43B
+  计算市值:           3.93T USD
+  报告市值:           3.93T USD
+  偏差:               0.04%
+
+  ✅ 验证通过, 偏差仅 0.04%
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/financial_rigor.py cross-validate --field revenue --values {"Microsoft FY26 Q4": 331839, "StockAnalysis S&P Global": 331839} --unit USD million
+============================================================
+交叉验证: revenue (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 331,839.00 USD million
+
+  ✅ Microsoft FY26 Q4   : 331,839.00 USD million  (偏差 0.00%)
+  ✅ StockAnalysis S&P Global: 331,839.00 USD million  (偏差 0.00%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): 331,839.00 USD million
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/financial_rigor.py cross-validate --field net_income --values {"Microsoft FY26 Q4": 133749, "StockAnalysis S&P Global": 133749} --unit USD million
+============================================================
+交叉验证: net_income (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 133,749.00 USD million
+
+  ✅ Microsoft FY26 Q4   : 133,749.00 USD million  (偏差 0.00%)
+  ✅ StockAnalysis S&P Global: 133,749.00 USD million  (偏差 0.00%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): 133,749.00 USD million
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/financial_rigor.py cross-validate --field cash_and_short_investments --values {"Microsoft FY26 Q4": 76843, "StockAnalysis S&P Global": 76843} --unit USD million
+============================================================
+交叉验证: cash_and_short_investments (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 76,843.00 USD million
+
+  ✅ Microsoft FY26 Q4   : 76,843.00 USD million  (偏差 0.00%)
+  ✅ StockAnalysis S&P Global: 76,843.00 USD million  (偏差 0.00%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): 76,843.00 USD million
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/financial_rigor.py cross-validate --field ocf --values {"Microsoft FY26 Q4": 182935, "StockAnalysis S&P Global": 182935} --unit USD million
+============================================================
+交叉验证: ocf (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 182,935.00 USD million
+
+  ✅ Microsoft FY26 Q4   : 182,935.00 USD million  (偏差 0.00%)
+  ✅ StockAnalysis S&P Global: 182,935.00 USD million  (偏差 0.00%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): 182,935.00 USD million
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/financial_rigor.py cross-validate --field capex --values {"Microsoft FY26 Q4": 115948, "StockAnalysis S&P Global": 115948} --unit USD million
+============================================================
+交叉验证: capex (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 115,948.00 USD million
+
+  ✅ Microsoft FY26 Q4   : 115,948.00 USD million  (偏差 0.00%)
+  ✅ StockAnalysis S&P Global: 115,948.00 USD million  (偏差 0.00%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): 115,948.00 USD million
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/financial_rigor.py cross-validate --field FY2022 cash --values {"Microsoft annual report": 104757, "StockAnalysis standardized": 104749} --unit USD million
+============================================================
+交叉验证: FY2022 cash (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 104,753.00 USD million
+
+  ✅ Microsoft annual report: 104,757.00 USD million  (偏差 0.00%)
+  ✅ StockAnalysis standardized: 104,749.00 USD million  (偏差 0.00%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): 104,753.00 USD million
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/financial_rigor.py cross-validate --field FY2023 cash --values {"Microsoft annual report": 111262, "StockAnalysis standardized": 111256} --unit USD million
+============================================================
+交叉验证: FY2023 cash (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 111,259.00 USD million
+
+  ✅ Microsoft annual report: 111,262.00 USD million  (偏差 0.00%)
+  ✅ StockAnalysis standardized: 111,256.00 USD million  (偏差 0.00%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): 111,259.00 USD million
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/financial_rigor.py cross-validate --field FY2024 cash --values {"Microsoft annual report": 75543, "StockAnalysis standardized": 75531} --unit USD million
+============================================================
+交叉验证: FY2024 cash (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 75,537.00 USD million
+
+  ✅ Microsoft annual report: 75,543.00 USD million  (偏差 0.01%)
+  ✅ StockAnalysis standardized: 75,531.00 USD million  (偏差 0.01%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): 75,537.00 USD million
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/financial_rigor.py cross-validate --field shares --values {"SEC 10K cover 2026-07-23": 7425545491, "StockAnalysis filing date rounded": 7426000000} --unit shares
+============================================================
+交叉验证: shares (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 7.43B shares
+
+  ✅ SEC 10K cover 2026-07-23: 7.43B shares  (偏差 0.00%)
+  ✅ StockAnalysis filing date rounded: 7.43B shares  (偏差 0.00%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): 7.43B shares
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/financial_rigor.py cross-validate --field close 2026-10-16 --values {"StockAnalysis": 529.05, "Yahoo historical": 529.05} --unit USD
+============================================================
+交叉验证: close 2026-10-16 (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 529.05 USD
+
+  ✅ StockAnalysis       : 529.05 USD  (偏差 0.00%)
+  ✅ Yahoo historical    : 529.05 USD  (偏差 0.00%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): 529.05 USD
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/financial_rigor.py verify-valuation --price 529.05 --eps 17.95 --bvps 59.57636385585237807817235821 --fcf-per-share 9.021155426384553005225134914 --dividend 3.92
+============================================================
+估值指标验算 (Valuation Verification)
+============================================================
+  当前股价: 529.05
+
+  PE (TTM):  529.05 / 17.95 = 29.47x
+  盈利收益率: 3.39%
+  PB:        529.05 / 59.57636385585238 = 8.88x
+  ROE:       17.95 / 59.57636385585238 = 30.13%
+  P/FCF:     529.05 / 9.021155426384553 = 58.65x
+  FCF Yield: 1.71%
+  股息率:    3.92 / 529.05 = 0.74%
+
+  ✅ 以上指标均使用精确十进制计算, 无浮点误差
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/financial_rigor.py three-scenario --price 529.05 --eps 17 --shares 74.25545491 --growth .20 .14 .06 --pe 36 30 24 --years 3 --currency USD
+============================================================
+三情景估值模型 (Three-Scenario Valuation)
+============================================================
+  当前股价: 529.05 USD
+  当前EPS:  17.0
+  预测期:   3年
+
+  情景                年增速     目标PE      目标EPS       目标股价      涨跌幅
+  ------------ -------- -------- ---------- ---------- --------
+  乐观 (Bull)         20%      36x      29.38    1057.5   +99.9%
+  中性 (Base)         14%      30x      25.19     755.6   +42.8%
+  悲观 (Bear)          6%      24x      20.25     485.9    -8.1%
+
+  ✅ 所有计算使用精确十进制, 结果可审计复现
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/financial_rigor.py calc --expr 76843-9227-31067
+============================================================
+精确计算 (Exact Calculator)
+============================================================
+  表达式: 76843-9227-31067
+  结果:   36,549.00
+  精确值: 36549
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/financial_rigor.py calc --expr 76843-128813
+============================================================
+精确计算 (Exact Calculator)
+============================================================
+  表达式: 76843-128813
+  结果:   -51,970.00
+  精确值: -51970
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/financial_rigor.py calc --expr (486762.534+51450+103985+116300+58270+101459)/7425545491*100
+============================================================
+精确计算 (Exact Calculator)
+============================================================
+  表达式: (486762.534+51450+103985+116300+58270+101459)/7425545491*100
+  结果:   0.01
+  精确值: 0.01236577885238088
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/financial_rigor.py calc --expr 155237*(1-0.2)/7453
+============================================================
+精确计算 (Exact Calculator)
+============================================================
+  表达式: 155237*(1-0.2)/7453
+  结果:   16.66
+  精确值: 16.663035019455254
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/terminal_value.py audit --currency USD --r 0.1 --roic 0.21 --g 0.02,0.03,0.04 --rf .051 --beta 1 --discrete-risks AI overcapacity:情景,agent displacement:情景,forced breakup:未建模,export shutdown:未建模
+
+========================================================================
+估值口径准出检查   币种=USD   r=10.00%   ROIC=21%   g=2.0%/3.0%/4.0%
+========================================================================
+
+【C1】币种一致性 — r 与 g 必须用同一个币种
+     USD 口径基准：美国10年期国债 4.70% + 中国总ERP 5.18%（含1.01%国别溢价）
+     r 合理区间 [9.0%, 11.5%]   g 上限 4.0%   Rf 4.70%
+     → ✓ 通过
+
+【C2】分母宽度 — r-g 至少 5 个百分点
+     悲观  g= 2.0%  r-g= 8.0pct  PE=     11.3x  g+0.5pct → 11.7x (+4%)
+     基准  g= 3.0%  r-g= 7.0pct  PE=     12.2x  g+0.5pct → 12.8x (+5%)
+     乐观  g= 4.0%  r-g= 6.0pct  PE=     13.5x  g+0.5pct → 14.3x (+6%)
+     → ✓ 通过
+
+【C3】离散风险归属 — 退市/VIE/地缘/监管必须归情景，不得进 r 或 β
+     ✓ AI overcapacity → 情景
+     ✓ agent displacement → 情景
+     ⚠ forced breakup → 未建模
+     ⚠ export shutdown → 未建模
+     β = 1.0（默认值，无需理由）
+     → ✓ 通过
+
+========================================================================
+⚠ C3: 「forced breakup」未建模，必须写进报告的「限制」章节
+⚠ C3: 「export shutdown」未建模，必须写进报告的「限制」章节
+
+【准出】三条硬约束全部通过，可以把估值写进报告。
+       但上述 2 条警告必须在报告里显式写出。
+
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/terminal_value.py pe --roic 0.21 --g 0.02 --r 0.1
+
+PE(终值) = (1 - g/ROIC) / (r - g)
+
+  ROIC = 21.0%   g = 2.00%   r = 10.00%
+
+  留存率 g/ROIC   = 0.0200 / 0.21 = 0.0952  (9.5%)
+  分子 1 - 留存率 = 0.9048                    （即派息率 90.5%）
+  分母 r - g      = 0.1000 - 0.0200 = 0.0800  (8.0pct)
+
+  退出 PE = 0.9048 / 0.0800 = 11.3x
+
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/terminal_value.py irr --profit 180000 --mcap 3928484.84201355 --pe 11.30952380952381 --years 10 --payout 0.006
+
+IRR = (2036市值 / 今日市值)^(1/10) - 1 + 股息率 - 稀释率
+
+  2036 市值 = 180,000 x 11.3x = 2,035,714
+  今日市值 = 3,928,485
+  总倍数   = 0.5182
+  几何年化 = -6.36%
+  股息-稀释 = +0.60%
+
+  IRR = -5.76%
+
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/terminal_value.py pe --roic 0.21 --g 0.03 --r 0.1
+
+PE(终值) = (1 - g/ROIC) / (r - g)
+
+  ROIC = 21.0%   g = 3.00%   r = 10.00%
+
+  留存率 g/ROIC   = 0.0300 / 0.21 = 0.1429  (14.3%)
+  分子 1 - 留存率 = 0.8571                    （即派息率 85.7%）
+  分母 r - g      = 0.1000 - 0.0300 = 0.0700  (7.0pct)
+
+  退出 PE = 0.8571 / 0.0700 = 12.2x
+
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/terminal_value.py irr --profit 400000 --mcap 3928484.84201355 --pe 12.244897959183673 --years 10 --payout 0.006
+
+IRR = (2036市值 / 今日市值)^(1/10) - 1 + 股息率 - 稀释率
+
+  2036 市值 = 400,000 x 12.2x = 4,897,959
+  今日市值 = 3,928,485
+  总倍数   = 1.2468
+  几何年化 = +2.23%
+  股息-稀释 = +0.60%
+
+  IRR = +2.83%
+
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/terminal_value.py pe --roic 0.21 --g 0.04 --r 0.1
+
+PE(终值) = (1 - g/ROIC) / (r - g)
+
+  ROIC = 21.0%   g = 4.00%   r = 10.00%
+
+  留存率 g/ROIC   = 0.0400 / 0.21 = 0.1905  (19.0%)
+  分子 1 - 留存率 = 0.8095                    （即派息率 81.0%）
+  分母 r - g      = 0.1000 - 0.0400 = 0.0600  (6.0pct)
+
+  退出 PE = 0.8095 / 0.0600 = 13.5x
+
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/terminal_value.py irr --profit 700000 --mcap 3928484.84201355 --pe 13.49206349206349 --years 10 --payout 0.006
+
+IRR = (2036市值 / 今日市值)^(1/10) - 1 + 股息率 - 稀释率
+
+  2036 市值 = 700,000 x 13.5x = 9,444,444
+  今日市值 = 3,928,485
+  总倍数   = 2.4041
+  几何年化 = +9.17%
+  股息-稀释 = +0.60%
+
+  IRR = +9.77%
+
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/terminal_value.py flip --config /workspace/scratch/351726a27bf6/ai-berkshire/reports/美股七姐妹-20261019/微软/terminal_config.json --name 微软 --r 0.1 --delta .02 --currency USD --g-shift 0 --rf .051
+
+微软  |  基准 r = 10.00%   Δr = ±2pp   币种 USD   g平移 +0.0%   Rf = 5.10%   持有期 10 年
+币种合理区间：r ∈ [9.0%, 11.5%]（同 audit C1）；区间外档位仅供参考，不参与翻转判定。
+判定规则：期望 IRR ≥ r → 通过仓位压力测试；否则未通过。
+角色：十年模型 = 仓位压力测试，不是买入/持有/回避的唯一否决票。
+
+档位               r       期望IRR        相对 r      压力测试
+------------------------------------------------------
+r−2pp        8.00%      +5.98%     -2.02pp  未通过（区间外，仅供参考）
+基准 r        10.00%      +2.42%     -7.58pp  未通过
+r+2pp       12.00%      -0.14%    -12.14pp  未通过（区间外，仅供参考）
+------------------------------------------------------
+
+【稳定】Δr±2pp 区间内压力测试始终未通过——相对折现率扰动更稳健。
+        注意：两侧档位都在区间外，区间内只有基准一档参与判定；可用更小的 --delta 在区间内复核。
+        未通过仍只约束仓位，不自动等于回避；须与其他五个维度并列决策。
+
+提醒：禁止为迎合买入结论而把 r 调出币种合理区间；敏感性是为了一致性审计，不是为了「调低 r 去买」。
+
+
+exit=0
+
+$ /opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3 /workspace/scratch/351726a27bf6/ai-berkshire/tools/terminal_value.py flip --config /workspace/scratch/351726a27bf6/ai-berkshire/reports/美股七姐妹-20261019/微软/terminal_config.json --name 微软 --r 0.1 --delta .01 --currency USD --g-shift 0 --rf .051
+
+微软  |  基准 r = 10.00%   Δr = ±1pp   币种 USD   g平移 +0.0%   Rf = 5.10%   持有期 10 年
+币种合理区间：r ∈ [9.0%, 11.5%]（同 audit C1）；区间外档位仅供参考，不参与翻转判定。
+判定规则：期望 IRR ≥ r → 通过仓位压力测试；否则未通过。
+角色：十年模型 = 仓位压力测试，不是买入/持有/回避的唯一否决票。
+
+档位               r       期望IRR        相对 r      压力测试
+------------------------------------------------------
+r−1pp        9.00%      +4.03%     -4.97pp  未通过
+基准 r        10.00%      +2.42%     -7.58pp  未通过
+r+1pp       11.00%      +1.05%     -9.95pp  未通过
+------------------------------------------------------
+
+【稳定】Δr±1pp 区间内压力测试始终未通过——相对折现率扰动更稳健。
+        未通过仍只约束仓位，不自动等于回避；须与其他五个维度并列决策。
+
+提醒：禁止为迎合买入结论而把 r 调出币种合理区间；敏感性是为了一致性审计，不是为了「调低 r 去买」。
+
+
+exit=0

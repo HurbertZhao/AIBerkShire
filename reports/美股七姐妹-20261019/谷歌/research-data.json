@@ -1,0 +1,186 @@
+{
+  "as_of": "2026-10-19 Asia/Shanghai",
+  "price_date": "2026-10-16",
+  "price_a": 340.59,
+  "price_c": 336.91,
+  "shares_million": {
+    "A": 5868,
+    "B": 835,
+    "C": 5527
+  },
+  "share_date": "2026-07-15",
+  "reported_market_cap_billion": 4170,
+  "annual": {
+    "2021": {
+      "revenue": 257637,
+      "gross": 146698,
+      "op": 78714,
+      "net": 76033,
+      "ocf": 91652,
+      "capex": 24640,
+      "cash_investments": 139649
+    },
+    "2022": {
+      "revenue": 282836,
+      "gross": 156633,
+      "op": 74842,
+      "net": 59972,
+      "ocf": 91495,
+      "capex": 31485,
+      "cash_investments": 113762
+    },
+    "2023": {
+      "revenue": 307394,
+      "gross": 174062,
+      "op": 84293,
+      "net": 73795,
+      "ocf": 101746,
+      "capex": 32251,
+      "cash_investments": 110916
+    },
+    "2024": {
+      "revenue": 350018,
+      "gross": 203712,
+      "op": 112390,
+      "net": 100118,
+      "ocf": 125299,
+      "capex": 52535,
+      "cash_investments": 95657
+    },
+    "2025": {
+      "revenue": 402836,
+      "gross": 240301,
+      "op": 129039,
+      "net": 132170,
+      "ocf": 164713,
+      "capex": 91447,
+      "cash_investments": 126843
+    }
+  },
+  "quarters": {
+    "2025Q3": {
+      "search": 56567,
+      "youtube": 10261,
+      "network": 7354,
+      "subscriptions": 12870,
+      "services": 87052,
+      "cloud": 15157,
+      "bets": 344,
+      "hedge": -207,
+      "revenue": 102346,
+      "services_op": 33527,
+      "cloud_op": 3594,
+      "bets_op": -1426,
+      "corporate_op": -4467,
+      "services_prior": 76510,
+      "cloud_prior": 11353
+    },
+    "2025Q4": {
+      "search": 63073,
+      "youtube": 11383,
+      "network": 7828,
+      "subscriptions": 13578,
+      "services": 95862,
+      "cloud": 17664,
+      "bets": 370,
+      "hedge": -68,
+      "revenue": 113828,
+      "services_op": 40132,
+      "cloud_op": 5313,
+      "bets_op": -3617,
+      "corporate_op": -5894,
+      "services_prior": 84094,
+      "cloud_prior": 11955
+    },
+    "2026Q1": {
+      "search": 60399,
+      "youtube": 9883,
+      "network": 6971,
+      "subscriptions": 12384,
+      "services": 89637,
+      "cloud": 20028,
+      "bets": 411,
+      "hedge": -180,
+      "revenue": 109896,
+      "services_op": 40589,
+      "cloud_op": 6598,
+      "bets_op": -2100,
+      "corporate_op": -5391,
+      "services_prior": 77264,
+      "cloud_prior": 12260
+    },
+    "2026Q2": {
+      "search": 63271,
+      "youtube": 11055,
+      "network": 7303,
+      "subscriptions": 12911,
+      "services": 94540,
+      "cloud": 24768,
+      "bets": 382,
+      "hedge": 106,
+      "revenue": 119796,
+      "services_op": 39544,
+      "cloud_op": 8814,
+      "bets_op": -1799,
+      "corporate_op": -5789,
+      "services_prior": 82543,
+      "cloud_prior": 13624
+    }
+  },
+  "balance_million": {
+    "cash": 55911,
+    "marketable": 186563,
+    "marketable_equity_current": 87063,
+    "marketable_equity_noncurrent": 14126,
+    "nonmarketable": 131461,
+    "debt_exleases": 100164,
+    "debt_incleases": 120791,
+    "preferred": 18023,
+    "equity_total": 640480
+  },
+  "ttm": {
+    "revenue": 445866,
+    "op": 147628,
+    "common_net": 244119,
+    "net": 244205,
+    "ocf": 185675,
+    "capex": 132402,
+    "fcf": 53273,
+    "eps_gaap": 19.93
+  },
+  "assumptions": {
+    "tax": 0.18,
+    "r": 0.1,
+    "rf": 0.051,
+    "beta": 1.0,
+    "roic": 0.24,
+    "g": [
+      0.02,
+      0.03,
+      0.04
+    ],
+    "p": [
+      0.25,
+      0.5,
+      0.25
+    ],
+    "profit_2036_billion": [
+      150,
+      400,
+      750
+    ],
+    "k": 0,
+    "growth3": [
+      0.25,
+      0.16,
+      0.05
+    ],
+    "pe3": [
+      35,
+      28,
+      20
+    ],
+    "asset_public_haircut": 0.3,
+    "asset_private_haircut": 0.5
+  }
+}

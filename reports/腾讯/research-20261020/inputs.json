@@ -1,0 +1,38 @@
+{
+  "price_hkd": "417.80",
+  "shares": "9092644829",
+  "hkd_cny": "0.8525",
+  "revenue_2025_bn": "751.766",
+  "profit_2025_bn": "224.842",
+  "revenue_ttm_bn": "788.483",
+  "profit_ttm_bn": "235.508",
+  "company_fcf_2025_bn": "182.6",
+  "net_cash_bn": "58.191",
+  "cash_bn": "511.154",
+  "borrowings_notes_bn": "452.963",
+  "listed_investments_bn": "487.2",
+  "unlisted_book_bn": "387.9",
+  "scenarios": {
+    "bear": {
+      "fcff": "120",
+      "g1": ".01",
+      "g2": ".01",
+      "gt": ".01",
+      "assets": "450"
+    },
+    "base": {
+      "fcff": "160",
+      "g1": ".08",
+      "g2": ".04",
+      "gt": ".025",
+      "assets": "709.341"
+    },
+    "bull": {
+      "fcff": "200",
+      "g1": ".12",
+      "g2": ".06",
+      "gt": ".03",
+      "assets": "900"
+    }
+  }
+}

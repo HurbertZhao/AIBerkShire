@@ -1,0 +1,357 @@
+======================================================================
+报告数据抽检清单
+文件：reports/美股七姐妹-20261019/苹果/苹果投资研究报告-20261019.md
+总提取数据点：170  |  抽样比例：15%  |  抽检数量：26
+随机种子：42（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+168      3  研究日期                                      2026.00
+  7     16  GAAP净利润 · FY2022                         99803.00
+  9     16  GAAP净利润 · FY2024                         93736.00
+  8     16  GAAP净利润 · FY2023                         96995.00
+ 23     19  现金及全部有价证券 · FY2023                      162099.00
+ 24     19  现金及全部有价证券 · FY2024                      156650.00
+ 29     20  毛利率 · FY2024                                46.21  %
+ 27     20  毛利率 · FY2022                                43.31  %
+ 36     22  自由现金流 CFO−资本开支 · FY2021                  92953.00
+ 51     34  iPad · FY26Q2                             6914.00
+ 56     35  可穿戴/家居/配件 · FY26Q3                        7883.00
+ 58     36  Services · FY26Q1                        30013.00
+ 60     36  Services · FY26Q3                        30739.00
+ 57     36  Services · FY25Q4                        28750.00
+ 63     37  总收入 · FY26Q2                            111184.00
+ 71     44  欧洲（含印度等） · FY26Q2                        28055.00
+ 72     44  欧洲（含印度等） · FY26Q3                        29395.00
+109     68  现金+短期证券 · 口径                                26.00
+108     68  现金+短期证券 · 数值                             62399.00
+115    191  股价/TTM稀释EPS · 重算值                           39.39
+130    208  基准 · 以10%折现的今日值                            228.17
+140    227  悲观 · 永续g                                     1.00  %
+144    228  基准 · 总利润年增                                   7.00  %
+152    229  乐观 · 永续g                                     4.00  %
+162    294  S8 · 来源与用途                                  26.00
+164    298  S12 · 来源与用途                               2026.00
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 168,
+    "label": "研究日期",
+    "reported_value": 2026.0,
+    "unit": "",
+    "line_number": 3,
+    "raw_text": "研究日期：2026-10-19（北京时间）。行情截止：2026-10-16 美东收盘；最新已披露季度：截至 2026-06-27 的 FY2026 Q3；FY2026 全年尚未披露。本报告单独执行 `/investment-research",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 7,
+    "label": "GAAP净利润 · FY2022",
+    "reported_value": 99803.0,
+    "unit": "",
+    "line_number": 16,
+    "raw_text": "| GAAP净利润 | 94,680 | 99,803 | 96,995 | 93,736 | 112,010 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 9,
+    "label": "GAAP净利润 · FY2024",
+    "reported_value": 93736.0,
+    "unit": "",
+    "line_number": 16,
+    "raw_text": "| GAAP净利润 | 94,680 | 99,803 | 96,995 | 93,736 | 112,010 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 8,
+    "label": "GAAP净利润 · FY2023",
+    "reported_value": 96995.0,
+    "unit": "",
+    "line_number": 16,
+    "raw_text": "| GAAP净利润 | 94,680 | 99,803 | 96,995 | 93,736 | 112,010 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 23,
+    "label": "现金及全部有价证券 · FY2023",
+    "reported_value": 162099.0,
+    "unit": "",
+    "line_number": 19,
+    "raw_text": "| 现金及全部有价证券 | 190,516 | 169,109 | 162,099 | 156,650 | 132,420 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 24,
+    "label": "现金及全部有价证券 · FY2024",
+    "reported_value": 156650.0,
+    "unit": "",
+    "line_number": 19,
+    "raw_text": "| 现金及全部有价证券 | 190,516 | 169,109 | 162,099 | 156,650 | 132,420 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 29,
+    "label": "毛利率 · FY2024",
+    "reported_value": 46.21,
+    "unit": "%",
+    "line_number": 20,
+    "raw_text": "| 毛利率 | 41.78% | 43.31% | 44.13% | 46.21% | 46.91% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 27,
+    "label": "毛利率 · FY2022",
+    "reported_value": 43.31,
+    "unit": "%",
+    "line_number": 20,
+    "raw_text": "| 毛利率 | 41.78% | 43.31% | 44.13% | 46.21% | 46.91% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 36,
+    "label": "自由现金流 CFO−资本开支 · FY2021",
+    "reported_value": 92953.0,
+    "unit": "",
+    "line_number": 22,
+    "raw_text": "| 自由现金流 CFO−资本开支 | 92,953 | 111,443 | 99,584 | 108,807 | 98,767 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 51,
+    "label": "iPad · FY26Q2",
+    "reported_value": 6914.0,
+    "unit": "",
+    "line_number": 34,
+    "raw_text": "| iPad | 6,952 (0.03%) | 8,595 (6.27%) | 6,914 (8.00%) | 6,191 (-5.93%) |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 56,
+    "label": "可穿戴/家居/配件 · FY26Q3",
+    "reported_value": 7883.0,
+    "unit": "",
+    "line_number": 35,
+    "raw_text": "| 可穿戴/家居/配件 | 9,013 (-0.32%) | 11,493 (-2.16%) | 7,901 (5.04%) | 7,883 (6.47%) |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 58,
+    "label": "Services · FY26Q1",
+    "reported_value": 30013.0,
+    "unit": "",
+    "line_number": 36,
+    "raw_text": "| Services | 28,750 (15.13%) | 30,013 (13.94%) | 30,976 (16.25%) | 30,739 (12.09%) |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 60,
+    "label": "Services · FY26Q3",
+    "reported_value": 30739.0,
+    "unit": "",
+    "line_number": 36,
+    "raw_text": "| Services | 28,750 (15.13%) | 30,013 (13.94%) | 30,976 (16.25%) | 30,739 (12.09%) |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 57,
+    "label": "Services · FY25Q4",
+    "reported_value": 28750.0,
+    "unit": "",
+    "line_number": 36,
+    "raw_text": "| Services | 28,750 (15.13%) | 30,013 (13.94%) | 30,976 (16.25%) | 30,739 (12.09%) |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 63,
+    "label": "总收入 · FY26Q2",
+    "reported_value": 111184.0,
+    "unit": "",
+    "line_number": 37,
+    "raw_text": "| 总收入 | 102,466 (7.94%) | 143,756 (15.65%) | 111,184 (16.60%) | 109,417 (16.36%) |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 71,
+    "label": "欧洲（含印度等） · FY26Q2",
+    "reported_value": 28055.0,
+    "unit": "",
+    "line_number": 44,
+    "raw_text": "| 欧洲（含印度等） | 28,703 | 38,146 | 28,055 | 29,395 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 72,
+    "label": "欧洲（含印度等） · FY26Q3",
+    "reported_value": 29395.0,
+    "unit": "",
+    "line_number": 44,
+    "raw_text": "| 欧洲（含印度等） | 28,703 | 38,146 | 28,055 | 29,395 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 109,
+    "label": "现金+短期证券 · 口径",
+    "reported_value": 26.0,
+    "unit": "",
+    "line_number": 68,
+    "raw_text": "| 现金+短期证券 | 62399 | FY26Q3；严格短期现金口径 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 108,
+    "label": "现金+短期证券 · 数值",
+    "reported_value": 62399.0,
+    "unit": "",
+    "line_number": 68,
+    "raw_text": "| 现金+短期证券 | 62399 | FY26Q3；严格短期现金口径 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 115,
+    "label": "股价/TTM稀释EPS · 重算值",
+    "reported_value": 39.3876,
+    "unit": "",
+    "line_number": 191,
+    "raw_text": "| 股价/TTM稀释EPS | 39.3876 | Python/financial_rigor核算 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 130,
+    "label": "基准 · 以10%折现的今日值",
+    "reported_value": 228.17,
+    "unit": "",
+    "line_number": 208,
+    "raw_text": "| 基准 | 8% | 10.8461 | 28 | 303.69 | 228.17 | -4.02% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 140,
+    "label": "悲观 · 永续g",
+    "reported_value": 1.0,
+    "unit": "%",
+    "line_number": 227,
+    "raw_text": "| 悲观 | 30% | 0% | 127.311 | 1.0% | 10.6667 | -10.24% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 144,
+    "label": "基准 · 总利润年增",
+    "reported_value": 7.0,
+    "unit": "%",
+    "line_number": 228,
+    "raw_text": "| 基准 | 50% | 7% | 250.441 | 2.5% | 12.0000 | -2.99% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 152,
+    "label": "乐观 · 永续g",
+    "reported_value": 4.0,
+    "unit": "%",
+    "line_number": 229,
+    "raw_text": "| 乐观 | 20% | 11% | 361.491 | 4.0% | 14.0000 | 2.10% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 162,
+    "label": "S8 · 来源与用途",
+    "reported_value": 26.0,
+    "unit": "",
+    "line_number": 294,
+    "raw_text": "| S8 | [FY26Q1公告](https://www.apple.com/newsroom/2026/01/apple-reports-first-quarter-results/)、[原始PDF](https://www.apple",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 164,
+    "label": "S12 · 来源与用途",
+    "reported_value": 2026.0,
+    "unit": "",
+    "line_number": 298,
+    "raw_text": "| S12 | [IBD 2026-10-16行情报道](https://www.investors.com/news/technology/apple-stock-top-defensive-play-amid-ai-sell-off/)",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

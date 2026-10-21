@@ -1,0 +1,112 @@
+COMMAND verify-market-cap --price 417.8 --shares 9092644829 --reported 3760000000000 --currency HKD
+============================================================
+市值验算 (Market Cap Verification)
+============================================================
+  股价 (Price):       417.8 HKD
+  总股本 (Shares):    9.09B
+  计算市值:           3.80T HKD
+  报告市值:           3.76T HKD
+  偏差:               1.03%
+
+  ⚠️  偏差 1.0% 在可接受范围, 可能因股价波动/股本变化
+
+COMMAND cross-validate --field 2025 revenue --values {"annual_report":751766,"StockAnalysis":751766} --unit CNY_million
+============================================================
+交叉验证: 2025 revenue (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 751,766.00 CNY_million
+
+  ✅ annual_report       : 751,766.00 CNY_million  (偏差 0.00%)
+  ✅ StockAnalysis       : 751,766.00 CNY_million  (偏差 0.00%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): 751,766.00 CNY_million
+
+COMMAND cross-validate --field 2025 net_income --values {"annual_report":224842,"StockAnalysis":224842} --unit CNY_million
+============================================================
+交叉验证: 2025 net_income (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 224,842.00 CNY_million
+
+  ✅ annual_report       : 224,842.00 CNY_million  (偏差 0.00%)
+  ✅ StockAnalysis       : 224,842.00 CNY_million  (偏差 0.00%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): 224,842.00 CNY_million
+
+COMMAND cross-validate --field cash_definition_DIFFERENCE --values {"company_total_cash":511154,"StockAnalysis_cash_investments":458904} --unit CNY_million
+============================================================
+交叉验证: cash_definition_DIFFERENCE (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 485,029.00 CNY_million
+
+  ❌ company_total_cash  : 511,154.00 CNY_million  (偏差 5.39%)
+  ❌ StockAnalysis_cash_investments: 458,904.00 CNY_million  (偏差 5.39%)
+
+  ⚠️  存在来源偏差 > 2.0%, 请核实差异原因
+     建议: 优先采用公司年报/交易所数据
+
+  共识值 (加权中位数): 485,029.00 CNY_million
+
+COMMAND cross-validate --field shares_definition_DIFFERENCE --values {"issued_20261015":9092644829,"StockAnalysis_rounded_outstanding":9000000000} --unit shares
+============================================================
+交叉验证: shares_definition_DIFFERENCE (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 9.05B shares
+
+  ✅ issued_20261015     : 9.09B shares  (偏差 0.51%)
+  ✅ StockAnalysis_rounded_outstanding: 9.00B shares  (偏差 0.51%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): 9.05B shares
+
+COMMAND cross-validate --field 20261016_close --values {"StockAnalysis":417.8,"Investing":417.8} --unit HKD
+============================================================
+交叉验证: 20261016_close (Cross-Validation)
+============================================================
+  数据来源数: 2
+  参考中位数: 417.80 HKD
+
+  ✅ StockAnalysis       : 417.80 HKD  (偏差 0.00%)
+  ✅ Investing           : 417.80 HKD  (偏差 0.00%)
+
+  ✅ 所有来源偏差 ≤ 2.0%, 数据一致
+
+  共识值 (加权中位数): 417.80 HKD
+
+COMMAND verify-valuation --price 417.8 --eps 30.3823280981993048859899773773557845 --fcf-per-share 23.5567925961376814043759442104096942 --dividend 5.3
+============================================================
+估值指标验算 (Valuation Verification)
+============================================================
+  当前股价: 417.8
+
+  PE (TTM):  417.8 / 30.382328098199306 = 13.75x
+  盈利收益率: 7.27%
+  P/FCF:     417.8 / 23.556792596137683 = 17.74x
+  FCF Yield: 5.64%
+  股息率:    5.3 / 417.8 = 1.27%
+
+  ✅ 以上指标均使用精确十进制计算, 无浮点误差
+
+COMMAND three-scenario --price 417.8 --eps 30.3823280981993048859899773773557845 --shares 90.926448290 --growth .12 .07 0 --pe 20 16 10 --years 3 --currency HKD
+============================================================
+三情景估值模型 (Three-Scenario Valuation)
+============================================================
+  当前股价: 417.8 HKD
+  当前EPS:  30.382328098199306
+  预测期:   3年
+
+  情景                年增速     目标PE      目标EPS       目标股价      涨跌幅
+  ------------ -------- -------- ---------- ---------- --------
+  乐观 (Bull)         12%      20x      42.68     853.7  +104.3%
+  中性 (Base)          7%      16x      37.22     595.5   +42.5%
+  悲观 (Bear)          0%      10x      30.38     303.8   -27.3%
+
+  ✅ 所有计算使用精确十进制, 结果可审计复现

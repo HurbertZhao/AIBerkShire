@@ -1,0 +1,61 @@
+{
+  "retrieved_date": "2026-10-19 Asia/Shanghai",
+  "price_date": "2026-10-16",
+  "primary_financials": [
+    "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+    "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q1/press-release-webcast",
+    "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/press-release-webcast",
+    "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q3/press-release-webcast",
+    "https://www.microsoft.com/investor/reports/ar24/index.html",
+    "https://www.microsoft.com/investor/reports/ar23/index.html"
+  ],
+  "third_party": [
+    "https://stockanalysis.com/stocks/msft/financials/income-statement/",
+    "https://stockanalysis.com/stocks/msft/financials/balance-sheet/",
+    "https://stockanalysis.com/stocks/msft/financials/cash-flow-statement/",
+    "https://nz.finance.yahoo.com/quote/MSFT/history/"
+  ],
+  "failed": [
+    {
+      "url": "https://www.macrotrends.net/stocks/charts/MSFT/microsoft/revenue",
+      "status": "open Internal Error; targeted search did not retrieve required data"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "status": "full open too large (>4194305); search excerpt retrieved cover shares only"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-insider-sold-shares-worth-073619044.html",
+      "status": "search excerpt available, open429"
+    }
+  ],
+  "source_discrepancies": {
+    "FY2022_cash": {
+      "primary": 104757,
+      "standardized": 104749
+    },
+    "FY2023_cash": {
+      "primary": 111262,
+      "standardized": 111256
+    },
+    "FY2024_cash": {
+      "primary": 75543,
+      "standardized": 75531
+    }
+  },
+  "limitations": [
+    "Quarterly segment data only primary source",
+    "No full FY26 10K notes reviewed",
+    "No complete current proxy reviewed",
+    "Peer values only third party context; not valuation anchors",
+    "terminal IRR is CAGR plus k approximation",
+    "No original master commentary read; no simulated endorsements"
+  ],
+  "dividend": {
+    "annualized_usd": 3.92,
+    "quarterly_usd": 0.98,
+    "announcement_date": "2026-09-15",
+    "primary": "https://news.microsoft.com/source/2026/09/15/microsoft-announces-quarterly-dividend-increase-7/",
+    "secondary": "https://stockanalysis.com/stocks/msft/statistics/"
+  }
+}

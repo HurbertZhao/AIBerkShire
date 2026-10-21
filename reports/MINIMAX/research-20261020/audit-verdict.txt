@@ -1,0 +1,40 @@
+======================================================================
+报告数据抽检 — 准出/打回判决
+报告：MiniMax研究报告-20261020.md
+======================================================================
+
+  ✅ 通过 [ 4] 毛利润 · 2023                           报告:        -0.85 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1231/2025123100025.pdf financial summary: -0.85 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/0100/financials/: -0.85 (偏差 0.47%)
+  ✅ 通过 [ 5] 毛利润 · 2024                           报告:         3.74 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0422/2026042202118.pdf financial summary: 3.74 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/0100/financials/: 3.74 (偏差 0.05%)
+  ✅ 通过 [14] IFRS 归母净利润 · 2025                    报告:     -1871.62 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0422/2026042202118.pdf financial summary: -1871.62 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/0100/financials/: -1872.00 (偏差 0.02%)
+  ✅ 通过 [12] IFRS 归母净利润 · 2023                    报告:      -269.25 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1231/2025123100025.pdf financial summary: -269.25 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/0100/financials/: -269.25 (偏差 0.00%)
+  ✅ 通过 [15] 调整后净利润 · 2022                        报告:       -12.15 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0422/2026042202118.pdf four-year financial summary: -12.15 (偏差 0.00%)
+  ✅ 通过 [18] 调整后净利润 · 2025                        报告:      -250.86 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0422/2026042202118.pdf non-IFRS reconciliation: -250.86 (偏差 0.00%)
+  ✅ 通过 [29] 简单自由现金流 · 2024                       报告:      -259.24 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1231/2025123100025.pdf I-14 cash flow CFO minus purchases: -259.24 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/0100/financials/cash-flow-statement/: -259.24 (偏差 0.00%)
+  ✅ 通过 [32] 收入 · 2025 上半年                        报告:        30.43 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0930/2026093002173.pdf p6: 30.43 (偏差 0.00%)
+  ✅ 通过 [36] 毛利润 · 2026 上半年                       报告:        20.81 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0930/2026093002173.pdf p6: 20.81 (偏差 0.00%)
+  ✅ 通过 [55] 股权支付费用 · 2025 全年                     报告:        24.03 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0422/2026042202118.pdf cash flow and non-IFRS reconciliation: 24.03 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/0100/financials/cash-flow-statement/: 24.03 (偏差 0.00%)
+
+----------------------------------------------------------------------
+  抽检总数: 10  |  通过: 10  |  警告: 0  |  不通过: 0
+
+【准出】所有抽检数据通过，报告可发布。
+======================================================================
+{
+  "verdict": "PASS",
+  "pass_count": 10,
+  "warn_count": 0,
+  "fail_count": 0,
+  "total": 10,
+  "fail_items": [],
+  "warn_items": []
+}

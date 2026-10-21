@@ -1,0 +1,15 @@
+{
+  "sample_count": 26,
+  "coverage": {
+    "external_dual": 8,
+    "external_dual_derived": 4,
+    "filing_derived_single": 3,
+    "issuer_corroborated": 2,
+    "external_single": 2,
+    "external_single_untransparent_method": 1,
+    "model": 5,
+    "assumption_consistency": 1
+  },
+  "tool_verdict_exit_code": 0,
+  "qualification": "Tool PASS does not enforce second-source coverage or distinguish assumptions. See verification_kind; single-source items and unmodelled tail risks remain disclosed."
+}

@@ -1,0 +1,54 @@
+======================================================================
+[1m报告数据抽检 — 准出/打回判决[0m
+报告：腾讯研究报告-20261002.md
+======================================================================
+
+  [92m✅ 通过[0m [ 4] 收入 · 2024                            报告:    660257.00 
+                                                    https://annualreports.ai/wp-content/uploads/annual-report-tencent-holdings-2025.pdf: 660257.00 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/0700/financials/: 660257.00 (偏差 0.00%)
+  [92m✅ 通过[0m [ 5] 收入 · 2025                            报告:    751766.00 
+                                                    https://annualreports.ai/wp-content/uploads/annual-report-tencent-holdings-2025.pdf: 751766.00 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/0700/financials/: 751766.00 (偏差 0.00%)
+  [92m✅ 通过[0m [15] 经营现金流 · 2025                         报告:    303052.00 
+                                                    https://annualreports.ai/wp-content/uploads/annual-report-tencent-holdings-2025.pdf: 303052.00 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/0700/financials/cash-flow-statement/: 303052.00 (偏差 0.00%)
+  [92m✅ 通过[0m [14] 经营现金流 · 2024                         报告:    258521.00 
+                                                    https://annualreports.ai/wp-content/uploads/annual-report-tencent-holdings-2025.pdf: 258521.00 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/0700/financials/cash-flow-statement/: 258521.00 (偏差 0.00%)
+  [92m✅ 通过[0m [12] 经营现金流 · 2022                         报告:    146091.00 
+                                                    https://annualreports.ai/wp-content/uploads/annual-report-tencent-holdings-2023.pdf: 146091.00 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/0700/financials/cash-flow-statement/: 146091.00 (偏差 0.00%)
+  [92m✅ 通过[0m [18] 购置设备等现金支出 · 2023                     报告:     21008.00 
+                                                    https://annualreports.ai/wp-content/uploads/annual-report-tencent-holdings-2023.pdf: 21008.00 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/0700/financials/cash-flow-statement/: 21008.00 (偏差 0.00%)
+  [92m✅ 通过[0m [29] 毛利率 · 2024                           报告:        52.90 %
+                                                    https://annualreports.ai/wp-content/uploads/annual-report-tencent-holdings-2025.pdf: 52.90 (偏差 0.01%)  |  https://stockanalysis.com/quote/hkg/0700/financials/: 52.90 (偏差 0.01%)
+  [92m✅ 通过[0m [28] 毛利率 · 2023                           报告:        48.13 %
+                                                    https://annualreports.ai/wp-content/uploads/annual-report-tencent-holdings-2025.pdf: 48.13 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/0700/financials/: 48.13 (偏差 0.00%)
+  [92m✅ 通过[0m [30] 毛利率 · 2025                           报告:        56.21 %
+                                                    https://annualreports.ai/wp-content/uploads/annual-report-tencent-holdings-2025.pdf: 56.21 (偏差 0.01%)  |  https://stockanalysis.com/quote/hkg/0700/financials/: 56.25 (偏差 0.07%)
+  [92m✅ 通过[0m [32] 经营利润率 · 2022                         报告:        19.98 %
+                                                    https://annualreports.ai/wp-content/uploads/annual-report-tencent-holdings-2025.pdf: 19.98 (偏差 0.02%)  |  https://stockanalysis.com/quote/hkg/0700/financials/: 19.99 (偏差 0.07%)
+  [92m✅ 通过[0m [36] 简单自由现金流 · 2021                       报告:    145884.00 
+                                                    https://stockanalysis.com/quote/hkg/0700/financials/cash-flow-statement/: 145884.00 (偏差 0.00%)
+  [92m✅ 通过[0m [55] 增值服务 · 2025Q3                        报告:     95860.00 
+                                                    https://en.prnasia.com/releases/apac/tencent-announces-2025-third-quarter-results-511815.shtml: 95860.00 (偏差 0.00%)
+  [92m✅ 通过[0m [70] 其他 · 2026Q2                          报告:      2520.00 
+                                                    https://www.tencent.com/wp-content/uploads/2026/08/E700_IR.pdf: 2520.00 (偏差 0.00%)
+  [92m✅ 通过[0m [76] Non-IFRS归母净利润 · 2025Q4               报告:     64694.00 
+                                                    https://en.prnasia.com/releases/apac/tencent-announces-2025-annual-and-fourth-quarter-results-525781.shtml: 64694.00 (偏差 0.00%)
+  [92m✅ 通过[0m [82] 毛利率（公告取整） · 2026Q2                   报告:        58.00 %
+                                                    https://www.tencent.com/wp-content/uploads/2026/08/E700_IR.pdf: 58.00 (偏差 0.00%)
+  ⬜ [87] 中性 · 初始现金流（十亿元）                           170.00   →  [未提供核验值，跳过]
+  ⬜ [95] 乐观 · 净资产调整（十亿元）                           650.00   →  [未提供核验值，跳过]
+  [92m✅ 通过[0m [115] 价格 · 结论                              报告:       469.00 
+                                                    独立公式复算：10年两阶段DCF；此项是模型计算检查，非信源验证: 468.97 (偏差 0.01%)
+
+----------------------------------------------------------------------
+  抽检总数: 16  |  通过: [92m16[0m  |  警告: [93m0[0m  |  不通过: [91m0[0m
+
+[1m[92m【准出】所有抽检数据通过，报告可发布。[0m
+======================================================================
+{
+  "verdict": "PASS",
+  "pass_count": 16,
+  "warn_count": 0,
+  "fail_count": 0,
+  "total": 16,
+  "fail_items": [],
+  "warn_items": []
+}

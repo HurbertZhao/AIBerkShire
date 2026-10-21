@@ -1,0 +1,86 @@
+[
+  {
+    "id": 36,
+    "label": "简单FCF：CFO减设备支出 · 2026上半年",
+    "reported_value": 29.64,
+    "unit": "",
+    "line_number": 31,
+    "raw_text": "| 简单FCF：CFO减设备支出 | 4.92 | 6.25 | 16.66 | 45.82 | 98.80 | 29.64 |",
+    "fetched_value": 29.63764,
+    "fetched_source": "Decimal公式复算: (\"3.637324\"-\"0.673560\")*10",
+    "fetched_value2": null,
+    "fetched_source2": "计算值不是第二份事实来源"
+  },
+  {
+    "id": 32,
+    "label": "简单FCF：CFO减设备支出 · 2022",
+    "reported_value": 6.25,
+    "unit": "",
+    "line_number": 31,
+    "raw_text": "| 简单FCF：CFO减设备支出 | 4.92 | 6.25 | 16.66 | 45.82 | 98.80 | 29.64 |",
+    "fetched_value": 6.2489,
+    "fetched_source": "Decimal公式复算: 2022 CFO891022减设备266132千元，再除100000",
+    "fetched_value2": null,
+    "fetched_source2": "计算值不是第二份事实来源"
+  },
+  {
+    "id": 55,
+    "label": "CFO/归母净利 · 2025全年",
+    "reported_value": 85.05,
+    "unit": "%",
+    "line_number": 55,
+    "raw_text": "| CFO/归母净利 | 85.05% | 72.19% | 合并现金流除归母利润，少数股东造成小幅口径差 |",
+    "fetched_value": 85.04552670309992,
+    "fetched_source": "Decimal公式复算: CFO10865152/归母12775689*100",
+    "fetched_value2": null,
+    "fetched_source2": "计算值不是第二份事实来源"
+  },
+  {
+    "id": 65,
+    "label": "TTM归母PE · 数值",
+    "reported_value": 12.88,
+    "unit": "",
+    "line_number": 166,
+    "raw_text": "| TTM归母PE | 12.88 | 人民币利润先按统一汇率换算 |",
+    "fetched_value": 12.883165054896434,
+    "fetched_source": "Decimal公式复算: 价格*股本*汇率/TTM归母",
+    "fetched_value2": null,
+    "fetched_source2": "计算值不是第二份事实来源"
+  },
+  {
+    "id": 70,
+    "label": "TTM简单FCF收益率 · 数值",
+    "reported_value": 4.23,
+    "unit": "%",
+    "line_number": 169,
+    "raw_text": "| TTM简单FCF收益率 | 4.23% | 只扣设备资本支出 |",
+    "fetched_value": 4.232775650200382,
+    "fetched_source": "Decimal公式复算: TTM简单FCF/人民币市值*100",
+    "fetched_value2": null,
+    "fetched_source2": "计算值不是第二份事实来源"
+  },
+  {
+    "id": 87,
+    "label": "加回净现金，亿元 · 基准",
+    "reported_value": 99.62,
+    "unit": "",
+    "line_number": 185,
+    "raw_text": "| 加回净现金，亿元 | 50 | 99.62 | 100 |",
+    "fetched_value": 99.62252,
+    "fetched_source": "Decimal公式复算: 现金124.42065+定存15.20187-缓冲40亿元",
+    "fetched_value2": null,
+    "fetched_source2": "计算值不是第二份事实来源"
+  },
+  {
+    "id": 95,
+    "label": "三年累计税前股息，港元 · 悲观",
+    "reported_value": 5.84,
+    "unit": "",
+    "line_number": 199,
+    "raw_text": "| 三年累计税前股息，港元 | 5.84 | 7.90 | 9.17 |",
+    "fetched_value": 5.843863386843697,
+    "fetched_source": "Decimal公式复算: 105亿归母/股份/汇率，三年按-8%增长，每年分红25%",
+    "fetched_value2": null,
+    "fetched_source2": "计算值不是第二份事实来源"
+  }
+]

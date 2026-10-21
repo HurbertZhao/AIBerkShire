@@ -1,0 +1,37 @@
+[
+  {
+    "id": 55,
+    "reported": 724.97,
+    "recomputed": "724.96868",
+    "description": "现金+短期理财-借款-票据-租赁；原表明细仅单源",
+    "within_display_rounding": true
+  },
+  {
+    "id": 76,
+    "reported": 384.49,
+    "recomputed": "384.49146",
+    "description": "TTM归母亏损绝对值，全年加本期减同期",
+    "within_display_rounding": true
+  },
+  {
+    "id": 82,
+    "reported": 65.96,
+    "recomputed": "65.959160178691455481729850459037566413",
+    "description": "基准DCF假设算术",
+    "within_display_rounding": true
+  },
+  {
+    "id": 87,
+    "reported": 155.87,
+    "recomputed": "155.87478302327765726873956298726613427",
+    "description": "乐观DCF假设算术",
+    "within_display_rounding": true
+  },
+  {
+    "id": 95,
+    "reported": 62.9,
+    "recomputed": "62.903678020481502025988185251678277700",
+    "description": "r11% g1.5%敏感性算术",
+    "within_display_rounding": true
+  }
+]

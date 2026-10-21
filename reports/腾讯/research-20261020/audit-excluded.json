@@ -1,0 +1,67 @@
+[
+  {
+    "id": 70,
+    "label": "正常化起始FCFF，十亿元 · 乐观",
+    "reported_value": 200.0,
+    "unit": "",
+    "line_number": 235,
+    "raw_text": "| 正常化起始FCFF，十亿元 | 120 | 160 | 200 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "audit_scope": "MODEL_ASSUMPTION_OR_MODEL_OUTPUT_NOT_EXTERNAL_FACT"
+  },
+  {
+    "id": 76,
+    "label": "后五年增长 · 乐观",
+    "reported_value": 6.0,
+    "unit": "%",
+    "line_number": 237,
+    "raw_text": "| 后五年增长 | +1% | +4% | +6% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "audit_scope": "MODEL_ASSUMPTION_OR_MODEL_OUTPUT_NOT_EXTERNAL_FACT"
+  },
+  {
+    "id": 82,
+    "label": "非经营净资产，十亿元 · 乐观",
+    "reported_value": 900.0,
+    "unit": "",
+    "line_number": 239,
+    "raw_text": "| 非经营净资产，十亿元 | 450 | 709.341 | 900 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "audit_scope": "MODEL_ASSUMPTION_OR_MODEL_OUTPUT_NOT_EXTERNAL_FACT"
+  },
+  {
+    "id": 87,
+    "label": "五年后FCFF，十亿元 · 基准",
+    "reported_value": 235.09,
+    "unit": "",
+    "line_number": 241,
+    "raw_text": "| 五年后FCFF，十亿元 | 126.12 | 235.09 | 352.47 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "audit_scope": "MODEL_ASSUMPTION_OR_MODEL_OUTPUT_NOT_EXTERNAL_FACT"
+  },
+  {
+    "id": 95,
+    "label": "390—450 · 必须同时满足的条件",
+    "reported_value": 1600.0,
+    "unit": "亿元",
+    "line_number": 261,
+    "raw_text": "| 390—450 | 现价所在区域，适合小规模分批而非激进押注 | 基准现金流1600亿元有望维持，未来投入可解释 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": "",
+    "audit_scope": "MODEL_ASSUMPTION_OR_MODEL_OUTPUT_NOT_EXTERNAL_FACT"
+  }
+]

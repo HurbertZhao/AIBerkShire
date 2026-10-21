@@ -1,0 +1,44 @@
+======================================================================
+[1m报告数据抽检 — 准出/打回判决[0m
+报告：泡泡玛特研究报告-20261020.md
+======================================================================
+
+  [92m✅ 通过[0m [ 3] 收入 · 2023                            报告:        63.01 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100394.pdf p6: 63.01 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/9992/financials/: 63.01 (偏差 0.00%)
+  [92m✅ 通过[0m [ 5] 收入 · 2025                            报告:       371.20 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100394.pdf p6: 371.20 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/9992/financials/: 371.20 (偏差 0.00%)
+  [92m✅ 通过[0m [14] 报表经营利润 · 2024                        报告:        41.54 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100394.pdf p6: 41.54 (偏差 0.01%)
+  [92m✅ 通过[0m [21] 归母净利润 · 2021                         报告:         8.54 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100394.pdf p6: 8.54 (偏差 0.04%)  |  https://stockanalysis.com/quote/hkg/9992/financials/: 8.54 (偏差 0.04%)
+  [92m✅ 通过[0m [37] CFO－固定资产支出，未扣无形资产与租赁 · 2022          报告:         6.25 
+                                                    https://stockanalysis.com/quote/hkg/9992/financials/ CFO minus PPE only: 6.25 (偏差 0.02%)
+  [92m✅ 通过[0m [38] CFO－固定资产支出，未扣无形资产与租赁 · 2023          报告:        16.66 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0423/2025042300687.pdf p195: (1990596-324179)/100000: 16.66 (偏差 0.03%)  |  https://stockanalysis.com/quote/hkg/9992/financials/: 16.66 (偏差 0.00%)
+  [92m✅ 通过[0m [44] 现金及短期投资，第三方取整 · 2024                 报告:        96.32 
+                                                    https://stockanalysis.com/quote/hkg/9992/financials/ rounded cash and investments: 96.32 (偏差 0.00%)
+  [92m✅ 通过[0m [41] 现金及短期投资，第三方取整 · 2021                 报告:        52.85 
+                                                    https://stockanalysis.com/quote/hkg/9992/financials/ rounded cash and investments: 52.85 (偏差 0.00%)
+  [92m✅ 通过[0m [48] 中国，包括港澳台 · 上半年同比                     报告:        47.30 %
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400544.pdf p16: 47.30 (偏差 0.00%)  |  https://companies.caixin.com/2026-08-20/102476226.html: 47.30 (偏差 0.00%)
+  [92m✅ 通过[0m [51] 亚太，不含中国 · 上半年同比                      报告:        -9.70 %
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400544.pdf p16: -9.70 (偏差 0.00%)  |  https://companies.caixin.com/2026-08-20/102476226.html: -9.70 (偏差 0.00%)
+  [92m✅ 通过[0m [54] 美洲 · 上半年同比                           报告:       -16.50 %
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400544.pdf p16: -16.50 (偏差 0.00%)  |  https://companies.caixin.com/2026-08-20/102476226.html: -16.50 (偏差 0.00%)
+  [92m✅ 通过[0m [61] Twinkle Twinkle 星星人 · 同期变化的意义        报告:         3.89 亿元
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400544.pdf p25: 3.89 (偏差 0.09%)
+  [92m✅ 通过[0m [65] HIRONO · 2026 上半年收入                  报告:        10.09 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400544.pdf p25: 10.09 (偏差 0.01%)
+  ⬜ [131] 最强空方论点是                                  2025.00   →  [未提供核验值，跳过]
+  ⬜ [86] TTM 归母利润 PE · 结果                           12.19 倍  →  [未提供核验值，跳过]
+  ⬜ [96] 第 1—5 年 FCFE，亿元 · 基准：多 IP 平台稳住             70.00   →  [未提供核验值，跳过]
+  ⬜ [98] 第 6—10 年现金增长 · 基准：多 IP 平台稳住                 4.00 %  →  [未提供核验值，跳过]
+  ⬜ [103] 第 10 年收入假设 · 基准：多 IP 平台稳住                 650.00   →  [未提供核验值，跳过]
+  ⬜ [115] 第 10 年现金/利润 · 基准：多 IP 平台稳住                 85.88 %  →  [未提供核验值，跳过]
+  ⬜ [117] 当前股权内在价值，亿元 · 悲观：需求正常化                    520.65   →  [未提供核验值，跳过]
+
+----------------------------------------------------------------------
+  抽检总数: 13  |  通过: [92m13[0m  |  警告: [93m0[0m  |  不通过: [91m0[0m
+
+[1m[92m【准出】所有抽检数据通过，报告可发布。[0m
+======================================================================

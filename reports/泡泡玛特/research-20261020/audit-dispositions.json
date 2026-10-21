@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3,
+    "type": "FACT",
+    "coverage": "two independent publishers"
+  },
+  {
+    "id": 5,
+    "type": "FACT",
+    "coverage": "two independent publishers"
+  },
+  {
+    "id": 14,
+    "type": "FACT",
+    "coverage": "single publisher only"
+  },
+  {
+    "id": 21,
+    "type": "FACT",
+    "coverage": "two independent publishers"
+  },
+  {
+    "id": 37,
+    "type": "FACT",
+    "coverage": "single publisher only"
+  },
+  {
+    "id": 38,
+    "type": "FACT",
+    "coverage": "two independent publishers"
+  },
+  {
+    "id": 44,
+    "type": "FACT",
+    "coverage": "single publisher only"
+  },
+  {
+    "id": 41,
+    "type": "FACT",
+    "coverage": "single publisher only"
+  },
+  {
+    "id": 48,
+    "type": "FACT",
+    "coverage": "two independent publishers"
+  },
+  {
+    "id": 51,
+    "type": "FACT",
+    "coverage": "two independent publishers"
+  },
+  {
+    "id": 54,
+    "type": "FACT",
+    "coverage": "two independent publishers"
+  },
+  {
+    "id": 61,
+    "type": "FACT",
+    "coverage": "single publisher only"
+  },
+  {
+    "id": 65,
+    "type": "FACT",
+    "coverage": "single publisher only"
+  },
+  {
+    "id": 131,
+    "type": "YEAR_FALSE_POSITIVE",
+    "note": "2025 is a calendar year, not a financial value; excluded without fake fetch."
+  },
+  {
+    "id": 86,
+    "type": "MODEL_ONLY_NOT_FACT",
+    "calculated": "12.19404811310195355561169980751081689509",
+    "difference_fraction": "0.0003319745062842618316977349484",
+    "note": "Arithmetic consistency only. Assumptions not independently verified. Not passed as factual fetched_value."
+  },
+  {
+    "id": 96,
+    "type": "MODEL_ONLY_NOT_FACT",
+    "calculated": "70",
+    "difference_fraction": "0.0",
+    "note": "Arithmetic consistency only. Assumptions not independently verified. Not passed as factual fetched_value."
+  },
+  {
+    "id": 98,
+    "type": "MODEL_ONLY_NOT_FACT",
+    "calculated": "4",
+    "difference_fraction": "0.0",
+    "note": "Arithmetic consistency only. Assumptions not independently verified. Not passed as factual fetched_value."
+  },
+  {
+    "id": 103,
+    "type": "MODEL_ONLY_NOT_FACT",
+    "calculated": "650",
+    "difference_fraction": "0.0",
+    "note": "Arithmetic consistency only. Assumptions not independently verified. Not passed as factual fetched_value."
+  },
+  {
+    "id": 115,
+    "type": "MODEL_ONLY_NOT_FACT",
+    "calculated": "85.88138134588235294117647058823529411765",
+    "difference_fraction": "0.00001608434634731420558247350026",
+    "note": "Arithmetic consistency only. Assumptions not independently verified. Not passed as factual fetched_value."
+  },
+  {
+    "id": 117,
+    "type": "MODEL_ONLY_NOT_FACT",
+    "calculated": "520.6477704958677685950413223",
+    "difference_fraction": "0.000004282173589465317591071050622",
+    "note": "Arithmetic consistency only. Assumptions not independently verified. Not passed as factual fetched_value."
+  }
+]

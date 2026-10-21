@@ -1,0 +1,318 @@
+======================================================================
+报告数据抽检清单
+文件：reports/美股七姐妹-investment-team-20261019/02-微软-MSFT-研究报告.md
+总提取数据点：147  |  抽样比例：15%  |  抽检数量：23
+随机种子：42（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+142      3  数据截止                                      2026.00
+143     53  q4/press-release-webcast)                 2026.00
+  7     63  营业收入 · FY 2026                             331.84
+  8     63  营业收入 · TTM                                 331.84
+  9     64  毛利 · FY 2024                               171.01
+ 23     67  经营现金流 CFO · FY 2026                        182.94
+ 24     67  经营现金流 CFO · TTM                            182.94
+ 27     68  现金资本开支 · FY 2026                           115.95
+ 29     69  基础FCF（CFO−现金CapEx） · FY 2024                74.07
+ 36     70  股权薪酬 SBC · TTM                              12.40
+ 51     94  减：现金资本开支 · 金额                              115.95
+ 56    108  正常收盘价（美元） · 复算结果                           529.05
+ 57    109  公开已发行股数（十亿） · 复算结果                           7.43
+ 58    110  估算总市值（万亿美元） · 复算结果                           3.93
+ 60    112  总市值/TTM归属利润 · 复算结果                          29.37  倍
+ 63    115  基础FCF收益率 · 复算结果                              1.70  %
+ 71    132  AAPL · PS                                   10.74
+ 76    133  MSFT · 营业利润率                                46.78  %
+109    220  基准 · 终值增长                                    3.00  %
+108    220  基准 · 第十年现金率                                 27.00  %
+130    262  悲观 · 经营利润CAGR                                8.00  %
+140    300  尚未持有、偏现金流价值 · 行动规则                         350.00
+146    358  I1] [Synergy                              2026.00
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 142,
+    "label": "数据截止",
+    "reported_value": 2026.0,
+    "unit": "",
+    "line_number": 3,
+    "raw_text": "数据截止：2026-10-19（Asia/Shanghai）。行情统一为2026-10-16美国正常收盘；币种USD。最新财务：截至2026-06-30的FY2026全年及第四财季。本报告为 /investment-team 独立公司研究。",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 143,
+    "label": "q4/press-release-webcast)",
+    "reported_value": 2026.0,
+    "unit": "",
+    "line_number": 53,
+    "raw_text": "- [B1 微软FY26Q4与FY2026财务公告](https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast)：2026-07-2",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 7,
+    "label": "营业收入 · FY 2026",
+    "reported_value": 331.839,
+    "unit": "",
+    "line_number": 63,
+    "raw_text": "| 营业收入 | 245.122 | 281.724 | 331.839 | 331.839 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 8,
+    "label": "营业收入 · TTM",
+    "reported_value": 331.839,
+    "unit": "",
+    "line_number": 63,
+    "raw_text": "| 营业收入 | 245.122 | 281.724 | 331.839 | 331.839 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 9,
+    "label": "毛利 · FY 2024",
+    "reported_value": 171.008,
+    "unit": "",
+    "line_number": 64,
+    "raw_text": "| 毛利 | 171.008 | 193.893 | 225.465 | 225.465 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 23,
+    "label": "经营现金流 CFO · FY 2026",
+    "reported_value": 182.935,
+    "unit": "",
+    "line_number": 67,
+    "raw_text": "| 经营现金流 CFO | 118.548 | 136.162 | 182.935 | 182.935 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 24,
+    "label": "经营现金流 CFO · TTM",
+    "reported_value": 182.935,
+    "unit": "",
+    "line_number": 67,
+    "raw_text": "| 经营现金流 CFO | 118.548 | 136.162 | 182.935 | 182.935 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 27,
+    "label": "现金资本开支 · FY 2026",
+    "reported_value": 115.948,
+    "unit": "",
+    "line_number": 68,
+    "raw_text": "| 现金资本开支 | 44.477 | 64.551 | 115.948 | 115.948 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 29,
+    "label": "基础FCF（CFO−现金CapEx） · FY 2024",
+    "reported_value": 74.071,
+    "unit": "",
+    "line_number": 69,
+    "raw_text": "| 基础FCF（CFO−现金CapEx） | 74.071 | 71.611 | 66.987 | 66.987 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 36,
+    "label": "股权薪酬 SBC · TTM",
+    "reported_value": 12.405,
+    "unit": "",
+    "line_number": 70,
+    "raw_text": "| 股权薪酬 SBC | 10.734 | 11.974 | 12.405 | 12.405 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 51,
+    "label": "减：现金资本开支 · 金额",
+    "reported_value": 115.948,
+    "unit": "",
+    "line_number": 94,
+    "raw_text": "| 减：现金资本开支 | 115.948 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 56,
+    "label": "正常收盘价（美元） · 复算结果",
+    "reported_value": 529.05,
+    "unit": "",
+    "line_number": 108,
+    "raw_text": "| 正常收盘价（美元） | 529.05 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 57,
+    "label": "公开已发行股数（十亿） · 复算结果",
+    "reported_value": 7.425545,
+    "unit": "",
+    "line_number": 109,
+    "raw_text": "| 公开已发行股数（十亿） | 7.425545 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 58,
+    "label": "估算总市值（万亿美元） · 复算结果",
+    "reported_value": 3.928,
+    "unit": "",
+    "line_number": 110,
+    "raw_text": "| 估算总市值（万亿美元） | 3.928 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 60,
+    "label": "总市值/TTM归属利润 · 复算结果",
+    "reported_value": 29.37,
+    "unit": "倍",
+    "line_number": 112,
+    "raw_text": "| 总市值/TTM归属利润 | 29.37倍 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 63,
+    "label": "基础FCF收益率 · 复算结果",
+    "reported_value": 1.7,
+    "unit": "%",
+    "line_number": 115,
+    "raw_text": "| 基础FCF收益率 | 1.7% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 71,
+    "label": "AAPL · PS",
+    "reported_value": 10.74,
+    "unit": "",
+    "line_number": 132,
+    "raw_text": "| AAPL | 10.74 | 33.17% | 39.39 | 2.7% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 76,
+    "label": "MSFT · 营业利润率",
+    "reported_value": 46.78,
+    "unit": "%",
+    "line_number": 133,
+    "raw_text": "| MSFT | 11.84 | 46.78% | 29.47 | 1.7% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 109,
+    "label": "基准 · 终值增长",
+    "reported_value": 3.0,
+    "unit": "%",
+    "line_number": 220,
+    "raw_text": "| 基准 | 16.0% | 8.0% | 12%→16%→20%→24%→27% | 27.0% | 3.0% | 443.46 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 108,
+    "label": "基准 · 第十年现金率",
+    "reported_value": 27.0,
+    "unit": "%",
+    "line_number": 220,
+    "raw_text": "| 基准 | 16.0% | 8.0% | 12%→16%→20%→24%→27% | 27.0% | 3.0% | 443.46 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 130,
+    "label": "悲观 · 经营利润CAGR",
+    "reported_value": 8.0,
+    "unit": "%",
+    "line_number": 262,
+    "raw_text": "| 悲观 | 8.0% | 18 | 446.74 | -3.3% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 140,
+    "label": "尚未持有、偏现金流价值 · 行动规则",
+    "reported_value": 350.0,
+    "unit": "",
+    "line_number": 300,
+    "raw_text": "| 尚未持有、偏现金流价值 | 优先观察；约350美元以下且投资论文成立时再评估分批买入。 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 146,
+    "label": "I1] [Synergy",
+    "reported_value": 2026.0,
+    "unit": "",
+    "line_number": 358,
+    "raw_text": "- [I1] [Synergy：2026Q2 云基础设施市场](https://www.srgresearch.com/articles/q2-cloud-market-passes-143-billion-highest-growth-r",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

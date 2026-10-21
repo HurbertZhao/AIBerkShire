@@ -1,0 +1,278 @@
+======================================================================
+报告数据抽检清单
+文件：reports/泡泡玛特/泡泡玛特研究报告-20261020.md
+总提取数据点：131  |  抽样比例：15%  |  抽检数量：20
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+  3     21  收入 · 2023                                   63.01  
+  5     21  收入 · 2025                                  371.20  
+ 14     23  报表经营利润 · 2024                               41.54  
+ 21     25  归母净利润 · 2021                                 8.54  
+ 37     28  CFO－固定资产支出，未扣无形资产与租赁 · 2022                  6.25  
+ 38     28  CFO－固定资产支出，未扣无形资产与租赁 · 2023                 16.66  
+ 44     29  现金及短期投资，第三方取整 · 2024                        96.32  
+ 41     29  现金及短期投资，第三方取整 · 2021                        52.85  
+ 48     43  中国，包括港澳台 · 上半年同比                            47.30  %
+ 51     44  亚太，不含中国 · 上半年同比                             -9.70  %
+ 54     45  美洲 · 上半年同比                                 -16.50  %
+ 61     58  Twinkle Twinkle 星星人 · 同期变化的意义                3.89  亿元
+ 65     62  HIRONO · 2026 上半年收入                         10.09  
+131    132  最强空方论点是                                   2025.00  
+ 86    196  TTM 归母利润 PE · 结果                            12.19  倍
+ 96    223  第 1—5 年 FCFE，亿元 · 基准：多 IP 平台稳住              70.00  
+ 98    224  第 6—10 年现金增长 · 基准：多 IP 平台稳住                  4.00  %
+103    226  第 10 年收入假设 · 基准：多 IP 平台稳住                  650.00  
+115    230  第 10 年现金/利润 · 基准：多 IP 平台稳住                  85.88  %
+117    231  当前股权内在价值，亿元 · 悲观：需求正常化                     520.65  
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 3,
+    "label": "收入 · 2023",
+    "reported_value": 63.01,
+    "unit": "",
+    "line_number": 21,
+    "raw_text": "| 收入 | 44.91 | 46.17 | 63.01 | 130.38 | 371.20 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 5,
+    "label": "收入 · 2025",
+    "reported_value": 371.2,
+    "unit": "",
+    "line_number": 21,
+    "raw_text": "| 收入 | 44.91 | 46.17 | 63.01 | 130.38 | 371.20 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 14,
+    "label": "报表经营利润 · 2024",
+    "reported_value": 41.54,
+    "unit": "",
+    "line_number": 23,
+    "raw_text": "| 报表经营利润 | 11.50 | 5.83 | 12.31 | 41.54 | 168.90 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 21,
+    "label": "归母净利润 · 2021",
+    "reported_value": 8.54,
+    "unit": "",
+    "line_number": 25,
+    "raw_text": "| 归母净利润 | 8.54 | 4.76 | 10.82 | 31.25 | 127.76 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 37,
+    "label": "CFO－固定资产支出，未扣无形资产与租赁 · 2022",
+    "reported_value": 6.25,
+    "unit": "",
+    "line_number": 28,
+    "raw_text": "| CFO－固定资产支出，未扣无形资产与租赁 | 4.92 | 6.25 | 16.66 | 45.82 | 98.80 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 38,
+    "label": "CFO－固定资产支出，未扣无形资产与租赁 · 2023",
+    "reported_value": 16.66,
+    "unit": "",
+    "line_number": 28,
+    "raw_text": "| CFO－固定资产支出，未扣无形资产与租赁 | 4.92 | 6.25 | 16.66 | 45.82 | 98.80 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 44,
+    "label": "现金及短期投资，第三方取整 · 2024",
+    "reported_value": 96.32,
+    "unit": "",
+    "line_number": 29,
+    "raw_text": "| 现金及短期投资，第三方取整 | 52.85 | 50.54 | 59.72 | 96.32 | 172.35 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 41,
+    "label": "现金及短期投资，第三方取整 · 2021",
+    "reported_value": 52.85,
+    "unit": "",
+    "line_number": 29,
+    "raw_text": "| 现金及短期投资，第三方取整 | 52.85 | 50.54 | 59.72 | 96.32 | 172.35 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 48,
+    "label": "中国，包括港澳台 · 上半年同比",
+    "reported_value": 47.3,
+    "unit": "%",
+    "line_number": 43,
+    "raw_text": "| 中国，包括港澳台 | 208.52 | 122.01 | +47.3% | 仍承担主要增量 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 51,
+    "label": "亚太，不含中国 · 上半年同比",
+    "reported_value": -9.7,
+    "unit": "%",
+    "line_number": 44,
+    "raw_text": "| 亚太，不含中国 | 80.11 | 25.75 | -9.7% | 需验证老 IP 与渠道效率 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 54,
+    "label": "美洲 · 上半年同比",
+    "reported_value": -16.5,
+    "unit": "%",
+    "line_number": 45,
+    "raw_text": "| 美洲 | 68.06 | 18.92 | -16.5% | 高基数叠加需求与运营压力 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 61,
+    "label": "Twinkle Twinkle 星星人 · 同期变化的意义",
+    "reported_value": 3.89,
+    "unit": "亿元",
+    "line_number": 58,
+    "raw_text": "| Twinkle Twinkle 星星人 | 26.50 | 上年同期 3.89 亿元，成为重要接力者 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 65,
+    "label": "HIRONO · 2026 上半年收入",
+    "reported_value": 10.09,
+    "unit": "",
+    "line_number": 62,
+    "raw_text": "| HIRONO | 10.09 | 帮助降低单一产品依赖 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 131,
+    "label": "最强空方论点是",
+    "reported_value": 2025.0,
+    "unit": "",
+    "line_number": 132,
+    "raw_text": "最强空方论点是：2025 年的利润包含一个极少见的全球流行周期，公司把这一高峰转换成更大的门店、员工与库存规模，而需求已经回归常态。中国新 IP 的增长暂时掩盖海外减速；库存释放、促销与新增固定成本可能让收入尚可但现金利润持续低于报表。市场",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 86,
+    "label": "TTM 归母利润 PE · 结果",
+    "reported_value": 12.19,
+    "unit": "倍",
+    "line_number": 196,
+    "raw_text": "| TTM 归母利润 PE | 12.19 倍 | TTM 仍包含 2025 下半年高峰 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 96,
+    "label": "第 1—5 年 FCFE，亿元 · 基准：多 IP 平台稳住",
+    "reported_value": 70.0,
+    "unit": "",
+    "line_number": 223,
+    "raw_text": "| 第 1—5 年 FCFE，亿元 | 50、45、40、40、40 | 70、80、90、100、120 | 100、120、150、180、200 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 98,
+    "label": "第 6—10 年现金增长 · 基准：多 IP 平台稳住",
+    "reported_value": 4.0,
+    "unit": "%",
+    "line_number": 224,
+    "raw_text": "| 第 6—10 年现金增长 | 0% | 4% | 7% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 103,
+    "label": "第 10 年收入假设 · 基准：多 IP 平台稳住",
+    "reported_value": 650.0,
+    "unit": "",
+    "line_number": 226,
+    "raw_text": "| 第 10 年收入假设 | 350 | 650 | 1,000 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 115,
+    "label": "第 10 年现金/利润 · 基准：多 IP 平台稳住",
+    "reported_value": 85.88,
+    "unit": "%",
+    "line_number": 230,
+    "raw_text": "| 第 10 年现金/利润 | 57.14% | 85.88% | 87.66% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 117,
+    "label": "当前股权内在价值，亿元 · 悲观：需求正常化",
+    "reported_value": 520.65,
+    "unit": "",
+    "line_number": 231,
+    "raw_text": "| 当前股权内在价值，亿元 | 520.65 | 1,532.73 | 2,820.59 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

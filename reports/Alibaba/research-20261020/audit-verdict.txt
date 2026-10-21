@@ -1,0 +1,53 @@
+======================================================================
+[1m报告数据抽检 — 准出/打回判决[0m
+报告：阿里巴巴研究报告-20261020.md
+======================================================================
+
+  [92m✅ 通过[0m [ 7] FY2022 · 简单FCF                       报告:       894.50 
+                                                    https://stockanalysis.com/quote/hkg/9988/financials/cash-flow-statement/: 894.50 (偏差 0.00%)
+  [92m✅ 通过[0m [ 2] FY2022 · 归普通股净利                      报告:       619.59 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0618/2026061800844.pdf: 619.59 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/9988/financials/income-statement/: 619.59 (偏差 0.00%)
+  [92m✅ 通过[0m [ 9] FY2023 · 归普通股净利                      报告:       725.09 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0618/2026061800844.pdf: 725.09 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/9988/financials/income-statement/: 725.09 (偏差 0.00%)
+  [92m✅ 通过[0m [ 8] FY2023 · 收入                          报告:      8686.87 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0618/2026061800844.pdf: 8686.87 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/9988/financials/income-statement/: 8686.87 (偏差 0.00%)
+  [92m✅ 通过[0m [27] FY2025 · 购建固定资产                      报告:       859.72 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0618/2026061800844.pdf: 859.72 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/9988/financials/cash-flow-statement/: 859.72 (偏差 0.00%)
+  [92m✅ 通过[0m [23] FY2025 · 归普通股净利                      报告:      1294.70 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0618/2026061800844.pdf: 1294.70 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/9988/financials/income-statement/: 1294.70 (偏差 0.00%)
+  [92m✅ 通过[0m [24] FY2025 · 毛利率%                        报告:        39.95 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0618/2026061800844.pdf: 39.95 (偏差 0.01%)  |  https://stockanalysis.com/quote/hkg/9988/financials/income-statement/: 39.95 (偏差 0.00%)
+  [92m✅ 通过[0m [29] FY2026 · 收入                          报告:     10236.70 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0618/2026061800844.pdf: 10236.70 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/9988/financials/income-statement/: 10236.70 (偏差 0.00%)
+  [92m✅ 通过[0m [36] 2026June · 收入                        报告:      2689.53 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000745.pdf: 2689.53 (偏差 0.00%)  |  https://apnews.com/article/8a30302d23a96fc7b9aab664b9c1897d: 2690.00 (偏差 0.02%)
+  [92m✅ 通过[0m [51] 2025年12月季 · 云分部收入                    报告:       432.84 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0319/2026031900801.pdf: 432.84 (偏差 0.00%)
+  [92m✅ 通过[0m [56] 2026年3月季 · 云分部收入                     报告:       416.26 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0513/2026051300653.pdf: 416.26 (偏差 0.00%)  |  https://apnews.com/article/e83a76c7188e27f69c9c3d7e4f8d9d83: 416.00 (偏差 0.06%)
+  [92m✅ 通过[0m [57] 2026年3月季 · 云同比                       报告:        38.00 %
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0513/2026051300653.pdf: 38.00 (偏差 0.00%)  |  https://apnews.com/article/e83a76c7188e27f69c9c3d7e4f8d9d83: 38.00 (偏差 0.00%)
+  [92m✅ 通过[0m [58] 2026年6月季 · 收入                        报告:      2689.53 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000745.pdf: 2689.53 (偏差 0.00%)  |  https://apnews.com/article/8a30302d23a96fc7b9aab664b9c1897d: 2690.00 (偏差 0.02%)
+  [92m✅ 通过[0m [60] 2026年6月季 · 归普通股净利                    报告:       105.37 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000745.pdf: 105.37 (偏差 0.00%)  |  https://apnews.com/article/8a30302d23a96fc7b9aab664b9c1897d: 105.00 (偏差 0.35%)
+  [92m✅ 通过[0m [63] 港股收盘 · 采用值                           报告:       108.80 
+                                                    https://stockanalysis.com/quote/hkg/9988/history/: 108.80 (偏差 0.00%)  |  https://www.webull.hk/quote/hkex-09988: 108.80 (偏差 0.00%)
+  [92m✅ 通过[0m [71] 自算TTM PS · 采用值                       报告:         1.77 倍
+                                                    September monthly shares, price, June/FY filings: 1.77 (偏差 0.20%)
+  [92m✅ 通过[0m [72] PB（六月权益基数） · 采用值                     报告:         1.76 倍
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000745.pdf: 1.76 (偏差 0.02%)
+  [92m✅ 通过[0m [109] 基准 · 第6年至第10年FCFF                    报告:      1500.00 
+                                                    model.py base flows[5]; extraction captures first element only: 1500.00 (偏差 0.00%)
+  [92m✅ 通过[0m [108] 基准 · 第1年至第5年FCFF                     报告:      -500.00 
+                                                    model.py base flows[0]; extraction captures first element only: -500.00 (偏差 0.00%)
+  [92m✅ 通过[0m [115] 悲观 · 五年后净利                           报告:       600.00 
+                                                    model.py bear profit5: 600.00 (偏差 0.00%)
+  [92m✅ 通过[0m [130] 乐观 · 五年末股价/股                         报告:       379.57 
+                                                    profit5 x PE28 / shares / FX: 379.57 (偏差 0.00%)
+
+----------------------------------------------------------------------
+  抽检总数: 21  |  通过: [92m21[0m  |  警告: [93m0[0m  |  不通过: [91m0[0m
+
+[1m[92m【准出】所有抽检数据通过，报告可发布。[0m
+======================================================================
