@@ -1,0 +1,91 @@
+======================================================================
+[1m报告数据抽检 — 准出/打回判决[0m
+报告：reports/泡泡玛特/research-20261022/泡泡玛特投资研究报告-20261022.md
+======================================================================
+
+  [92m✅ 通过[0m [ 7] FY2021 · 无形资产现金采购                    报告:         0.46 
+                                                    https://stockanalysis.com/quote/hkg/9992/financials/cash-flow-statement/: 0.46 (偏差 0.54%)
+  [92m✅ 通过[0m [ 9] FY2022 · 归母净利润                       报告:         4.76 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100395_c.pdf: 4.76 (偏差 0.07%)  |  https://stockanalysis.com/quote/hkg/9992/financials/: 4.76 (偏差 0.07%)
+  [92m✅ 通过[0m [ 8] FY2022 · 收入                          报告:        46.17 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100395_c.pdf: 46.17 (偏差 0.01%)  |  https://stockanalysis.com/quote/hkg/9992/financials/: 46.17 (偏差 0.00%)
+  [92m✅ 通过[0m [27] FY2024 · 固定资产现金采购                    报告:         3.73 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100395_c.pdf: 3.73 (偏差 0.09%)  |  https://stockanalysis.com/quote/hkg/9992/financials/cash-flow-statement/: 3.73 (偏差 0.09%)
+  [92m✅ 通过[0m [23] FY2024 · 归母净利润                       报告:        31.25 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100395_c.pdf: 31.25 (偏差 0.02%)  |  https://stockanalysis.com/quote/hkg/9992/financials/: 31.25 (偏差 0.00%)
+  [92m✅ 通过[0m [24] FY2024 · 毛利率                         报告:        66.80 %
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100395_c.pdf: 66.80 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/9992/financials/: 66.79 (偏差 0.01%)
+  [92m✅ 通过[0m [29] FY2025 · 收入                          报告:       371.20 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100395_c.pdf: 371.20 (偏差 0.00%)  |  https://stockanalysis.com/quote/hkg/9992/financials/: 371.20 (偏差 0.00%)
+  [92m✅ 通过[0m [36] FY2021 · CFO减两项采购，未扣租赁               报告:         4.45 
+                                                    CFO-PPE-intangible; S&P historical inputs: 4.45 (偏差 0.08%)
+  [92m✅ 通过[0m [51] 归母净利润 · 解读                           报告:        10.10 %
+                                                    HKEX H1 attributable profit ratio: 10.14 (偏差 0.43%)
+  [92m✅ 通过[0m [58] 报表经营利润 · 解读                          报告:        11.30 %
+                                                    HKEX H1 operating profit ratio: 11.27 (偏差 0.28%)
+  [92m✅ 通过[0m [56] 报表经营利润 · 2025H1                      报告:        60.44 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400544.pdf: 60.44 (偏差 0.00%)
+  [92m✅ 通过[0m [57] 报表经营利润 · 2026H1                      报告:        67.25 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400544.pdf: 67.25 (偏差 0.00%)  |  https://www.guandian.cn/article/20260820/588017.html: 67.25 (偏差 0.00%)
+  [92m✅ 通过[0m [60] 经营现金流净额 · 2026H1                     报告:        36.37 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400544.pdf: 36.37 (偏差 0.01%)  |  https://finance.sina.com.cn/stock/relnews/hk/2026-08-21/doc-iniparan1301568.shtml: 36.37 (偏差 0.00%)
+  [92m✅ 通过[0m [71] MOLLY · 2026H1收入                     报告:         9.01 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400544.pdf: 9.01 (偏差 0.04%)
+  [92m✅ 通过[0m [109] 经营现金流 · 2026H1                       报告:        36.37 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400544.pdf: 36.37 (偏差 0.01%)  |  https://finance.sina.com.cn/stock/relnews/hk/2026-08-21/doc-iniparan1301568.shtml: 36.37 (偏差 0.00%)
+  [92m✅ 通过[0m [108] 经营现金流 · 2025H1                       报告:        59.77 
+                                                    https://www.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400544.pdf: 59.77 (偏差 0.01%)
+  [92m✅ 通过[0m [115] 无形资产现金采购 · 2025全年                    报告:         1.86 
+                                                    https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100395_c.pdf: 1.86 (偏差 0.15%)  |  https://stockanalysis.com/quote/hkg/9992/financials/cash-flow-statement/: 1.86 (偏差 0.16%)
+  [92m✅ 通过[0m [130] 悲观 · FY2026归母净利润                     报告:        83.62 
+                                                    Author H2 assumptions; arithmetic only: 83.62 (偏差 0.00%)
+  [92m✅ 通过[0m [140] 乐观 · 三年退出PE                          报告:        24.00 
+                                                    Explicit author input specification: 乐观 · 三年退出PE: 24.00 (偏差 0.00%)
+  [92m✅ 通过[0m [144] 乐观 · 再留25%边际HKD                      报告:       203.48 
+                                                    Independent Decimal three-year model: 203.48 (偏差 0.00%)
+  [92m✅ 通过[0m [152] 悲观 · 三年退出PE                          报告:        12.00 
+                                                    Explicit author input specification: 悲观 · 三年退出PE: 12.00 (偏差 0.00%)
+  [92m✅ 通过[0m [155] 悲观 · 今日折现值HKD                        报告:        53.50 
+                                                    Independent Decimal three-year model: 53.50 (偏差 0.01%)
+  [92m✅ 通过[0m [151] 悲观 · 年利润增速假设                         报告:       -12.00 %
+                                                    Explicit author input specification: 悲观 · 年利润增速假设: -12.00 (偏差 0.00%)
+  [92m✅ 通过[0m [164] 悲观 · FY2036归母利润假设                    报告:        50.00 亿元
+                                                    Explicit author input specification: 悲观 · FY2036归母利润假设: 50.00 (偏差 0.00%)
+  [92m✅ 通过[0m [170] 基准 · 终值PE                            报告:        13.71 
+                                                    (1-.01/.25)/(.08-.01): 13.71 (偏差 0.03%)
+  [92m✅ 通过[0m [176] 乐观 · 十年年化回报近似                        报告:        12.98 %
+                                                    Independent Decimal terminal return, not exact dividend-date IRR: 12.98 (偏差 0.02%)
+  [92m✅ 通过[0m [1027] 股价乘股本，港元亿                            报告:      1728.65 
+                                                    HKEX Sep shares and Oct21 close; Decimal: 1728.65 (偏差 0.00%)
+  [92m✅ 通过[0m [1028] 人民币市值                                报告:      1480.05 
+                                                    HKD market cap times .85619 midpoint: 1480.05 (偏差 0.00%)
+  [92m✅ 通过[0m [1029] 2026H1租赁后合并现金                        报告:        24.10 
+                                                    HKEX CFO minus PPE, intangible, lease cash payments: 24.10 (偏差 0.01%)
+  [92m✅ 通过[0m [1030] TTM租赁后合并现金                           报告:        61.56 
+                                                    FY25-H125+H126 cash bridge: 61.56 (偏差 0.00%)
+  [92m✅ 通过[0m [1031] 现金定存减租赁                              报告:       104.36 
+                                                    HKEX cash and deposit footnotes; not added to equity DCF: 104.36 (偏差 0.00%)
+  [92m✅ 通过[0m [1032] 新IP占增量比例                             报告:        68.60 
+                                                    HKEX group/IP revenue deltas: 68.57 (偏差 0.04%)
+  [92m✅ 通过[0m [1033] 基准三年折现价港元                            报告:       140.24 
+                                                    Independent Decimal: 140.24 (偏差 0.00%)
+  [92m✅ 通过[0m [1034] 基准安全边际价港元                            报告:       105.18 
+                                                    Independent Decimal: 105.18 (偏差 0.00%)
+  [92m✅ 通过[0m [1035] 80现金零增长反向DCF港元                       报告:        93.97 
+                                                    Closed-form annuity plus perpetual terminal; independent of model summation: 93.97 (偏差 0.00%)
+  [92m✅ 通过[0m [1036] r=.06加权十年回报                          报告:         7.00 
+                                                    Independent Decimal terminal PE and weighted geometric returns: 7.00 (偏差 0.00%)
+  [92m✅ 通过[0m [1037] r=.07加权十年回报                          报告:         5.17 
+                                                    Independent Decimal terminal PE and weighted geometric returns: 5.17 (偏差 0.04%)
+  [92m✅ 通过[0m [1038] r=.08加权十年回报                          报告:         3.64 
+                                                    Independent Decimal terminal PE and weighted geometric returns: 3.64 (偏差 0.08%)
+  [92m✅ 通过[0m [1039] r=.09加权十年回报                          报告:         2.33 
+                                                    Independent Decimal terminal PE and weighted geometric returns: 2.33 (偏差 0.04%)
+  [92m✅ 通过[0m [1040] r=.10加权十年回报                          报告:         1.18 
+                                                    Independent Decimal terminal PE and weighted geometric returns: 1.18 (偏差 0.31%)
+
+----------------------------------------------------------------------
+  抽检总数: 40  |  通过: [92m40[0m  |  警告: [93m0[0m  |  不通过: [91m0[0m
+
+[1m[92m【准出】所有抽检数据通过，报告可发布。[0m
+======================================================================

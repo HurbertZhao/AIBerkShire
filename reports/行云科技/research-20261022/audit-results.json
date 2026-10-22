@@ -1,0 +1,74 @@
+[
+  {
+    "id": 2,
+    "label": "跨境数字贸易 · 占比",
+    "reported_value": 59.77,
+    "unit": "%",
+    "line_number": 15,
+    "raw_text": "| 跨境数字贸易 | 15195.23 | 59.77% |",
+    "fetched_value": 59.77,
+    "fetched_source": "巨潮资讯2026半年报",
+    "fetched_value2": 59.77,
+    "fetched_source2": "证券之星主营构成"
+  },
+  {
+    "id": 8,
+    "label": "其余 · 占比",
+    "reported_value": 2.18,
+    "unit": "%",
+    "line_number": 18,
+    "raw_text": "| 其余 | 555.30 | 2.18% |",
+    "fetched_value": 2.18,
+    "fetched_source": "巨潮资讯2026半年报",
+    "fetched_value2": 2.18,
+    "fetched_source2": "证券之星主营构成"
+  },
+  {
+    "id": 9,
+    "label": "上半年收入 · 数值",
+    "reported_value": 2.5421,
+    "unit": "亿元",
+    "line_number": 38,
+    "raw_text": "| 上半年收入 | 2.5421亿元 |",
+    "fetched_value": 2.5420938377,
+    "fetched_source": "巨潮资讯2026半年报",
+    "fetched_value2": 2.5421,
+    "fetched_source2": "证券之星主要指标"
+  },
+  {
+    "id": 15,
+    "label": "期末货币资金 · 数值",
+    "reported_value": 6.4182,
+    "unit": "亿元",
+    "line_number": 44,
+    "raw_text": "| 期末货币资金 | 6.4182亿元 |",
+    "fetched_value": 6.4181895292,
+    "fetched_source": "巨潮资讯2026半年报",
+    "fetched_value2": 6.42,
+    "fetched_source2": "weidn资产负债表"
+  },
+  {
+    "id": 16,
+    "label": "期末应付账款 · 数值",
+    "reported_value": 14.4033,
+    "unit": "亿元",
+    "line_number": 45,
+    "raw_text": "| 期末应付账款 | 14.4033亿元 |",
+    "fetched_value": 14.4033144471,
+    "fetched_source": "巨潮资讯2026半年报",
+    "fetched_value2": 14.4,
+    "fetched_source2": "weidn资产负债表"
+  },
+  {
+    "id": 18,
+    "label": "期末在建工程 · 数值",
+    "reported_value": 19.9187,
+    "unit": "亿元",
+    "line_number": 47,
+    "raw_text": "| 期末在建工程 | 19.9187亿元 |",
+    "fetched_value": 19.9187325852,
+    "fetched_source": "巨潮资讯2026半年报",
+    "fetched_value2": 19.92,
+    "fetched_source2": "新浪财报解读（非独立审计）"
+  }
+]

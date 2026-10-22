@@ -1,0 +1,136 @@
+======================================================================
+报告数据抽检清单
+文件：/workspace/work/catl-20261022/宁德时代投资研究报告-20261022.md
+总提取数据点：56  |  抽样比例：15%  |  抽检数量：9
+随机种子：42（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+  2     15  动力电池 · 占比                                   74.70  %
+  8     17  材料及回收 · 占比                                   5.16  %
+  9     17  材料及回收 · 毛利率                                 27.27  %
+ 15     43  前三季度收入 · 数值                               4421.37  亿元
+ 16     44  前三季度归母 · 数值                                645.30  亿元
+ 18     46  前三季度经营现金流 · 数值                             616.25  亿元
+ 41    139  悲观 · 年增速                                   -10.00  %
+ 48    152  基准 · 2036利润（亿元）                           1600.00  
+ 53    163  9%补查 · 加权情景IRR                               6.67  %
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 2,
+    "label": "动力电池 · 占比",
+    "reported_value": 74.7,
+    "unit": "%",
+    "line_number": 15,
+    "raw_text": "| 动力电池 | 3165.06 | 74.70% | 23.84% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 8,
+    "label": "材料及回收 · 占比",
+    "reported_value": 5.16,
+    "unit": "%",
+    "line_number": 17,
+    "raw_text": "| 材料及回收 | 218.61 | 5.16% | 27.27% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 9,
+    "label": "材料及回收 · 毛利率",
+    "reported_value": 27.27,
+    "unit": "%",
+    "line_number": 17,
+    "raw_text": "| 材料及回收 | 218.61 | 5.16% | 27.27% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 15,
+    "label": "前三季度收入 · 数值",
+    "reported_value": 4421.37,
+    "unit": "亿元",
+    "line_number": 43,
+    "raw_text": "| 前三季度收入 | 4421.37亿元 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 16,
+    "label": "前三季度归母 · 数值",
+    "reported_value": 645.3,
+    "unit": "亿元",
+    "line_number": 44,
+    "raw_text": "| 前三季度归母 | 645.30亿元 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 18,
+    "label": "前三季度经营现金流 · 数值",
+    "reported_value": 616.25,
+    "unit": "亿元",
+    "line_number": 46,
+    "raw_text": "| 前三季度经营现金流 | 616.25亿元 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 41,
+    "label": "悲观 · 年增速",
+    "reported_value": -10.0,
+    "unit": "%",
+    "line_number": 139,
+    "raw_text": "| 悲观 | -10% | 619.65 | 10 | 133.91 | 106.30 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 48,
+    "label": "基准 · 2036利润（亿元）",
+    "reported_value": 1600.0,
+    "unit": "",
+    "line_number": 152,
+    "raw_text": "| 基准 | 1600 | 9.43% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 53,
+    "label": "9%补查 · 加权情景IRR",
+    "reported_value": 6.67,
+    "unit": "%",
+    "line_number": 163,
+    "raw_text": "| 9%补查 | 6.67% | 未通过 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

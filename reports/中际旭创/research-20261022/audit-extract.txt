@@ -1,0 +1,123 @@
+======================================================================
+报告数据抽检清单
+文件：/workspace/work/innolight-20261022/中际旭创投资研究报告-20261022.md
+总提取数据点：53  |  抽样比例：15%  |  抽检数量：8
+随机种子：42（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+  2     15  2025光通信收发模块 · 毛利率                           42.61  %
+  8     43  归母净利润 · 数值                                 136.51  亿元
+  9     44  扣非归母净利润 · 数值                               130.92  亿元
+ 15     50  应收账款 · 数值                                  150.01  亿元
+ 16     51  存货 · 数值                                    198.26  亿元
+ 18     53  长期应付款 · 数值                                  50.57  亿元
+ 41    154  悲观 · 退出PE                                   15.00  
+ 48    170  乐观 · 2036归母（亿元）                           1200.00  
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 2,
+    "label": "2025光通信收发模块 · 毛利率",
+    "reported_value": 42.61,
+    "unit": "%",
+    "line_number": 15,
+    "raw_text": "| 2025光通信收发模块 | 374.57 | 42.61% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 8,
+    "label": "归母净利润 · 数值",
+    "reported_value": 136.51,
+    "unit": "亿元",
+    "line_number": 43,
+    "raw_text": "| 归母净利润 | 136.51亿元 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 9,
+    "label": "扣非归母净利润 · 数值",
+    "reported_value": 130.92,
+    "unit": "亿元",
+    "line_number": 44,
+    "raw_text": "| 扣非归母净利润 | 130.92亿元 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 15,
+    "label": "应收账款 · 数值",
+    "reported_value": 150.01,
+    "unit": "亿元",
+    "line_number": 50,
+    "raw_text": "| 应收账款 | 150.01亿元 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 16,
+    "label": "存货 · 数值",
+    "reported_value": 198.26,
+    "unit": "亿元",
+    "line_number": 51,
+    "raw_text": "| 存货 | 198.26亿元 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 18,
+    "label": "长期应付款 · 数值",
+    "reported_value": 50.57,
+    "unit": "亿元",
+    "line_number": 53,
+    "raw_text": "| 长期应付款 | 50.57亿元 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 41,
+    "label": "悲观 · 退出PE",
+    "reported_value": 15.0,
+    "unit": "",
+    "line_number": 154,
+    "raw_text": "| 悲观 | -10% | 218.70 | 15 | 278.50 | 221.08 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 48,
+    "label": "乐观 · 2036归母（亿元）",
+    "reported_value": 1200.0,
+    "unit": "",
+    "line_number": 170,
+    "raw_text": "| 乐观 | 1200 | 8.19% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]
